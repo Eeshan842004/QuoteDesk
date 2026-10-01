@@ -1,0 +1,12 @@
+{
+  "system": "tuned",
+  "splits": {
+    "exam": {
+      "item_f1": 0.75,
+      "json_validity_rate": 0.97,
+      "per_intent_accuracy": {
+        "quote_request": 0.95
+      }
+    }
+  }
+}

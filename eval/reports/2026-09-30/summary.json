@@ -1,0 +1,811 @@
+{
+  "run": "2026-09-30",
+  "created": "2026-10-01T11:26:09",
+  "systems": {
+    "base": {
+      "label": "Base Gemma 3 270M (3-shot)",
+      "model": "unsloth/gemma-3-270m-it (3-shot)",
+      "splits": {
+        "exam": {
+          "n": 150,
+          "intent_accuracy": 0.5067,
+          "json_validity_rate": 0.66,
+          "item_precision": 0.1703,
+          "item_recall": 0.1794,
+          "item_f1": 0.1747,
+          "quantity_accuracy": 0.3052,
+          "part_number_accuracy": 0.2174,
+          "compatible_with_accuracy": 0.0,
+          "missing_info_precision": 0.0,
+          "missing_info_recall": 0.0,
+          "missing_info_f1": 0.0,
+          "urgency_accuracy": 0.56,
+          "exact_match_rate": 0.0067,
+          "per_intent_accuracy": {
+            "order_status": 0.0,
+            "other": 0.0,
+            "product_question": 0.5,
+            "quote_request": 0.6875,
+            "return_request": 0.23076923076923078
+          },
+          "per_intent_n": {
+            "order_status": 16,
+            "other": 11,
+            "product_question": 14,
+            "quote_request": 96,
+            "return_request": 13
+          },
+          "latency_p50_s": 1.2609,
+          "latency_p95_s": 1.8841,
+          "escalation_rate": null,
+          "cost_per_1k_usd": null,
+          "wall_time_s": 0.0,
+          "errors": 0
+        },
+        "exam_hard": {
+          "n": 30,
+          "intent_accuracy": 0.3667,
+          "json_validity_rate": 0.4667,
+          "item_precision": 0.2791,
+          "item_recall": 0.2727,
+          "item_f1": 0.2759,
+          "quantity_accuracy": 0.6316,
+          "part_number_accuracy": 0.0,
+          "compatible_with_accuracy": 0.0,
+          "missing_info_precision": 0.0,
+          "missing_info_recall": 0.0,
+          "missing_info_f1": 0.0,
+          "urgency_accuracy": 0.6,
+          "exact_match_rate": 0.0333,
+          "per_intent_accuracy": {
+            "order_status": 0.0,
+            "product_question": 0.6666666666666666,
+            "quote_request": 0.36
+          },
+          "per_intent_n": {
+            "order_status": 2,
+            "product_question": 3,
+            "quote_request": 25
+          },
+          "latency_p50_s": 0.908,
+          "latency_p95_s": 1.0846,
+          "escalation_rate": null,
+          "cost_per_1k_usd": null,
+          "wall_time_s": 0.0,
+          "errors": 0
+        }
+      },
+      "hardware": "Tesla T4",
+      "latency_note": null,
+      "cost_note": null,
+      "created": "2026-10-01T03:18:27"
+    },
+    "tuned": {
+      "label": "Fine-tuned Gemma 3 270M (GPU, notebook)",
+      "model": "unsloth/gemma-3-270m-it+lora:v1",
+      "splits": {
+        "val": {
+          "n": 150,
+          "intent_accuracy": 0.9933,
+          "json_validity_rate": 0.9933,
+          "item_precision": 0.9725,
+          "item_recall": 0.9538,
+          "item_f1": 0.9631,
+          "quantity_accuracy": 0.9725,
+          "part_number_accuracy": 1.0,
+          "compatible_with_accuracy": 0.8696,
+          "missing_info_precision": 0.1613,
+          "missing_info_recall": 0.0909,
+          "missing_info_f1": 0.1163,
+          "urgency_accuracy": 0.98,
+          "exact_match_rate": 0.5733,
+          "per_intent_accuracy": {
+            "order_status": 1.0,
+            "other": 1.0,
+            "product_question": 1.0,
+            "quote_request": 0.9895833333333334,
+            "return_request": 1.0
+          },
+          "per_intent_n": {
+            "order_status": 16,
+            "other": 11,
+            "product_question": 14,
+            "quote_request": 96,
+            "return_request": 13
+          },
+          "latency_p50_s": 1.2402,
+          "latency_p95_s": 1.7012,
+          "escalation_rate": null,
+          "cost_per_1k_usd": null,
+          "wall_time_s": 0.0,
+          "errors": 0
+        },
+        "exam": {
+          "n": 150,
+          "intent_accuracy": 0.98,
+          "json_validity_rate": 0.9867,
+          "item_precision": 0.9266,
+          "item_recall": 0.916,
+          "item_f1": 0.9213,
+          "quantity_accuracy": 0.9339,
+          "part_number_accuracy": 0.9821,
+          "compatible_with_accuracy": 0.84,
+          "missing_info_precision": 0.1389,
+          "missing_info_recall": 0.1316,
+          "missing_info_f1": 0.1351,
+          "urgency_accuracy": 0.9733,
+          "exact_match_rate": 0.6,
+          "per_intent_accuracy": {
+            "order_status": 1.0,
+            "other": 1.0,
+            "product_question": 0.9285714285714286,
+            "quote_request": 0.9791666666666666,
+            "return_request": 1.0
+          },
+          "per_intent_n": {
+            "order_status": 16,
+            "other": 11,
+            "product_question": 14,
+            "quote_request": 96,
+            "return_request": 13
+          },
+          "latency_p50_s": 1.0266,
+          "latency_p95_s": 2.0577,
+          "escalation_rate": null,
+          "cost_per_1k_usd": null,
+          "wall_time_s": 0.0,
+          "errors": 0
+        },
+        "exam_hard": {
+          "n": 30,
+          "intent_accuracy": 0.6,
+          "json_validity_rate": 0.6667,
+          "item_precision": 0.7436,
+          "item_recall": 0.6591,
+          "item_f1": 0.6988,
+          "quantity_accuracy": 0.8286,
+          "part_number_accuracy": 1.0,
+          "compatible_with_accuracy": 1.0,
+          "missing_info_precision": 0.0,
+          "missing_info_recall": 0.0,
+          "missing_info_f1": 0.0,
+          "urgency_accuracy": 0.9333,
+          "exact_match_rate": 0.2667,
+          "per_intent_accuracy": {
+            "order_status": 0.5,
+            "product_question": 1.0,
+            "quote_request": 0.56
+          },
+          "per_intent_n": {
+            "order_status": 2,
+            "product_question": 3,
+            "quote_request": 25
+          },
+          "latency_p50_s": 0.7219,
+          "latency_p95_s": 1.2877,
+          "escalation_rate": null,
+          "cost_per_1k_usd": null,
+          "wall_time_s": 0.0,
+          "errors": 0
+        }
+      },
+      "hardware": "Tesla T4",
+      "latency_note": "GPU batch latency; CPU latency is measured separately in eval/run_eval.py",
+      "cost_note": null,
+      "created": "2026-10-01T03:14:17"
+    },
+    "tuned_cpu": {
+      "label": "Fine-tuned Gemma 3 270M (CPU)",
+      "model": "unsloth/gemma-3-270m-it+Eeshan082004/quotedesk-student@v1",
+      "splits": {
+        "exam": {
+          "n": 150,
+          "intent_accuracy": 0.98,
+          "json_validity_rate": 0.9867,
+          "item_precision": 0.938,
+          "item_recall": 0.9237,
+          "item_f1": 0.9308,
+          "quantity_accuracy": 0.9416,
+          "part_number_accuracy": 0.9821,
+          "compatible_with_accuracy": 0.84,
+          "missing_info_precision": 0.1622,
+          "missing_info_recall": 0.1579,
+          "missing_info_f1": 0.16,
+          "urgency_accuracy": 0.9733,
+          "exact_match_rate": 0.5867,
+          "per_intent_accuracy": {
+            "order_status": 1.0,
+            "other": 1.0,
+            "product_question": 0.9285714285714286,
+            "quote_request": 0.9791666666666666,
+            "return_request": 1.0
+          },
+          "per_intent_n": {
+            "order_status": 16,
+            "other": 11,
+            "product_question": 14,
+            "quote_request": 96,
+            "return_request": 13
+          },
+          "latency_p50_s": 7.4043,
+          "latency_p95_s": 22.3215,
+          "escalation_rate": null,
+          "cost_per_1k_usd": 0.3453,
+          "wall_time_s": 1485.4,
+          "errors": 0,
+          "sku_resolution_accuracy": 0.9347,
+          "sku_items": 245
+        },
+        "exam_hard": {
+          "n": 30,
+          "intent_accuracy": 0.6,
+          "json_validity_rate": 0.6667,
+          "item_precision": 0.7436,
+          "item_recall": 0.6591,
+          "item_f1": 0.6988,
+          "quantity_accuracy": 0.8286,
+          "part_number_accuracy": 1.0,
+          "compatible_with_accuracy": 1.0,
+          "missing_info_precision": 0.0,
+          "missing_info_recall": 0.0,
+          "missing_info_f1": 0.0,
+          "urgency_accuracy": 0.9333,
+          "exact_match_rate": 0.2667,
+          "per_intent_accuracy": {
+            "order_status": 0.5,
+            "product_question": 1.0,
+            "quote_request": 0.56
+          },
+          "per_intent_n": {
+            "order_status": 2,
+            "product_question": 3,
+            "quote_request": 25
+          },
+          "latency_p50_s": 7.3354,
+          "latency_p95_s": 14.2141,
+          "escalation_rate": null,
+          "cost_per_1k_usd": 0.2928,
+          "wall_time_s": 252.2,
+          "errors": 0,
+          "sku_resolution_accuracy": 0.8333,
+          "sku_items": 36
+        },
+        "val": {
+          "n": 150,
+          "intent_accuracy": 0.9933,
+          "json_validity_rate": 0.9933,
+          "item_precision": 0.9725,
+          "item_recall": 0.9538,
+          "item_f1": 0.9631,
+          "quantity_accuracy": 0.9725,
+          "part_number_accuracy": 1.0,
+          "compatible_with_accuracy": 0.8696,
+          "missing_info_precision": 0.125,
+          "missing_info_recall": 0.0727,
+          "missing_info_f1": 0.092,
+          "urgency_accuracy": 0.98,
+          "exact_match_rate": 0.5733,
+          "per_intent_accuracy": {
+            "order_status": 1.0,
+            "other": 1.0,
+            "product_question": 1.0,
+            "quote_request": 0.9895833333333334,
+            "return_request": 1.0
+          },
+          "per_intent_n": {
+            "order_status": 16,
+            "other": 11,
+            "product_question": 14,
+            "quote_request": 96,
+            "return_request": 13
+          },
+          "latency_p50_s": 8.9287,
+          "latency_p95_s": 22.3677,
+          "escalation_rate": null,
+          "cost_per_1k_usd": 0.3663,
+          "wall_time_s": 1578.6,
+          "errors": 0,
+          "sku_resolution_accuracy": 0.9534,
+          "sku_items": 236
+        }
+      },
+      "hardware": "local CPU",
+      "latency_note": "single-email greedy decoding on CPU (what the deployed backend does)",
+      "cost_note": "estimate: inference seconds x container price (excludes idle time)",
+      "created": "2026-10-01T10:26:27"
+    },
+    "tuned_cpu_norm": {
+      "label": "Fine-tuned Gemma 3 270M (CPU) + rule fixes",
+      "model": "student + NORMALIZE rules",
+      "splits": {
+        "exam": {
+          "n": 150,
+          "intent_accuracy": 0.98,
+          "json_validity_rate": 0.9867,
+          "item_precision": 0.938,
+          "item_recall": 0.9237,
+          "item_f1": 0.9308,
+          "quantity_accuracy": 0.9416,
+          "part_number_accuracy": 0.9821,
+          "compatible_with_accuracy": 0.84,
+          "missing_info_precision": 0.6757,
+          "missing_info_recall": 0.6579,
+          "missing_info_f1": 0.6667,
+          "urgency_accuracy": 0.9733,
+          "exact_match_rate": 0.7133,
+          "per_intent_accuracy": {
+            "order_status": 1.0,
+            "other": 1.0,
+            "product_question": 0.9285714285714286,
+            "quote_request": 0.9791666666666666,
+            "return_request": 1.0
+          },
+          "per_intent_n": {
+            "order_status": 16,
+            "other": 11,
+            "product_question": 14,
+            "quote_request": 96,
+            "return_request": 13
+          },
+          "latency_p50_s": 7.4043,
+          "latency_p95_s": 22.3215,
+          "escalation_rate": null,
+          "cost_per_1k_usd": 0.3453,
+          "wall_time_s": 0.5,
+          "errors": 0,
+          "sku_resolution_accuracy": 0.9347,
+          "sku_items": 245
+        },
+        "exam_hard": {
+          "n": 30,
+          "intent_accuracy": 0.6,
+          "json_validity_rate": 0.6667,
+          "item_precision": 0.7436,
+          "item_recall": 0.6591,
+          "item_f1": 0.6988,
+          "quantity_accuracy": 0.8286,
+          "part_number_accuracy": 1.0,
+          "compatible_with_accuracy": 1.0,
+          "missing_info_precision": 0.125,
+          "missing_info_recall": 0.1429,
+          "missing_info_f1": 0.1333,
+          "urgency_accuracy": 0.9333,
+          "exact_match_rate": 0.2333,
+          "per_intent_accuracy": {
+            "order_status": 0.5,
+            "product_question": 1.0,
+            "quote_request": 0.56
+          },
+          "per_intent_n": {
+            "order_status": 2,
+            "product_question": 3,
+            "quote_request": 25
+          },
+          "latency_p50_s": 7.3354,
+          "latency_p95_s": 14.2141,
+          "escalation_rate": null,
+          "cost_per_1k_usd": 0.2928,
+          "wall_time_s": 0.0,
+          "errors": 0,
+          "sku_resolution_accuracy": 0.8333,
+          "sku_items": 36
+        },
+        "val": {
+          "n": 150,
+          "intent_accuracy": 0.9933,
+          "json_validity_rate": 0.9933,
+          "item_precision": 0.9725,
+          "item_recall": 0.9538,
+          "item_f1": 0.9631,
+          "quantity_accuracy": 0.9725,
+          "part_number_accuracy": 1.0,
+          "compatible_with_accuracy": 0.8696,
+          "missing_info_precision": 0.8125,
+          "missing_info_recall": 0.7091,
+          "missing_info_f1": 0.7573,
+          "urgency_accuracy": 0.98,
+          "exact_match_rate": 0.7267,
+          "per_intent_accuracy": {
+            "order_status": 1.0,
+            "other": 1.0,
+            "product_question": 1.0,
+            "quote_request": 0.9895833333333334,
+            "return_request": 1.0
+          },
+          "per_intent_n": {
+            "order_status": 16,
+            "other": 11,
+            "product_question": 14,
+            "quote_request": 96,
+            "return_request": 13
+          },
+          "latency_p50_s": 8.9287,
+          "latency_p95_s": 22.3677,
+          "escalation_rate": null,
+          "cost_per_1k_usd": 0.3663,
+          "wall_time_s": 0.0,
+          "errors": 0,
+          "sku_resolution_accuracy": 0.9534,
+          "sku_items": 236
+        }
+      },
+      "hardware": "local CPU",
+      "latency_note": "same CPU decoding; NORMALIZE adds < 1 ms",
+      "cost_note": "estimate: inference seconds x container price (excludes idle time)",
+      "created": "2026-10-01T11:26:06"
+    },
+    "teacher": {
+      "label": "Gemini 3.8 Flash (teacher)",
+      "model": "gemini-3-8-flash",
+      "splits": {
+        "exam": {
+          "n": 150,
+          "intent_accuracy": 0.9733,
+          "json_validity_rate": 1.0,
+          "item_precision": 0.9695,
+          "item_recall": 0.9695,
+          "item_f1": 0.9695,
+          "quantity_accuracy": 0.9695,
+          "part_number_accuracy": 0.9825,
+          "compatible_with_accuracy": 0.8462,
+          "missing_info_precision": 0.8605,
+          "missing_info_recall": 0.9737,
+          "missing_info_f1": 0.9136,
+          "urgency_accuracy": 0.92,
+          "exact_match_rate": 0.54,
+          "per_intent_accuracy": {
+            "order_status": 1.0,
+            "other": 1.0,
+            "product_question": 1.0,
+            "quote_request": 0.9583333333333334,
+            "return_request": 1.0
+          },
+          "per_intent_n": {
+            "order_status": 16,
+            "other": 11,
+            "product_question": 14,
+            "quote_request": 96,
+            "return_request": 13
+          },
+          "latency_p50_s": 7.8719,
+          "latency_p95_s": 123.2492,
+          "escalation_rate": null,
+          "cost_per_1k_usd": 1.0636,
+          "wall_time_s": 1.2,
+          "errors": 0,
+          "sku_resolution_accuracy": 0.951,
+          "sku_items": 245
+        },
+        "exam_hard": {
+          "n": 30,
+          "intent_accuracy": 1.0,
+          "json_validity_rate": 1.0,
+          "item_precision": 1.0,
+          "item_recall": 1.0,
+          "item_f1": 1.0,
+          "quantity_accuracy": 1.0,
+          "part_number_accuracy": 1.0,
+          "compatible_with_accuracy": 0.75,
+          "missing_info_precision": 0.875,
+          "missing_info_recall": 1.0,
+          "missing_info_f1": 0.9333,
+          "urgency_accuracy": 1.0,
+          "exact_match_rate": 0.8333,
+          "per_intent_accuracy": {
+            "order_status": 1.0,
+            "product_question": 1.0,
+            "quote_request": 1.0
+          },
+          "per_intent_n": {
+            "order_status": 2,
+            "product_question": 3,
+            "quote_request": 25
+          },
+          "latency_p50_s": 5.1644,
+          "latency_p95_s": 65.4368,
+          "escalation_rate": null,
+          "cost_per_1k_usd": 0.9466,
+          "wall_time_s": 0.1,
+          "errors": 0,
+          "sku_resolution_accuracy": 1.0,
+          "sku_items": 36
+        },
+        "val": {
+          "n": 150,
+          "intent_accuracy": 0.9867,
+          "json_validity_rate": 1.0,
+          "item_precision": 0.9923,
+          "item_recall": 0.9923,
+          "item_f1": 0.9923,
+          "quantity_accuracy": 0.9923,
+          "part_number_accuracy": 1.0,
+          "compatible_with_accuracy": 0.8077,
+          "missing_info_precision": 0.9138,
+          "missing_info_recall": 0.9636,
+          "missing_info_f1": 0.9381,
+          "urgency_accuracy": 0.9467,
+          "exact_match_rate": 0.6733,
+          "per_intent_accuracy": {
+            "order_status": 1.0,
+            "other": 1.0,
+            "product_question": 1.0,
+            "quote_request": 0.9791666666666666,
+            "return_request": 1.0
+          },
+          "per_intent_n": {
+            "order_status": 16,
+            "other": 11,
+            "product_question": 14,
+            "quote_request": 96,
+            "return_request": 13
+          },
+          "latency_p50_s": 10.9106,
+          "latency_p95_s": 119.0418,
+          "escalation_rate": null,
+          "cost_per_1k_usd": 1.0739,
+          "wall_time_s": 2534.3,
+          "errors": 0,
+          "sku_resolution_accuracy": 0.9831,
+          "sku_items": 236
+        }
+      },
+      "hardware": null,
+      "latency_note": "wall-clock per email through the KIE proxy (streaming, includes queueing)",
+      "cost_note": "measured tokens x published paid-tier price",
+      "created": "2026-10-01T10:13:13"
+    },
+    "harness": {
+      "label": "Full harness (student + router + teacher)",
+      "model": "student+router(t=0.66)+teacher",
+      "splits": {
+        "exam": {
+          "n": 150,
+          "intent_accuracy": 0.9933,
+          "json_validity_rate": 1.0,
+          "item_precision": 0.9618,
+          "item_recall": 0.9618,
+          "item_f1": 0.9618,
+          "quantity_accuracy": 0.9618,
+          "part_number_accuracy": 0.9825,
+          "compatible_with_accuracy": 0.8519,
+          "missing_info_precision": 0.8125,
+          "missing_info_recall": 0.6842,
+          "missing_info_f1": 0.7429,
+          "urgency_accuracy": 0.98,
+          "exact_match_rate": 0.74,
+          "per_intent_accuracy": {
+            "order_status": 1.0,
+            "other": 1.0,
+            "product_question": 0.9285714285714286,
+            "quote_request": 1.0,
+            "return_request": 1.0
+          },
+          "per_intent_n": {
+            "order_status": 16,
+            "other": 11,
+            "product_question": 14,
+            "quote_request": 96,
+            "return_request": 13
+          },
+          "latency_p50_s": 8.35,
+          "latency_p95_s": 28.2629,
+          "escalation_rate": 0.0933,
+          "cost_per_1k_usd": 0.454,
+          "wall_time_s": 0.5,
+          "errors": 0,
+          "sku_resolution_accuracy": 0.951,
+          "sku_items": 245
+        },
+        "exam_hard": {
+          "n": 30,
+          "intent_accuracy": 0.9333,
+          "json_validity_rate": 1.0,
+          "item_precision": 0.9512,
+          "item_recall": 0.8864,
+          "item_f1": 0.9176,
+          "quantity_accuracy": 0.975,
+          "part_number_accuracy": 1.0,
+          "compatible_with_accuracy": 0.75,
+          "missing_info_precision": 0.3333,
+          "missing_info_recall": 0.2857,
+          "missing_info_f1": 0.3077,
+          "urgency_accuracy": 0.9667,
+          "exact_match_rate": 0.6,
+          "per_intent_accuracy": {
+            "order_status": 0.5,
+            "product_question": 1.0,
+            "quote_request": 0.96
+          },
+          "per_intent_n": {
+            "order_status": 2,
+            "product_question": 3,
+            "quote_request": 25
+          },
+          "latency_p50_s": 9.6529,
+          "latency_p95_s": 62.1479,
+          "escalation_rate": 0.4333,
+          "cost_per_1k_usd": 0.7104,
+          "wall_time_s": 0.0,
+          "errors": 0,
+          "sku_resolution_accuracy": 0.9722,
+          "sku_items": 36
+        }
+      },
+      "hardware": null,
+      "latency_note": null,
+      "cost_note": null,
+      "created": "2026-10-01T11:26:08"
+    }
+  },
+  "router_threshold": 0.66,
+  "pricing": {
+    "teacher": {
+      "model": "gemini-3.8-flash",
+      "input_per_1m_usd": 0.75,
+      "output_per_1m_usd": 3.75,
+      "note": "Google's published paid-tier price (standard), thinking tokens billed as output; valid through 2026-12-31. Our calls go through the KIE.ai proxy; credits actually spent are logged separately.",
+      "source": "https://ai.google.dev/gemini-api/docs/pricing",
+      "verified": "2026-09-30",
+      "label": "measured tokens x published paid-tier price"
+    },
+    "student_cpu": {
+      "basis": "Modal CPU container, 2 cores + 4 GiB: 2 x $0.0000131/core/s + 4 x $0.00000222/GiB/s",
+      "usd_per_second": 3.51e-05,
+      "source": "https://modal.com/pricing",
+      "verified": "2026-09-30",
+      "label": "estimate: inference seconds x container price (excludes idle time)"
+    }
+  },
+  "data": {
+    "splits": {
+      "verified_in": 1674,
+      "near_duplicates_removed": 0,
+      "dup_threshold": 90,
+      "train": {
+        "n": 1334,
+        "by_intent": {
+          "order_status": 148,
+          "other": 104,
+          "product_question": 133,
+          "quote_request": 835,
+          "return_request": 114
+        },
+        "by_difficulty": {
+          "easy": 325,
+          "hard": 397,
+          "medium": 612
+        },
+        "approx_tokens_p50_p99": [
+          350,
+          582
+        ]
+      },
+      "val": {
+        "n": 150,
+        "by_intent": {
+          "order_status": 16,
+          "other": 11,
+          "product_question": 14,
+          "quote_request": 96,
+          "return_request": 13
+        },
+        "by_difficulty": {
+          "easy": 36,
+          "medium": 69,
+          "hard": 45
+        },
+        "approx_tokens_p50_p99": [
+          346,
+          551
+        ]
+      },
+      "exam": {
+        "n": 150,
+        "by_intent": {
+          "order_status": 16,
+          "other": 11,
+          "product_question": 14,
+          "quote_request": 96,
+          "return_request": 13
+        },
+        "by_difficulty": {
+          "easy": 36,
+          "medium": 69,
+          "hard": 45
+        },
+        "approx_tokens_p50_p99": [
+          344,
+          557
+        ]
+      },
+      "exam_hard": {
+        "n": 30,
+        "by_intent": {
+          "quote_request": 25,
+          "order_status": 2,
+          "product_question": 3
+        },
+        "by_difficulty": {
+          "hard": 30
+        },
+        "approx_tokens_p50_p99": [
+          278,
+          360
+        ]
+      },
+      "corrections_pool": {
+        "n": 40,
+        "by_intent": {
+          "quote_request": 40
+        },
+        "by_difficulty": {
+          "easy": 6,
+          "hard": 16,
+          "medium": 18
+        },
+        "approx_tokens_p50_p99": [
+          411,
+          585
+        ]
+      },
+      "fewshot_ids": [
+        "S00001",
+        "S00003",
+        "S00007"
+      ]
+    },
+    "verification": {
+      "total_checked": 1800,
+      "kept": 1674,
+      "dropped": 126,
+      "drop_rate": 0.07,
+      "dropped_by_stage": {
+        "verifier": 126
+      },
+      "drop_reasons": {
+        "verifier: item # compatible_with #": 29,
+        "verifier: item # quantity None": 25,
+        "verifier: item # compatible_with None": 22,
+        "verifier: item # quantity #": 19,
+        "verifier: intent quote_request": 18,
+        "verifier: intent product_question": 16,
+        "verifier: item # part_number #": 11,
+        "verifier: item # part_number NB CAP #": 1,
+        "verifier: item # compatible_with QMK # C": 1,
+        "verifier: item # compatible_with HSK # A": 1,
+        "verifier: item # compatible_with HSK # C": 1,
+        "verifier: item # compatible_with HSK # #": 1,
+        "verifier: item # compatible_with KVL # C": 1,
+        "verifier: item # compatible_with KVL # #": 1,
+        "verifier: item # compatible_with TVD # C": 1
+      },
+      "soft_disagreement_rate": {
+        "description_wording": 0.1762,
+        "needed_by": 0.0603,
+        "urgency": 0.0544,
+        "unit": 0.0436,
+        "missing_info": 0.0305
+      },
+      "kept_by_intent": {
+        "quote_request": 1067,
+        "product_question": 161,
+        "return_request": 140,
+        "other": 126,
+        "order_status": 180
+      },
+      "kept_by_difficulty": {
+        "hard": 503,
+        "medium": 768,
+        "easy": 403
+      }
+    }
+  },
+  "how_measured": [
+    "Exam (150) and exam_hard (30) are sealed: hashed and checked against every training file.",
+    "Item F1 matches items by description similarity (token-set >= 80) AND equal quantity.",
+    "SKU resolution runs the deterministic tools on each system's extraction and checks the top SKU.",
+    "Teacher cost = measured tokens x Google's published paid price for gemini-3.8-flash; calls go through the KIE proxy.",
+    "Student cost is an estimate: CPU inference seconds x Modal CPU container price.",
+    "Latency: teacher = wall-clock via KIE (includes queueing); student = single-email CPU decoding."
+  ]
+}

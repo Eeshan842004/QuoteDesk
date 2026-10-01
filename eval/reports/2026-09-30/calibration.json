@@ -1,0 +1,825 @@
+{
+  "split": "val",
+  "n": 150,
+  "rule": "lowest escalation rate whose val item F1 is within 0.01 of the best",
+  "best_item_f1": 0.9923,
+  "chosen": {
+    "threshold": 0.66,
+    "item_f1": 0.9845,
+    "exact_match_rate": 0.7533,
+    "intent_accuracy": 0.9933,
+    "escalation_rate": 0.1267,
+    "cost_per_1k_usd": 0.5279
+  },
+  "sweep": [
+    {
+      "threshold": 0.0,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.01,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.02,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.03,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.04,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.05,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.06,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.07,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.08,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.09,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.1,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.11,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.12,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.13,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.14,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.15,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.16,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.17,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.18,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.19,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.2,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.21,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.22,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.23,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.24,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.25,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.26,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.27,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.28,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.29,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.3,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.31,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.32,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.33,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.34,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.35,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.36,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.37,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.38,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.39,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.4,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.41,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.42,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.43,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.44,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.45,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.46,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.47,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.48,
+      "item_f1": 0.9651,
+      "exact_match_rate": 0.7333,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0067,
+      "cost_per_1k_usd": 0.3727
+    },
+    {
+      "threshold": 0.49,
+      "item_f1": 0.9729,
+      "exact_match_rate": 0.7533,
+      "intent_accuracy": 1.0,
+      "escalation_rate": 0.0467,
+      "cost_per_1k_usd": 0.4238
+    },
+    {
+      "threshold": 0.5,
+      "item_f1": 0.9806,
+      "exact_match_rate": 0.7467,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.12,
+      "cost_per_1k_usd": 0.5173
+    },
+    {
+      "threshold": 0.51,
+      "item_f1": 0.9806,
+      "exact_match_rate": 0.7467,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.12,
+      "cost_per_1k_usd": 0.5173
+    },
+    {
+      "threshold": 0.52,
+      "item_f1": 0.9806,
+      "exact_match_rate": 0.7467,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.12,
+      "cost_per_1k_usd": 0.5173
+    },
+    {
+      "threshold": 0.53,
+      "item_f1": 0.9806,
+      "exact_match_rate": 0.7467,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.12,
+      "cost_per_1k_usd": 0.5173
+    },
+    {
+      "threshold": 0.54,
+      "item_f1": 0.9806,
+      "exact_match_rate": 0.7467,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.12,
+      "cost_per_1k_usd": 0.5173
+    },
+    {
+      "threshold": 0.55,
+      "item_f1": 0.9806,
+      "exact_match_rate": 0.7467,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.12,
+      "cost_per_1k_usd": 0.5173
+    },
+    {
+      "threshold": 0.56,
+      "item_f1": 0.9806,
+      "exact_match_rate": 0.7467,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.12,
+      "cost_per_1k_usd": 0.5173
+    },
+    {
+      "threshold": 0.57,
+      "item_f1": 0.9806,
+      "exact_match_rate": 0.7467,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.12,
+      "cost_per_1k_usd": 0.5173
+    },
+    {
+      "threshold": 0.58,
+      "item_f1": 0.9806,
+      "exact_match_rate": 0.7467,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.12,
+      "cost_per_1k_usd": 0.5173
+    },
+    {
+      "threshold": 0.59,
+      "item_f1": 0.9806,
+      "exact_match_rate": 0.7467,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.12,
+      "cost_per_1k_usd": 0.5173
+    },
+    {
+      "threshold": 0.6,
+      "item_f1": 0.9806,
+      "exact_match_rate": 0.7467,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.12,
+      "cost_per_1k_usd": 0.5173
+    },
+    {
+      "threshold": 0.61,
+      "item_f1": 0.9806,
+      "exact_match_rate": 0.7467,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.12,
+      "cost_per_1k_usd": 0.5173
+    },
+    {
+      "threshold": 0.62,
+      "item_f1": 0.9806,
+      "exact_match_rate": 0.7467,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.12,
+      "cost_per_1k_usd": 0.5173
+    },
+    {
+      "threshold": 0.63,
+      "item_f1": 0.9806,
+      "exact_match_rate": 0.7467,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.12,
+      "cost_per_1k_usd": 0.5173
+    },
+    {
+      "threshold": 0.64,
+      "item_f1": 0.9806,
+      "exact_match_rate": 0.7467,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.12,
+      "cost_per_1k_usd": 0.5173
+    },
+    {
+      "threshold": 0.65,
+      "item_f1": 0.9806,
+      "exact_match_rate": 0.7467,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.12,
+      "cost_per_1k_usd": 0.5173
+    },
+    {
+      "threshold": 0.66,
+      "item_f1": 0.9845,
+      "exact_match_rate": 0.7533,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.1267,
+      "cost_per_1k_usd": 0.5279
+    },
+    {
+      "threshold": 0.67,
+      "item_f1": 0.9845,
+      "exact_match_rate": 0.7533,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.1267,
+      "cost_per_1k_usd": 0.5279
+    },
+    {
+      "threshold": 0.68,
+      "item_f1": 0.9845,
+      "exact_match_rate": 0.7533,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.1267,
+      "cost_per_1k_usd": 0.5279
+    },
+    {
+      "threshold": 0.69,
+      "item_f1": 0.9845,
+      "exact_match_rate": 0.7533,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.1267,
+      "cost_per_1k_usd": 0.5279
+    },
+    {
+      "threshold": 0.7,
+      "item_f1": 0.9845,
+      "exact_match_rate": 0.7533,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.1267,
+      "cost_per_1k_usd": 0.5279
+    },
+    {
+      "threshold": 0.71,
+      "item_f1": 0.9845,
+      "exact_match_rate": 0.7533,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.1267,
+      "cost_per_1k_usd": 0.5279
+    },
+    {
+      "threshold": 0.72,
+      "item_f1": 0.9884,
+      "exact_match_rate": 0.76,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.1333,
+      "cost_per_1k_usd": 0.538
+    },
+    {
+      "threshold": 0.73,
+      "item_f1": 0.9884,
+      "exact_match_rate": 0.76,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.1333,
+      "cost_per_1k_usd": 0.538
+    },
+    {
+      "threshold": 0.74,
+      "item_f1": 0.9884,
+      "exact_match_rate": 0.76,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.1333,
+      "cost_per_1k_usd": 0.538
+    },
+    {
+      "threshold": 0.75,
+      "item_f1": 0.9884,
+      "exact_match_rate": 0.76,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.14,
+      "cost_per_1k_usd": 0.5474
+    },
+    {
+      "threshold": 0.76,
+      "item_f1": 0.9884,
+      "exact_match_rate": 0.76,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.14,
+      "cost_per_1k_usd": 0.5474
+    },
+    {
+      "threshold": 0.77,
+      "item_f1": 0.9884,
+      "exact_match_rate": 0.76,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.14,
+      "cost_per_1k_usd": 0.5474
+    },
+    {
+      "threshold": 0.78,
+      "item_f1": 0.9884,
+      "exact_match_rate": 0.76,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.14,
+      "cost_per_1k_usd": 0.5474
+    },
+    {
+      "threshold": 0.79,
+      "item_f1": 0.9884,
+      "exact_match_rate": 0.76,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.14,
+      "cost_per_1k_usd": 0.5474
+    },
+    {
+      "threshold": 0.8,
+      "item_f1": 0.9884,
+      "exact_match_rate": 0.76,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.14,
+      "cost_per_1k_usd": 0.5474
+    },
+    {
+      "threshold": 0.81,
+      "item_f1": 0.9884,
+      "exact_match_rate": 0.76,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.14,
+      "cost_per_1k_usd": 0.5474
+    },
+    {
+      "threshold": 0.82,
+      "item_f1": 0.9884,
+      "exact_match_rate": 0.76,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.14,
+      "cost_per_1k_usd": 0.5474
+    },
+    {
+      "threshold": 0.83,
+      "item_f1": 0.9884,
+      "exact_match_rate": 0.76,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.14,
+      "cost_per_1k_usd": 0.5474
+    },
+    {
+      "threshold": 0.84,
+      "item_f1": 0.9884,
+      "exact_match_rate": 0.76,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.14,
+      "cost_per_1k_usd": 0.5474
+    },
+    {
+      "threshold": 0.85,
+      "item_f1": 0.9884,
+      "exact_match_rate": 0.76,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.14,
+      "cost_per_1k_usd": 0.5474
+    },
+    {
+      "threshold": 0.86,
+      "item_f1": 0.9884,
+      "exact_match_rate": 0.76,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.14,
+      "cost_per_1k_usd": 0.5474
+    },
+    {
+      "threshold": 0.87,
+      "item_f1": 0.9884,
+      "exact_match_rate": 0.76,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.14,
+      "cost_per_1k_usd": 0.5474
+    },
+    {
+      "threshold": 0.88,
+      "item_f1": 0.9884,
+      "exact_match_rate": 0.76,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.14,
+      "cost_per_1k_usd": 0.5474
+    },
+    {
+      "threshold": 0.89,
+      "item_f1": 0.9884,
+      "exact_match_rate": 0.76,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.14,
+      "cost_per_1k_usd": 0.5474
+    },
+    {
+      "threshold": 0.9,
+      "item_f1": 0.9884,
+      "exact_match_rate": 0.76,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.14,
+      "cost_per_1k_usd": 0.5474
+    },
+    {
+      "threshold": 0.91,
+      "item_f1": 0.9884,
+      "exact_match_rate": 0.76,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.14,
+      "cost_per_1k_usd": 0.5474
+    },
+    {
+      "threshold": 0.92,
+      "item_f1": 0.9884,
+      "exact_match_rate": 0.76,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.14,
+      "cost_per_1k_usd": 0.5474
+    },
+    {
+      "threshold": 0.93,
+      "item_f1": 0.9884,
+      "exact_match_rate": 0.76,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.14,
+      "cost_per_1k_usd": 0.5474
+    },
+    {
+      "threshold": 0.94,
+      "item_f1": 0.9884,
+      "exact_match_rate": 0.76,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.14,
+      "cost_per_1k_usd": 0.5474
+    },
+    {
+      "threshold": 0.95,
+      "item_f1": 0.9884,
+      "exact_match_rate": 0.76,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.14,
+      "cost_per_1k_usd": 0.5474
+    },
+    {
+      "threshold": 0.96,
+      "item_f1": 0.9903,
+      "exact_match_rate": 0.7667,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.1533,
+      "cost_per_1k_usd": 0.5588
+    },
+    {
+      "threshold": 0.97,
+      "item_f1": 0.9923,
+      "exact_match_rate": 0.78,
+      "intent_accuracy": 0.9933,
+      "escalation_rate": 0.18,
+      "cost_per_1k_usd": 0.5869
+    },
+    {
+      "threshold": 0.98,
+      "item_f1": 0.9846,
+      "exact_match_rate": 0.7533,
+      "intent_accuracy": 0.9867,
+      "escalation_rate": 0.38,
+      "cost_per_1k_usd": 0.7852
+    },
+    {
+      "threshold": 0.99,
+      "item_f1": 0.9923,
+      "exact_match_rate": 0.6733,
+      "intent_accuracy": 0.9867,
+      "escalation_rate": 0.76,
+      "cost_per_1k_usd": 1.2112
+    },
+    {
+      "threshold": 1.0,
+      "item_f1": 0.9923,
+      "exact_match_rate": 0.6733,
+      "intent_accuracy": 0.9867,
+      "escalation_rate": 1.0,
+      "cost_per_1k_usd": 1.4402
+    }
+  ],
+  "created": "2026-10-01T11:25:50"
+}

@@ -1,0 +1,140 @@
+{
+  "system": "tuned_cpu",
+  "model": "unsloth/gemma-3-270m-it+Eeshan082004/quotedesk-student@v1",
+  "created": "2026-10-01T10:26:27",
+  "splits": {
+    "exam": {
+      "n": 150,
+      "intent_accuracy": 0.98,
+      "json_validity_rate": 0.9867,
+      "item_precision": 0.938,
+      "item_recall": 0.9237,
+      "item_f1": 0.9308,
+      "quantity_accuracy": 0.9416,
+      "part_number_accuracy": 0.9821,
+      "compatible_with_accuracy": 0.84,
+      "missing_info_precision": 0.1622,
+      "missing_info_recall": 0.1579,
+      "missing_info_f1": 0.16,
+      "urgency_accuracy": 0.9733,
+      "exact_match_rate": 0.5867,
+      "per_intent_accuracy": {
+        "order_status": 1.0,
+        "other": 1.0,
+        "product_question": 0.9285714285714286,
+        "quote_request": 0.9791666666666666,
+        "return_request": 1.0
+      },
+      "per_intent_n": {
+        "order_status": 16,
+        "other": 11,
+        "product_question": 14,
+        "quote_request": 96,
+        "return_request": 13
+      },
+      "latency_p50_s": 7.4043,
+      "latency_p95_s": 22.3215,
+      "escalation_rate": null,
+      "cost_per_1k_usd": 0.3453,
+      "wall_time_s": 1485.4,
+      "errors": 0,
+      "sku_resolution_accuracy": 0.9347,
+      "sku_items": 245
+    },
+    "exam_hard": {
+      "n": 30,
+      "intent_accuracy": 0.6,
+      "json_validity_rate": 0.6667,
+      "item_precision": 0.7436,
+      "item_recall": 0.6591,
+      "item_f1": 0.6988,
+      "quantity_accuracy": 0.8286,
+      "part_number_accuracy": 1.0,
+      "compatible_with_accuracy": 1.0,
+      "missing_info_precision": 0.0,
+      "missing_info_recall": 0.0,
+      "missing_info_f1": 0.0,
+      "urgency_accuracy": 0.9333,
+      "exact_match_rate": 0.2667,
+      "per_intent_accuracy": {
+        "order_status": 0.5,
+        "product_question": 1.0,
+        "quote_request": 0.56
+      },
+      "per_intent_n": {
+        "order_status": 2,
+        "product_question": 3,
+        "quote_request": 25
+      },
+      "latency_p50_s": 7.3354,
+      "latency_p95_s": 14.2141,
+      "escalation_rate": null,
+      "cost_per_1k_usd": 0.2928,
+      "wall_time_s": 252.2,
+      "errors": 0,
+      "sku_resolution_accuracy": 0.8333,
+      "sku_items": 36
+    },
+    "val": {
+      "n": 150,
+      "intent_accuracy": 0.9933,
+      "json_validity_rate": 0.9933,
+      "item_precision": 0.9725,
+      "item_recall": 0.9538,
+      "item_f1": 0.9631,
+      "quantity_accuracy": 0.9725,
+      "part_number_accuracy": 1.0,
+      "compatible_with_accuracy": 0.8696,
+      "missing_info_precision": 0.125,
+      "missing_info_recall": 0.0727,
+      "missing_info_f1": 0.092,
+      "urgency_accuracy": 0.98,
+      "exact_match_rate": 0.5733,
+      "per_intent_accuracy": {
+        "order_status": 1.0,
+        "other": 1.0,
+        "product_question": 1.0,
+        "quote_request": 0.9895833333333334,
+        "return_request": 1.0
+      },
+      "per_intent_n": {
+        "order_status": 16,
+        "other": 11,
+        "product_question": 14,
+        "quote_request": 96,
+        "return_request": 13
+      },
+      "latency_p50_s": 8.9287,
+      "latency_p95_s": 22.3677,
+      "escalation_rate": null,
+      "cost_per_1k_usd": 0.3663,
+      "wall_time_s": 1578.6,
+      "errors": 0,
+      "sku_resolution_accuracy": 0.9534,
+      "sku_items": 236
+    }
+  },
+  "pricing": {
+    "teacher": {
+      "model": "gemini-3.8-flash",
+      "input_per_1m_usd": 0.75,
+      "output_per_1m_usd": 3.75,
+      "note": "Google's published paid-tier price (standard), thinking tokens billed as output; valid through 2026-12-31. Our calls go through the KIE.ai proxy; credits actually spent are logged separately.",
+      "source": "https://ai.google.dev/gemini-api/docs/pricing",
+      "verified": "2026-09-30",
+      "label": "measured tokens x published paid-tier price"
+    },
+    "student_cpu": {
+      "basis": "Modal CPU container, 2 cores + 4 GiB: 2 x $0.0000131/core/s + 4 x $0.00000222/GiB/s",
+      "usd_per_second": 3.51e-05,
+      "source": "https://modal.com/pricing",
+      "verified": "2026-09-30",
+      "label": "estimate: inference seconds x container price (excludes idle time)"
+    }
+  },
+  "label": "Fine-tuned Gemma 3 270M (CPU)",
+  "hardware": "local CPU",
+  "threads": 6,
+  "latency_note": "single-email greedy decoding on CPU (what the deployed backend does)",
+  "cost_note": "estimate: inference seconds x container price (excludes idle time)"
+}

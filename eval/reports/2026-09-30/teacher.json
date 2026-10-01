@@ -1,0 +1,139 @@
+{
+  "system": "teacher",
+  "model": "gemini-3-8-flash",
+  "created": "2026-10-01T10:13:13",
+  "splits": {
+    "exam": {
+      "n": 150,
+      "intent_accuracy": 0.9733,
+      "json_validity_rate": 1.0,
+      "item_precision": 0.9695,
+      "item_recall": 0.9695,
+      "item_f1": 0.9695,
+      "quantity_accuracy": 0.9695,
+      "part_number_accuracy": 0.9825,
+      "compatible_with_accuracy": 0.8462,
+      "missing_info_precision": 0.8605,
+      "missing_info_recall": 0.9737,
+      "missing_info_f1": 0.9136,
+      "urgency_accuracy": 0.92,
+      "exact_match_rate": 0.54,
+      "per_intent_accuracy": {
+        "order_status": 1.0,
+        "other": 1.0,
+        "product_question": 1.0,
+        "quote_request": 0.9583333333333334,
+        "return_request": 1.0
+      },
+      "per_intent_n": {
+        "order_status": 16,
+        "other": 11,
+        "product_question": 14,
+        "quote_request": 96,
+        "return_request": 13
+      },
+      "latency_p50_s": 7.8719,
+      "latency_p95_s": 123.2492,
+      "escalation_rate": null,
+      "cost_per_1k_usd": 1.0636,
+      "wall_time_s": 1.2,
+      "errors": 0,
+      "sku_resolution_accuracy": 0.951,
+      "sku_items": 245
+    },
+    "exam_hard": {
+      "n": 30,
+      "intent_accuracy": 1.0,
+      "json_validity_rate": 1.0,
+      "item_precision": 1.0,
+      "item_recall": 1.0,
+      "item_f1": 1.0,
+      "quantity_accuracy": 1.0,
+      "part_number_accuracy": 1.0,
+      "compatible_with_accuracy": 0.75,
+      "missing_info_precision": 0.875,
+      "missing_info_recall": 1.0,
+      "missing_info_f1": 0.9333,
+      "urgency_accuracy": 1.0,
+      "exact_match_rate": 0.8333,
+      "per_intent_accuracy": {
+        "order_status": 1.0,
+        "product_question": 1.0,
+        "quote_request": 1.0
+      },
+      "per_intent_n": {
+        "order_status": 2,
+        "product_question": 3,
+        "quote_request": 25
+      },
+      "latency_p50_s": 5.1644,
+      "latency_p95_s": 65.4368,
+      "escalation_rate": null,
+      "cost_per_1k_usd": 0.9466,
+      "wall_time_s": 0.1,
+      "errors": 0,
+      "sku_resolution_accuracy": 1.0,
+      "sku_items": 36
+    },
+    "val": {
+      "n": 150,
+      "intent_accuracy": 0.9867,
+      "json_validity_rate": 1.0,
+      "item_precision": 0.9923,
+      "item_recall": 0.9923,
+      "item_f1": 0.9923,
+      "quantity_accuracy": 0.9923,
+      "part_number_accuracy": 1.0,
+      "compatible_with_accuracy": 0.8077,
+      "missing_info_precision": 0.9138,
+      "missing_info_recall": 0.9636,
+      "missing_info_f1": 0.9381,
+      "urgency_accuracy": 0.9467,
+      "exact_match_rate": 0.6733,
+      "per_intent_accuracy": {
+        "order_status": 1.0,
+        "other": 1.0,
+        "product_question": 1.0,
+        "quote_request": 0.9791666666666666,
+        "return_request": 1.0
+      },
+      "per_intent_n": {
+        "order_status": 16,
+        "other": 11,
+        "product_question": 14,
+        "quote_request": 96,
+        "return_request": 13
+      },
+      "latency_p50_s": 10.9106,
+      "latency_p95_s": 119.0418,
+      "escalation_rate": null,
+      "cost_per_1k_usd": 1.0739,
+      "wall_time_s": 2534.3,
+      "errors": 0,
+      "sku_resolution_accuracy": 0.9831,
+      "sku_items": 236
+    }
+  },
+  "pricing": {
+    "teacher": {
+      "model": "gemini-3.8-flash",
+      "input_per_1m_usd": 0.75,
+      "output_per_1m_usd": 3.75,
+      "note": "Google's published paid-tier price (standard), thinking tokens billed as output; valid through 2026-12-31. Our calls go through the KIE.ai proxy; credits actually spent are logged separately.",
+      "source": "https://ai.google.dev/gemini-api/docs/pricing",
+      "verified": "2026-09-30",
+      "label": "measured tokens x published paid-tier price"
+    },
+    "student_cpu": {
+      "basis": "Modal CPU container, 2 cores + 4 GiB: 2 x $0.0000131/core/s + 4 x $0.00000222/GiB/s",
+      "usd_per_second": 3.51e-05,
+      "source": "https://modal.com/pricing",
+      "verified": "2026-09-30",
+      "label": "estimate: inference seconds x container price (excludes idle time)"
+    }
+  },
+  "provider": "kie",
+  "label": "Gemini 3.8 Flash (teacher)",
+  "latency_note": "wall-clock per email through the KIE proxy (streaming, includes queueing)",
+  "cost_note": "measured tokens x published paid-tier price"
+}

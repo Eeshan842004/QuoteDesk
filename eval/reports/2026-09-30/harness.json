@@ -1,0 +1,100 @@
+{
+  "system": "harness",
+  "model": "student+router(t=0.66)+teacher",
+  "created": "2026-10-01T11:26:08",
+  "splits": {
+    "exam": {
+      "n": 150,
+      "intent_accuracy": 0.9933,
+      "json_validity_rate": 1.0,
+      "item_precision": 0.9618,
+      "item_recall": 0.9618,
+      "item_f1": 0.9618,
+      "quantity_accuracy": 0.9618,
+      "part_number_accuracy": 0.9825,
+      "compatible_with_accuracy": 0.8519,
+      "missing_info_precision": 0.8125,
+      "missing_info_recall": 0.6842,
+      "missing_info_f1": 0.7429,
+      "urgency_accuracy": 0.98,
+      "exact_match_rate": 0.74,
+      "per_intent_accuracy": {
+        "order_status": 1.0,
+        "other": 1.0,
+        "product_question": 0.9285714285714286,
+        "quote_request": 1.0,
+        "return_request": 1.0
+      },
+      "per_intent_n": {
+        "order_status": 16,
+        "other": 11,
+        "product_question": 14,
+        "quote_request": 96,
+        "return_request": 13
+      },
+      "latency_p50_s": 8.35,
+      "latency_p95_s": 28.2629,
+      "escalation_rate": 0.0933,
+      "cost_per_1k_usd": 0.454,
+      "wall_time_s": 0.5,
+      "errors": 0,
+      "sku_resolution_accuracy": 0.951,
+      "sku_items": 245
+    },
+    "exam_hard": {
+      "n": 30,
+      "intent_accuracy": 0.9333,
+      "json_validity_rate": 1.0,
+      "item_precision": 0.9512,
+      "item_recall": 0.8864,
+      "item_f1": 0.9176,
+      "quantity_accuracy": 0.975,
+      "part_number_accuracy": 1.0,
+      "compatible_with_accuracy": 0.75,
+      "missing_info_precision": 0.3333,
+      "missing_info_recall": 0.2857,
+      "missing_info_f1": 0.3077,
+      "urgency_accuracy": 0.9667,
+      "exact_match_rate": 0.6,
+      "per_intent_accuracy": {
+        "order_status": 0.5,
+        "product_question": 1.0,
+        "quote_request": 0.96
+      },
+      "per_intent_n": {
+        "order_status": 2,
+        "product_question": 3,
+        "quote_request": 25
+      },
+      "latency_p50_s": 9.6529,
+      "latency_p95_s": 62.1479,
+      "escalation_rate": 0.4333,
+      "cost_per_1k_usd": 0.7104,
+      "wall_time_s": 0.0,
+      "errors": 0,
+      "sku_resolution_accuracy": 0.9722,
+      "sku_items": 36
+    }
+  },
+  "pricing": {
+    "teacher": {
+      "model": "gemini-3.8-flash",
+      "input_per_1m_usd": 0.75,
+      "output_per_1m_usd": 3.75,
+      "note": "Google's published paid-tier price (standard), thinking tokens billed as output; valid through 2026-12-31. Our calls go through the KIE.ai proxy; credits actually spent are logged separately.",
+      "source": "https://ai.google.dev/gemini-api/docs/pricing",
+      "verified": "2026-09-30",
+      "label": "measured tokens x published paid-tier price"
+    },
+    "student_cpu": {
+      "basis": "Modal CPU container, 2 cores + 4 GiB: 2 x $0.0000131/core/s + 4 x $0.00000222/GiB/s",
+      "usd_per_second": 3.51e-05,
+      "source": "https://modal.com/pricing",
+      "verified": "2026-09-30",
+      "label": "estimate: inference seconds x container price (excludes idle time)"
+    }
+  },
+  "label": "Full harness (student + router + teacher)",
+  "threshold": 0.66,
+  "note": "teacher outputs reused from teacher_predictions.jsonl (same prompt and model) to avoid duplicate calls"
+}

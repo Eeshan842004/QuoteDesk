@@ -1,0 +1,78 @@
+{
+  "system": "base",
+  "model": "unsloth/gemma-3-270m-it (3-shot)",
+  "created": "2026-10-01T03:18:27",
+  "splits": {
+    "exam": {
+      "n": 150,
+      "intent_accuracy": 0.5067,
+      "json_validity_rate": 0.66,
+      "item_precision": 0.1703,
+      "item_recall": 0.1794,
+      "item_f1": 0.1747,
+      "quantity_accuracy": 0.3052,
+      "part_number_accuracy": 0.2174,
+      "compatible_with_accuracy": 0.0,
+      "missing_info_precision": 0.0,
+      "missing_info_recall": 0.0,
+      "missing_info_f1": 0.0,
+      "urgency_accuracy": 0.56,
+      "exact_match_rate": 0.0067,
+      "per_intent_accuracy": {
+        "order_status": 0.0,
+        "other": 0.0,
+        "product_question": 0.5,
+        "quote_request": 0.6875,
+        "return_request": 0.23076923076923078
+      },
+      "per_intent_n": {
+        "order_status": 16,
+        "other": 11,
+        "product_question": 14,
+        "quote_request": 96,
+        "return_request": 13
+      },
+      "latency_p50_s": 1.2609,
+      "latency_p95_s": 1.8841,
+      "escalation_rate": null,
+      "cost_per_1k_usd": null,
+      "wall_time_s": 0.0,
+      "errors": 0
+    },
+    "exam_hard": {
+      "n": 30,
+      "intent_accuracy": 0.3667,
+      "json_validity_rate": 0.4667,
+      "item_precision": 0.2791,
+      "item_recall": 0.2727,
+      "item_f1": 0.2759,
+      "quantity_accuracy": 0.6316,
+      "part_number_accuracy": 0.0,
+      "compatible_with_accuracy": 0.0,
+      "missing_info_precision": 0.0,
+      "missing_info_recall": 0.0,
+      "missing_info_f1": 0.0,
+      "urgency_accuracy": 0.6,
+      "exact_match_rate": 0.0333,
+      "per_intent_accuracy": {
+        "order_status": 0.0,
+        "product_question": 0.6666666666666666,
+        "quote_request": 0.36
+      },
+      "per_intent_n": {
+        "order_status": 2,
+        "product_question": 3,
+        "quote_request": 25
+      },
+      "latency_p50_s": 0.908,
+      "latency_p95_s": 1.0846,
+      "escalation_rate": null,
+      "cost_per_1k_usd": null,
+      "wall_time_s": 0.0,
+      "errors": 0
+    }
+  },
+  "hardware": "Tesla T4",
+  "label": "Base Gemma 3 270M (3-shot)",
+  "fewshot_ids": ["S00001", "S00003", "S00007"]
+}
