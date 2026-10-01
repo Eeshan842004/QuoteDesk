@@ -1,0 +1,18 @@
+{
+  "teacher": {
+    "model": "gemini-3.8-flash",
+    "input_per_1m_usd": 0.75,
+    "output_per_1m_usd": 3.75,
+    "note": "Google's published paid-tier price (standard), thinking tokens billed as output; valid through 2026-12-31. Our calls go through the KIE.ai proxy; credits actually spent are logged separately.",
+    "source": "https://ai.google.dev/gemini-api/docs/pricing",
+    "verified": "2026-09-30",
+    "label": "measured tokens x published paid-tier price"
+  },
+  "student_cpu": {
+    "basis": "Modal CPU container, 2 cores + 4 GiB: 2 x $0.0000131/core/s + 4 x $0.00000222/GiB/s",
+    "usd_per_second": 0.0000351,
+    "source": "https://modal.com/pricing",
+    "verified": "2026-09-30",
+    "label": "estimate: inference seconds x container price (excludes idle time)"
+  }
+}
