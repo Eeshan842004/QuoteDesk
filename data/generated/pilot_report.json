@@ -1,0 +1,74 @@
+{
+  "timestamp": "2026-09-30T17:43:25",
+  "pilot_size": 20,
+  "pilot_mix": {
+    "quote_request": 12,
+    "return_request": 2,
+    "product_question": 2,
+    "other": 2,
+    "order_status": 2
+  },
+  "written": 20,
+  "kept_after_verify": 18,
+  "pilot_drop_rate": 0.1,
+  "kie_balance_before": 480.14,
+  "kie_balance_after": 477.1,
+  "balance_delta": 3.04,
+  "logged_credits": {
+    "write": 1.16,
+    "verify": 0.7,
+    "teacher": 0.16
+  },
+  "calls": {
+    "write": 4,
+    "verify": 2,
+    "teacher": 2
+  },
+  "per_email_credits": {
+    "write": 0.058,
+    "verify": 0.035
+  },
+  "per_teacher_call_credits": 0.08,
+  "projection": {
+    "datagen_remaining_scenarios": 1780,
+    "datagen_credits": 165.54,
+    "eval_teacher_calls": {
+      "P2b teacher baseline (exam 150 + exam_hard 30)": 180,
+      "P4 router calibration on val": 150,
+      "P4 harness eval escalations (upper bound)": 180,
+      "sample-email cache (8) + smoke tests": 20
+    },
+    "eval_credits": 42.4,
+    "safety_factor": 1.25,
+    "total_credits_with_safety": 259.93,
+    "fits_in_balance": true
+  },
+  "verify_report": {
+    "total_checked": 20,
+    "kept": 18,
+    "dropped": 2,
+    "drop_rate": 0.1,
+    "dropped_by_stage": {
+      "verifier": 2
+    },
+    "drop_reasons": {
+      "verifier: item # part_number None": 2
+    },
+    "soft_disagreement_rate": {
+      "description_wording": 0.1111,
+      "needed_by": 0.0556
+    },
+    "kept_by_intent": {
+      "quote_request": 10,
+      "product_question": 2,
+      "return_request": 2,
+      "other": 2,
+      "order_status": 2
+    },
+    "kept_by_difficulty": {
+      "hard": 8,
+      "medium": 5,
+      "easy": 5
+    }
+  }
+}

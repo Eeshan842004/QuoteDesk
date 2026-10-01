@@ -1,0 +1,97 @@
+{
+  "verified_in": 1674,
+  "near_duplicates_removed": 0,
+  "dup_threshold": 90,
+  "train": {
+    "n": 1334,
+    "by_intent": {
+      "order_status": 148,
+      "other": 104,
+      "product_question": 133,
+      "quote_request": 835,
+      "return_request": 114
+    },
+    "by_difficulty": {
+      "easy": 325,
+      "hard": 397,
+      "medium": 612
+    },
+    "approx_tokens_p50_p99": [
+      350,
+      582
+    ]
+  },
+  "val": {
+    "n": 150,
+    "by_intent": {
+      "order_status": 16,
+      "other": 11,
+      "product_question": 14,
+      "quote_request": 96,
+      "return_request": 13
+    },
+    "by_difficulty": {
+      "easy": 36,
+      "medium": 69,
+      "hard": 45
+    },
+    "approx_tokens_p50_p99": [
+      346,
+      551
+    ]
+  },
+  "exam": {
+    "n": 150,
+    "by_intent": {
+      "order_status": 16,
+      "other": 11,
+      "product_question": 14,
+      "quote_request": 96,
+      "return_request": 13
+    },
+    "by_difficulty": {
+      "easy": 36,
+      "medium": 69,
+      "hard": 45
+    },
+    "approx_tokens_p50_p99": [
+      344,
+      557
+    ]
+  },
+  "exam_hard": {
+    "n": 30,
+    "by_intent": {
+      "quote_request": 25,
+      "order_status": 2,
+      "product_question": 3
+    },
+    "by_difficulty": {
+      "hard": 30
+    },
+    "approx_tokens_p50_p99": [
+      278,
+      360
+    ]
+  },
+  "corrections_pool": {
+    "n": 40,
+    "by_intent": {
+      "quote_request": 40
+    },
+    "by_difficulty": {
+      "easy": 6,
+      "hard": 16,
+      "medium": 18
+    },
+    "approx_tokens_p50_p99": [
+      411,
+      585
+    ]
+  },
+  "fewshot_ids": [
+    "S00001",
+    "S00003",
+    "S00007"
+  ]
+}
