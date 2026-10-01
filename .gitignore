@@ -1,0 +1,44 @@
+# secrets
+.env
+.env.*
+!.env.example
+kaggle.json
+access_token
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+*.egg-info/
+
+# datagen caches / bundles (regenerable)
+data/generated/cache/
+data/kaggle_bundle/
+*.zip
+
+# local db
+*.db
+*.sqlite
+
+# node
+node_modules/
+.next/
+.vercel/
+
+# models / training outputs
+adapters/
+outputs/
+*.safetensors
+
+# local run artifacts (regenerable)
+backend/work/
+backend/*.db
+data/generated/*.log
+data/generated/*.err
+data/generated/pilot_stdout.txt
+data/generated/probe_log.jsonl
+data/quotedesk-data.zip
+.playwright-mcp/
+*.tsbuildinfo
