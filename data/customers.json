@@ -1,0 +1,645 @@
+[
+ {
+  "id": "C001",
+  "company": "Pinecrest Mechanical",
+  "email_domain": "pinecrest-mech.example",
+  "contacts": [
+   {
+    "name": "Andre Brennan",
+    "email": "andre.brennan@pinecrest-mech.example",
+    "title": "Lead Technician",
+    "phone": "555-0193"
+   }
+  ],
+  "tier": "C",
+  "tier_discount": 0.05,
+  "volume_breaks": [
+   {
+    "min_qty": 10,
+    "extra_discount": 0.03
+   },
+   {
+    "min_qty": 50,
+    "extra_discount": 0.07
+   }
+  ],
+  "equipment_on_site": [
+   "HSK-HP24-C",
+   "TVD-HP30-2"
+  ]
+ },
+ {
+  "id": "C002",
+  "company": "Harbor Point HVAC",
+  "email_domain": "harborpoint-hvac.example",
+  "contacts": [
+   {
+    "name": "Rachel Delgado",
+    "email": "rdelgado@harborpoint-hvac.example",
+    "title": "Facilities Tech",
+    "phone": "555-0118"
+   }
+  ],
+  "tier": "B",
+  "tier_discount": 0.1,
+  "volume_breaks": [
+   {
+    "min_qty": 10,
+    "extra_discount": 0.03
+   },
+   {
+    "min_qty": 50,
+    "extra_discount": 0.07
+   }
+  ],
+  "equipment_on_site": [
+   "OSR-AH24-2",
+   "OSR-BLR80-1",
+   "QMK-AH48-C"
+  ]
+ },
+ {
+  "id": "C003",
+  "company": "Redfield Plumbing & Heating",
+  "email_domain": "redfield-ph.example",
+  "contacts": [
+   {
+    "name": "Tomas Pruitt",
+    "email": "tomas.pruitt@redfield-ph.example",
+    "title": "Purchasing",
+    "phone": "555-0135"
+   }
+  ],
+  "tier": "C",
+  "tier_discount": 0.05,
+  "volume_breaks": [
+   {
+    "min_qty": 10,
+    "extra_discount": 0.03
+   },
+   {
+    "min_qty": 50,
+    "extra_discount": 0.07
+   }
+  ],
+  "equipment_on_site": [
+   "KVL-RTU36-B",
+   "VTR-BLR120-3"
+  ]
+ },
+ {
+  "id": "C004",
+  "company": "Ironbridge Facilities",
+  "email_domain": "ironbridge-fac.example",
+  "contacts": [
+   {
+    "name": "Jen Castillo",
+    "email": "jen.castillo@ironbridge-fac.example",
+    "title": "Project Manager",
+    "phone": "555-0155"
+   }
+  ],
+  "tier": "A",
+  "tier_discount": 0.15,
+  "volume_breaks": [
+   {
+    "min_qty": 10,
+    "extra_discount": 0.03
+   },
+   {
+    "min_qty": 50,
+    "extra_discount": 0.07
+   }
+  ],
+  "equipment_on_site": [
+   "HSK-FUR60-A",
+   "KVL-WIC10-C",
+   "TVD-AH48-C",
+   "VTR-BLR120-3"
+  ]
+ },
+ {
+  "id": "C005",
+  "company": "Summit Ridge Property Mgmt",
+  "email_domain": "summitridge-pm.example",
+  "contacts": [
+   {
+    "name": "Tina Quinlan",
+    "email": "tina.quinlan@summitridge-pm.example",
+    "title": "Lead Technician",
+    "phone": "555-0177"
+   }
+  ],
+  "tier": "A",
+  "tier_discount": 0.15,
+  "volume_breaks": [
+   {
+    "min_qty": 10,
+    "extra_discount": 0.03
+   },
+   {
+    "min_qty": 50,
+    "extra_discount": 0.07
+   }
+  ],
+  "equipment_on_site": [
+   "KVL-AC24-2",
+   "MRW-FUR120-2",
+   "OSR-BLR80-1",
+   "QMK-RTU48-C"
+  ]
+ },
+ {
+  "id": "C006",
+  "company": "Blue Heron Refrigeration",
+  "email_domain": "blueheron-refrig.example",
+  "contacts": [
+   {
+    "name": "Farah Szabo",
+    "email": "farah@blueheron-refrig.example",
+    "title": "Dispatcher",
+    "phone": "555-0195"
+   },
+   {
+    "name": "Beth Iverson",
+    "email": "beth@blueheron-refrig.example",
+    "title": "Project Manager",
+    "phone": "555-0129"
+   }
+  ],
+  "tier": "A",
+  "tier_discount": 0.15,
+  "volume_breaks": [
+   {
+    "min_qty": 10,
+    "extra_discount": 0.03
+   },
+   {
+    "min_qty": 50,
+    "extra_discount": 0.07
+   }
+  ],
+  "equipment_on_site": [
+   "HSK-FUR60-A",
+   "MRW-HP24-1",
+   "OSR-FUR80-2",
+   "VTR-WH40-3"
+  ]
+ },
+ {
+  "id": "C007",
+  "company": "Coldwater Service Co",
+  "email_domain": "coldwater-svc.example",
+  "contacts": [
+   {
+    "name": "Leah Halvorsen",
+    "email": "lhalvorsen@coldwater-svc.example",
+    "title": "Maintenance Supervisor",
+    "phone": "555-0133"
+   }
+  ],
+  "tier": "C",
+  "tier_discount": 0.05,
+  "volume_breaks": [
+   {
+    "min_qty": 10,
+    "extra_discount": 0.03
+   },
+   {
+    "min_qty": 50,
+    "extra_discount": 0.07
+   }
+  ],
+  "equipment_on_site": [
+   "HSK-HP24-C",
+   "MRW-FUR120-2",
+   "QMK-RTU48-C",
+   "TVD-RTU120-C"
+  ]
+ },
+ {
+  "id": "C008",
+  "company": "Maple Row Contractors",
+  "email_domain": "maplerow.example",
+  "contacts": [
+   {
+    "name": "Priya Ferreira",
+    "email": "priya@maplerow.example",
+    "title": "Facilities Tech",
+    "phone": "555-0132"
+   },
+   {
+    "name": "Nora Haddad",
+    "email": "nhaddad@maplerow.example",
+    "title": "Office Manager",
+    "phone": "555-0158"
+   }
+  ],
+  "tier": "C",
+  "tier_discount": 0.05,
+  "volume_breaks": [
+   {
+    "min_qty": 10,
+    "extra_discount": 0.03
+   },
+   {
+    "min_qty": 50,
+    "extra_discount": 0.07
+   }
+  ],
+  "equipment_on_site": [
+   "MRW-MS18-B",
+   "TVD-RTU120-C"
+  ]
+ },
+ {
+  "id": "C009",
+  "company": "Granite Peak Electric",
+  "email_domain": "granitepeak-elec.example",
+  "contacts": [
+   {
+    "name": "Brandon Brennan",
+    "email": "brandon@granitepeak-elec.example",
+    "title": "Facilities Tech",
+    "phone": "555-0183"
+   },
+   {
+    "name": "Aisha Gallagher",
+    "email": "agallagher@granitepeak-elec.example",
+    "title": "Service Manager",
+    "phone": "555-0149"
+   }
+  ],
+  "tier": "B",
+  "tier_discount": 0.1,
+  "volume_breaks": [
+   {
+    "min_qty": 10,
+    "extra_discount": 0.03
+   },
+   {
+    "min_qty": 50,
+    "extra_discount": 0.07
+   }
+  ],
+  "equipment_on_site": [
+   "HSK-HP24-C",
+   "KVL-FUR60-1",
+   "TVD-AC24-B"
+  ]
+ },
+ {
+  "id": "C010",
+  "company": "Tidewater Building Services",
+  "email_domain": "tidewater-bldg.example",
+  "contacts": [
+   {
+    "name": "Luis Delgado",
+    "email": "luis.delgado@tidewater-bldg.example",
+    "title": "Facilities Tech",
+    "phone": "555-0191"
+   },
+   {
+    "name": "Hannah Sato",
+    "email": "hannah.sato@tidewater-bldg.example",
+    "title": "Chief Engineer",
+    "phone": "555-0144"
+   }
+  ],
+  "tier": "B",
+  "tier_discount": 0.1,
+  "volume_breaks": [
+   {
+    "min_qty": 10,
+    "extra_discount": 0.03
+   },
+   {
+    "min_qty": 50,
+    "extra_discount": 0.07
+   }
+  ],
+  "equipment_on_site": [
+   "BSV-WH40-3",
+   "VTR-BLR120-3"
+  ]
+ },
+ {
+  "id": "C011",
+  "company": "Northgate Maintenance",
+  "email_domain": "northgate-maint.example",
+  "contacts": [
+   {
+    "name": "Rafael Pruitt",
+    "email": "rafael.pruitt@northgate-maint.example",
+    "title": "Office Manager",
+    "phone": "555-0165"
+   },
+   {
+    "name": "Monique Romero",
+    "email": "monique.romero@northgate-maint.example",
+    "title": "Maintenance Supervisor",
+    "phone": "555-0166"
+   }
+  ],
+  "tier": "C",
+  "tier_discount": 0.05,
+  "volume_breaks": [
+   {
+    "min_qty": 10,
+    "extra_discount": 0.03
+   },
+   {
+    "min_qty": 50,
+    "extra_discount": 0.07
+   }
+  ],
+  "equipment_on_site": [
+   "TVD-RTU120-C",
+   "VTR-BLR120-3",
+   "VTR-FUR100-C"
+  ]
+ },
+ {
+  "id": "C012",
+  "company": "Cedar Hollow HVAC",
+  "email_domain": "cedarhollow.example",
+  "contacts": [
+   {
+    "name": "Mei Castillo",
+    "email": "mei.castillo@cedarhollow.example",
+    "title": "Project Manager",
+    "phone": "555-0165"
+   },
+   {
+    "name": "Oscar Lindqvist",
+    "email": "oscar.lindqvist@cedarhollow.example",
+    "title": "Dispatcher",
+    "phone": "555-0145"
+   }
+  ],
+  "tier": "C",
+  "tier_discount": 0.05,
+  "volume_breaks": [
+   {
+    "min_qty": 10,
+    "extra_discount": 0.03
+   },
+   {
+    "min_qty": 50,
+    "extra_discount": 0.07
+   }
+  ],
+  "equipment_on_site": [
+   "KVL-FUR60-1",
+   "KVL-RTU36-B",
+   "OSR-AC48-3",
+   "QMK-AH48-C"
+  ]
+ },
+ {
+  "id": "C013",
+  "company": "Lakeshore Comfort Systems",
+  "email_domain": "lakeshore-comfort.example",
+  "contacts": [
+   {
+    "name": "Keisha Quinlan",
+    "email": "keisha.quinlan@lakeshore-comfort.example",
+    "title": "Service Manager",
+    "phone": "555-0109"
+   }
+  ],
+  "tier": "B",
+  "tier_discount": 0.1,
+  "volume_breaks": [
+   {
+    "min_qty": 10,
+    "extra_discount": 0.03
+   },
+   {
+    "min_qty": 50,
+    "extra_discount": 0.07
+   }
+  ],
+  "equipment_on_site": [
+   "HSK-RTU90-C",
+   "TVD-RTU120-C",
+   "VTR-WH40-3"
+  ]
+ },
+ {
+  "id": "C014",
+  "company": "Silverline Mechanical",
+  "email_domain": "silverline-mech.example",
+  "contacts": [
+   {
+    "name": "Dana Szabo",
+    "email": "dana.szabo@silverline-mech.example",
+    "title": "Owner",
+    "phone": "555-0138"
+   }
+  ],
+  "tier": "A",
+  "tier_discount": 0.15,
+  "volume_breaks": [
+   {
+    "min_qty": 10,
+    "extra_discount": 0.03
+   },
+   {
+    "min_qty": 50,
+    "extra_discount": 0.07
+   }
+  ],
+  "equipment_on_site": [
+   "HSK-FUR60-A",
+   "QMK-EXF24-B",
+   "QMK-RTU48-C",
+   "VTR-BLR120-3"
+  ]
+ },
+ {
+  "id": "C015",
+  "company": "Oakmont Facilities Group",
+  "email_domain": "oakmont-fg.example",
+  "contacts": [
+   {
+    "name": "Jake Halvorsen",
+    "email": "jake.halvorsen@oakmont-fg.example",
+    "title": "Facilities Tech",
+    "phone": "555-0199"
+   }
+  ],
+  "tier": "A",
+  "tier_discount": 0.15,
+  "volume_breaks": [
+   {
+    "min_qty": 10,
+    "extra_discount": 0.03
+   },
+   {
+    "min_qty": 50,
+    "extra_discount": 0.07
+   }
+  ],
+  "equipment_on_site": [
+   "BSV-FUR120-B",
+   "HSK-WIC6-3"
+  ]
+ },
+ {
+  "id": "C016",
+  "company": "Riverbend Plumbing",
+  "email_domain": "riverbend-plumb.example",
+  "contacts": [
+   {
+    "name": "Andre Ferreira",
+    "email": "andre@riverbend-plumb.example",
+    "title": "Owner",
+    "phone": "555-0118"
+   },
+   {
+    "name": "Sam Haddad",
+    "email": "shaddad@riverbend-plumb.example",
+    "title": "Project Manager",
+    "phone": "555-0159"
+   }
+  ],
+  "tier": "C",
+  "tier_discount": 0.05,
+  "volume_breaks": [
+   {
+    "min_qty": 10,
+    "extra_discount": 0.03
+   },
+   {
+    "min_qty": 50,
+    "extra_discount": 0.07
+   }
+  ],
+  "equipment_on_site": [
+   "HSK-WIC6-3",
+   "KVL-HP60-C",
+   "OSR-EXF20-2"
+  ]
+ },
+ {
+  "id": "C017",
+  "company": "Brightfield Apartments",
+  "email_domain": "brightfield-apts.example",
+  "contacts": [
+   {
+    "name": "Rachel Brennan",
+    "email": "rachel.brennan@brightfield-apts.example",
+    "title": "Lead Technician",
+    "phone": "555-0190"
+   }
+  ],
+  "tier": "B",
+  "tier_discount": 0.1,
+  "volume_breaks": [
+   {
+    "min_qty": 10,
+    "extra_discount": 0.03
+   },
+   {
+    "min_qty": 50,
+    "extra_discount": 0.07
+   }
+  ],
+  "equipment_on_site": [
+   "KVL-FUR60-1",
+   "OSR-BLR80-1",
+   "OSR-FUR80-2"
+  ]
+ },
+ {
+  "id": "C018",
+  "company": "Westvale Schools Maintenance",
+  "email_domain": "westvale-schools.example",
+  "contacts": [
+   {
+    "name": "Tomas Delgado",
+    "email": "tomas.delgado@westvale-schools.example",
+    "title": "Lead Technician",
+    "phone": "555-0145"
+   }
+  ],
+  "tier": "B",
+  "tier_discount": 0.1,
+  "volume_breaks": [
+   {
+    "min_qty": 10,
+    "extra_discount": 0.03
+   },
+   {
+    "min_qty": 50,
+    "extra_discount": 0.07
+   }
+  ],
+  "equipment_on_site": [
+   "BSV-AH36-2",
+   "OSR-AH24-2"
+  ]
+ },
+ {
+  "id": "C019",
+  "company": "Copperleaf Hotels Engineering",
+  "email_domain": "copperleaf-hotels.example",
+  "contacts": [
+   {
+    "name": "Jen Pruitt",
+    "email": "jpruitt@copperleaf-hotels.example",
+    "title": "Project Manager",
+    "phone": "555-0179"
+   }
+  ],
+  "tier": "B",
+  "tier_discount": 0.1,
+  "volume_breaks": [
+   {
+    "min_qty": 10,
+    "extra_discount": 0.03
+   },
+   {
+    "min_qty": 50,
+    "extra_discount": 0.07
+   }
+  ],
+  "equipment_on_site": [
+   "MRW-RTU120-1",
+   "OSR-AH24-2",
+   "QMK-HP24-1",
+   "VTR-AC30-C"
+  ]
+ },
+ {
+  "id": "C020",
+  "company": "Stonebrook Medical Facilities",
+  "email_domain": "stonebrook-med.example",
+  "contacts": [
+   {
+    "name": "Tina Castillo",
+    "email": "tina.castillo@stonebrook-med.example",
+    "title": "Purchasing",
+    "phone": "555-0172"
+   }
+  ],
+  "tier": "B",
+  "tier_discount": 0.1,
+  "volume_breaks": [
+   {
+    "min_qty": 10,
+    "extra_discount": 0.03
+   },
+   {
+    "min_qty": 50,
+    "extra_discount": 0.07
+   }
+  ],
+  "equipment_on_site": [
+   "HSK-RTU90-C",
+   "KVL-HP60-C",
+   "QMK-EXF24-B"
+  ]
+ }
+]

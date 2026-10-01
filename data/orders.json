@@ -1,0 +1,2568 @@
+[
+ {
+  "order_id": "NBO-51228",
+  "customer_id": "C001",
+  "po_number": null,
+  "date": "2026-01-10",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-CON-5005",
+    "qty": 2
+   },
+   {
+    "sku": "NB-FTG-2186",
+    "qty": 12
+   },
+   {
+    "sku": "NB-MTR-4715",
+    "qty": 4
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-51262",
+  "customer_id": "C001",
+  "po_number": null,
+  "date": "2026-02-10",
+  "status": "shipped",
+  "lines": [
+   {
+    "sku": "NB-SLT-4889",
+    "qty": 2
+   },
+   {
+    "sku": "NB-FUS-6985",
+    "qty": 5
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-51296",
+  "customer_id": "C001",
+  "po_number": "PO-1108",
+  "date": "2026-04-22",
+  "status": "shipped",
+  "lines": [
+   {
+    "sku": "NB-TST-4206",
+    "qty": 2
+   },
+   {
+    "sku": "NB-FTG-5572",
+    "qty": 10
+   },
+   {
+    "sku": "NB-MTR-4715",
+    "qty": 24
+   },
+   {
+    "sku": "NB-CAP-2219",
+    "qty": 12
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-51305",
+  "customer_id": "C002",
+  "po_number": "PO-8940",
+  "date": "2026-06-05",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-FLT-5084",
+    "qty": 2
+   },
+   {
+    "sku": "NB-SLT-1795",
+    "qty": 1
+   },
+   {
+    "sku": "NB-MTR-7065",
+    "qty": 6
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-51338",
+  "customer_id": "C002",
+  "po_number": null,
+  "date": "2026-06-18",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-MTR-7881",
+    "qty": 2
+   },
+   {
+    "sku": "NB-TST-6967",
+    "qty": 6
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-51363",
+  "customer_id": "C002",
+  "po_number": null,
+  "date": "2026-08-31",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-FTG-2465",
+    "qty": 5
+   },
+   {
+    "sku": "NB-MTR-7881",
+    "qty": 5
+   },
+   {
+    "sku": "NB-FTG-9103",
+    "qty": 5
+   },
+   {
+    "sku": "NB-FLT-7437",
+    "qty": 10
+   },
+   {
+    "sku": "NB-FUS-2099",
+    "qty": 24
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-51401",
+  "customer_id": "C002",
+  "po_number": null,
+  "date": "2026-09-01",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-FLT-2064",
+    "qty": 4
+   },
+   {
+    "sku": "NB-FUS-2099",
+    "qty": 2
+   },
+   {
+    "sku": "NB-SLT-1795",
+    "qty": 2
+   },
+   {
+    "sku": "NB-VLV-3361",
+    "qty": 10
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-51406",
+  "customer_id": "C002",
+  "po_number": null,
+  "date": "2026-09-16",
+  "status": "shipped",
+  "lines": [
+   {
+    "sku": "NB-FLT-5679",
+    "qty": 5
+   },
+   {
+    "sku": "NB-MTR-7065",
+    "qty": 4
+   },
+   {
+    "sku": "NB-FUS-1057",
+    "qty": 1
+   },
+   {
+    "sku": "NB-FUS-6874",
+    "qty": 10
+   },
+   {
+    "sku": "NB-SLT-1603",
+    "qty": 2
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-51435",
+  "customer_id": "C003",
+  "po_number": "PO-7629",
+  "date": "2026-01-11",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-BLT-2733",
+    "qty": 18
+   },
+   {
+    "sku": "NB-VLV-3361",
+    "qty": 2
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-51465",
+  "customer_id": "C003",
+  "po_number": "PO-2993",
+  "date": "2026-01-23",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-VLV-5337",
+    "qty": 26
+   },
+   {
+    "sku": "NB-FUS-8241",
+    "qty": 4
+   },
+   {
+    "sku": "NB-SLT-1603",
+    "qty": 1
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-51498",
+  "customer_id": "C003",
+  "po_number": "PO-4969",
+  "date": "2026-02-25",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-FLT-5679",
+    "qty": 2
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-51503",
+  "customer_id": "C003",
+  "po_number": "PO-1241",
+  "date": "2026-03-17",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-FTG-2186",
+    "qty": 1
+   },
+   {
+    "sku": "NB-CON-2374",
+    "qty": 2
+   },
+   {
+    "sku": "NB-TST-6967",
+    "qty": 12
+   },
+   {
+    "sku": "NB-MTR-1110",
+    "qty": 1
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-51513",
+  "customer_id": "C003",
+  "po_number": "PO-3687",
+  "date": "2026-04-04",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-MTR-1110",
+    "qty": 5
+   },
+   {
+    "sku": "NB-FTG-1942",
+    "qty": 12
+   },
+   {
+    "sku": "NB-FLT-1790",
+    "qty": 6
+   },
+   {
+    "sku": "NB-SLT-6371",
+    "qty": 12
+   },
+   {
+    "sku": "NB-CON-2374",
+    "qty": 2
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-51525",
+  "customer_id": "C003",
+  "po_number": null,
+  "date": "2026-04-07",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-FUS-8241",
+    "qty": 5
+   },
+   {
+    "sku": "NB-FUS-8054",
+    "qty": 6
+   },
+   {
+    "sku": "NB-BLT-2733",
+    "qty": 6
+   },
+   {
+    "sku": "NB-SLT-6227",
+    "qty": 1
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-51548",
+  "customer_id": "C003",
+  "po_number": "PO-7922",
+  "date": "2026-05-17",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-FTG-5332",
+    "qty": 10
+   },
+   {
+    "sku": "NB-VLV-5337",
+    "qty": 4
+   },
+   {
+    "sku": "NB-FTG-7968",
+    "qty": 1
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-51568",
+  "customer_id": "C003",
+  "po_number": null,
+  "date": "2026-06-12",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-SLT-8866",
+    "qty": 1
+   },
+   {
+    "sku": "NB-CON-2374",
+    "qty": 2
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-51584",
+  "customer_id": "C003",
+  "po_number": null,
+  "date": "2026-07-12",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-FUS-2502",
+    "qty": 6
+   },
+   {
+    "sku": "NB-FUS-6874",
+    "qty": 24
+   },
+   {
+    "sku": "NB-VLV-5337",
+    "qty": 4
+   },
+   {
+    "sku": "NB-SLT-6227",
+    "qty": 4
+   },
+   {
+    "sku": "NB-BLT-2733",
+    "qty": 10
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-51600",
+  "customer_id": "C003",
+  "po_number": "PO-3960",
+  "date": "2026-08-08",
+  "status": "shipped",
+  "lines": [
+   {
+    "sku": "NB-FLT-5508",
+    "qty": 12
+   },
+   {
+    "sku": "NB-FUS-4854",
+    "qty": 6
+   },
+   {
+    "sku": "NB-FTG-4643",
+    "qty": 10
+   },
+   {
+    "sku": "NB-FTG-5572",
+    "qty": 24
+   },
+   {
+    "sku": "NB-TST-6967",
+    "qty": 4
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-51636",
+  "customer_id": "C004",
+  "po_number": null,
+  "date": "2026-01-27",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-FLT-5084",
+    "qty": 12
+   },
+   {
+    "sku": "NB-VLV-9654",
+    "qty": 6
+   },
+   {
+    "sku": "NB-FLT-2666",
+    "qty": 5
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-51676",
+  "customer_id": "C004",
+  "po_number": "PO-5286",
+  "date": "2026-03-22",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-CAP-6435",
+    "qty": 12
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-51684",
+  "customer_id": "C004",
+  "po_number": "PO-1570",
+  "date": "2026-05-11",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-MTR-6936",
+    "qty": 2
+   },
+   {
+    "sku": "NB-MTR-7881",
+    "qty": 6
+   },
+   {
+    "sku": "NB-TST-7631",
+    "qty": 10
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-51712",
+  "customer_id": "C004",
+  "po_number": "PO-3616",
+  "date": "2026-07-07",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-FUS-8241",
+    "qty": 12
+   },
+   {
+    "sku": "NB-FLT-7116",
+    "qty": 10
+   },
+   {
+    "sku": "NB-SLT-5330",
+    "qty": 2
+   },
+   {
+    "sku": "NB-CAP-6435",
+    "qty": 4
+   },
+   {
+    "sku": "NB-SLT-3983",
+    "qty": 24
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-51718",
+  "customer_id": "C004",
+  "po_number": "PO-9410",
+  "date": "2026-07-09",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-SLT-6227",
+    "qty": 4
+   },
+   {
+    "sku": "NB-MTR-1110",
+    "qty": 6
+   },
+   {
+    "sku": "NB-FLT-2064",
+    "qty": 1
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-51728",
+  "customer_id": "C004",
+  "po_number": "PO-7220",
+  "date": "2026-07-30",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-TST-7631",
+    "qty": 6
+   },
+   {
+    "sku": "NB-FTG-2451",
+    "qty": 5
+   },
+   {
+    "sku": "NB-FLT-7437",
+    "qty": 2
+   },
+   {
+    "sku": "NB-CON-8304",
+    "qty": 5
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-51733",
+  "customer_id": "C004",
+  "po_number": "PO-4613",
+  "date": "2026-09-14",
+  "status": "shipped",
+  "lines": [
+   {
+    "sku": "NB-TST-6967",
+    "qty": 2
+   },
+   {
+    "sku": "NB-VLV-2407",
+    "qty": 12
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-51750",
+  "customer_id": "C005",
+  "po_number": null,
+  "date": "2026-02-23",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-SLT-1603",
+    "qty": 2
+   },
+   {
+    "sku": "NB-BLT-1613",
+    "qty": 6
+   },
+   {
+    "sku": "NB-FUS-1382",
+    "qty": 2
+   },
+   {
+    "sku": "NB-VLV-9459",
+    "qty": 6
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-51779",
+  "customer_id": "C005",
+  "po_number": "PO-3550",
+  "date": "2026-03-17",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-FUS-6985",
+    "qty": 2
+   },
+   {
+    "sku": "NB-FLT-2251",
+    "qty": 5
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-51798",
+  "customer_id": "C005",
+  "po_number": "PO-6211",
+  "date": "2026-07-15",
+  "status": "shipped",
+  "lines": [
+   {
+    "sku": "NB-TST-6967",
+    "qty": 6
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-51817",
+  "customer_id": "C005",
+  "po_number": null,
+  "date": "2026-08-21",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-VLV-8841",
+    "qty": 2
+   },
+   {
+    "sku": "NB-VLV-4362",
+    "qty": 4
+   },
+   {
+    "sku": "NB-FTG-7968",
+    "qty": 2
+   },
+   {
+    "sku": "NB-CAP-5131",
+    "qty": 6
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-51853",
+  "customer_id": "C006",
+  "po_number": "PO-6899",
+  "date": "2026-02-03",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-TST-8774",
+    "qty": 1
+   },
+   {
+    "sku": "NB-MTR-7881",
+    "qty": 6
+   },
+   {
+    "sku": "NB-FLT-7437",
+    "qty": 1
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-51861",
+  "customer_id": "C006",
+  "po_number": null,
+  "date": "2026-02-23",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-MTR-4732",
+    "qty": 4
+   },
+   {
+    "sku": "NB-TST-7631",
+    "qty": 2
+   },
+   {
+    "sku": "NB-FUS-3928",
+    "qty": 4
+   },
+   {
+    "sku": "NB-FTG-2451",
+    "qty": 2
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-51890",
+  "customer_id": "C006",
+  "po_number": null,
+  "date": "2026-03-29",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-FTG-2091",
+    "qty": 4
+   },
+   {
+    "sku": "NB-TST-8774",
+    "qty": 4
+   },
+   {
+    "sku": "NB-FTG-2451",
+    "qty": 1
+   },
+   {
+    "sku": "NB-CAP-6435",
+    "qty": 24
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-51911",
+  "customer_id": "C006",
+  "po_number": null,
+  "date": "2026-06-02",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-FLT-2666",
+    "qty": 6
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-51914",
+  "customer_id": "C006",
+  "po_number": "PO-8303",
+  "date": "2026-07-23",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-MTR-4732",
+    "qty": 12
+   },
+   {
+    "sku": "NB-TST-8774",
+    "qty": 5
+   },
+   {
+    "sku": "NB-FLT-4110",
+    "qty": 6
+   },
+   {
+    "sku": "NB-CAP-6435",
+    "qty": 6
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-51918",
+  "customer_id": "C006",
+  "po_number": "PO-2451",
+  "date": "2026-08-05",
+  "status": "shipped",
+  "lines": [
+   {
+    "sku": "NB-CON-5312",
+    "qty": 4
+   },
+   {
+    "sku": "NB-FLT-1845",
+    "qty": 10
+   },
+   {
+    "sku": "NB-VLV-4362",
+    "qty": 5
+   },
+   {
+    "sku": "NB-SLT-6371",
+    "qty": 12
+   },
+   {
+    "sku": "NB-MTR-7881",
+    "qty": 24
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-51922",
+  "customer_id": "C007",
+  "po_number": null,
+  "date": "2026-01-20",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-TST-8312",
+    "qty": 5
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-51933",
+  "customer_id": "C007",
+  "po_number": "PO-4726",
+  "date": "2026-02-26",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-CAP-5131",
+    "qty": 12
+   },
+   {
+    "sku": "NB-TST-2025",
+    "qty": 24
+   },
+   {
+    "sku": "NB-CON-1059",
+    "qty": 5
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-51960",
+  "customer_id": "C007",
+  "po_number": null,
+  "date": "2026-03-31",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-MTR-2328",
+    "qty": 12
+   },
+   {
+    "sku": "NB-FTG-1942",
+    "qty": 1
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-51983",
+  "customer_id": "C007",
+  "po_number": "PO-6790",
+  "date": "2026-04-08",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-FUS-3942",
+    "qty": 1
+   },
+   {
+    "sku": "NB-CON-5005",
+    "qty": 6
+   },
+   {
+    "sku": "NB-CAP-5131",
+    "qty": 6
+   },
+   {
+    "sku": "NB-FUS-8054",
+    "qty": 6
+   },
+   {
+    "sku": "NB-FUS-7559",
+    "qty": 1
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-52006",
+  "customer_id": "C007",
+  "po_number": "PO-9270",
+  "date": "2026-05-13",
+  "status": "shipped",
+  "lines": [
+   {
+    "sku": "NB-SLT-3764",
+    "qty": 1
+   },
+   {
+    "sku": "NB-CON-1059",
+    "qty": 2
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-52011",
+  "customer_id": "C007",
+  "po_number": null,
+  "date": "2026-06-13",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-FUS-3928",
+    "qty": 10
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-52043",
+  "customer_id": "C008",
+  "po_number": "PO-3431",
+  "date": "2026-01-22",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-VLV-3012",
+    "qty": 2
+   },
+   {
+    "sku": "NB-CAP-2269",
+    "qty": 15
+   },
+   {
+    "sku": "NB-CAP-2257",
+    "qty": 2
+   },
+   {
+    "sku": "NB-CON-1059",
+    "qty": 2
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-52070",
+  "customer_id": "C008",
+  "po_number": "PO-7009",
+  "date": "2026-05-21",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-BLT-1661",
+    "qty": 5
+   },
+   {
+    "sku": "NB-FUS-8241",
+    "qty": 5
+   },
+   {
+    "sku": "NB-FUS-9019",
+    "qty": 24
+   },
+   {
+    "sku": "NB-FUS-3928",
+    "qty": 4
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-52095",
+  "customer_id": "C008",
+  "po_number": "PO-4908",
+  "date": "2026-05-24",
+  "status": "processing",
+  "lines": [
+   {
+    "sku": "NB-FTG-9434",
+    "qty": 12
+   },
+   {
+    "sku": "NB-CON-1059",
+    "qty": 1
+   },
+   {
+    "sku": "NB-FLT-6170",
+    "qty": 4
+   },
+   {
+    "sku": "NB-FLT-5508",
+    "qty": 10
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-52122",
+  "customer_id": "C009",
+  "po_number": null,
+  "date": "2026-01-16",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-FUS-8753",
+    "qty": 6
+   },
+   {
+    "sku": "NB-CAP-2219",
+    "qty": 24
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-52133",
+  "customer_id": "C009",
+  "po_number": null,
+  "date": "2026-02-03",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-VLV-8768",
+    "qty": 24
+   },
+   {
+    "sku": "NB-MTR-4715",
+    "qty": 8
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-52167",
+  "customer_id": "C009",
+  "po_number": "PO-3451",
+  "date": "2026-04-25",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-FTG-7651",
+    "qty": 24
+   },
+   {
+    "sku": "NB-CAP-4846",
+    "qty": 5
+   },
+   {
+    "sku": "NB-SLT-5330",
+    "qty": 2
+   },
+   {
+    "sku": "NB-CON-5005",
+    "qty": 1
+   },
+   {
+    "sku": "NB-CAP-3415",
+    "qty": 2
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-52194",
+  "customer_id": "C009",
+  "po_number": null,
+  "date": "2026-05-23",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-FTG-7651",
+    "qty": 2
+   },
+   {
+    "sku": "NB-CAP-4846",
+    "qty": 12
+   },
+   {
+    "sku": "NB-FLT-5353",
+    "qty": 5
+   },
+   {
+    "sku": "NB-CAP-3415",
+    "qty": 24
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-52225",
+  "customer_id": "C009",
+  "po_number": "PO-9796",
+  "date": "2026-05-30",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-FUS-2502",
+    "qty": 10
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-52248",
+  "customer_id": "C009",
+  "po_number": "PO-7986",
+  "date": "2026-06-05",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-FLT-7392",
+    "qty": 10
+   },
+   {
+    "sku": "NB-VLV-6926",
+    "qty": 6
+   },
+   {
+    "sku": "NB-CON-3997",
+    "qty": 4
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-52285",
+  "customer_id": "C009",
+  "po_number": null,
+  "date": "2026-06-20",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-MTR-7493",
+    "qty": 12
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-52294",
+  "customer_id": "C009",
+  "po_number": "PO-9206",
+  "date": "2026-09-13",
+  "status": "shipped",
+  "lines": [
+   {
+    "sku": "NB-FLT-7392",
+    "qty": 24
+   },
+   {
+    "sku": "NB-SLT-6371",
+    "qty": 10
+   },
+   {
+    "sku": "NB-FLT-5353",
+    "qty": 1
+   },
+   {
+    "sku": "NB-FLT-2666",
+    "qty": 12
+   },
+   {
+    "sku": "NB-SLT-4259",
+    "qty": 2
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-52307",
+  "customer_id": "C010",
+  "po_number": "PO-9382",
+  "date": "2026-02-21",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-VLV-2674",
+    "qty": 5
+   },
+   {
+    "sku": "NB-VLV-8841",
+    "qty": 5
+   },
+   {
+    "sku": "NB-FUS-3104",
+    "qty": 10
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-52346",
+  "customer_id": "C010",
+  "po_number": null,
+  "date": "2026-03-24",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-FTG-2372",
+    "qty": 10
+   },
+   {
+    "sku": "NB-VLV-2674",
+    "qty": 6
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-52368",
+  "customer_id": "C010",
+  "po_number": null,
+  "date": "2026-04-02",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-VLV-2407",
+    "qty": 1
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-52397",
+  "customer_id": "C010",
+  "po_number": null,
+  "date": "2026-04-11",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-FUS-8241",
+    "qty": 34
+   },
+   {
+    "sku": "NB-FUS-8508",
+    "qty": 1
+   },
+   {
+    "sku": "NB-FTG-2451",
+    "qty": 2
+   },
+   {
+    "sku": "NB-VLV-9459",
+    "qty": 4
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-52431",
+  "customer_id": "C010",
+  "po_number": null,
+  "date": "2026-06-29",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-VLV-2674",
+    "qty": 1
+   },
+   {
+    "sku": "NB-VLV-5337",
+    "qty": 24
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-52456",
+  "customer_id": "C010",
+  "po_number": "PO-7318",
+  "date": "2026-07-29",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-VLV-2674",
+    "qty": 6
+   },
+   {
+    "sku": "NB-FUS-8320",
+    "qty": 8
+   },
+   {
+    "sku": "NB-VLV-5337",
+    "qty": 6
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-52487",
+  "customer_id": "C010",
+  "po_number": "PO-4904",
+  "date": "2026-08-08",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-TST-6967",
+    "qty": 1
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-52506",
+  "customer_id": "C010",
+  "po_number": null,
+  "date": "2026-08-18",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-VLV-5337",
+    "qty": 2
+   },
+   {
+    "sku": "NB-TST-6967",
+    "qty": 5
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-52519",
+  "customer_id": "C010",
+  "po_number": "PO-4056",
+  "date": "2026-09-11",
+  "status": "shipped",
+  "lines": [
+   {
+    "sku": "NB-VLV-5337",
+    "qty": 6
+   },
+   {
+    "sku": "NB-SLT-4259",
+    "qty": 4
+   },
+   {
+    "sku": "NB-TST-6967",
+    "qty": 12
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-52547",
+  "customer_id": "C011",
+  "po_number": null,
+  "date": "2026-06-02",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-VLV-5337",
+    "qty": 6
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-52574",
+  "customer_id": "C011",
+  "po_number": "PO-5646",
+  "date": "2026-07-09",
+  "status": "shipped",
+  "lines": [
+   {
+    "sku": "NB-FUS-3928",
+    "qty": 24
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-52594",
+  "customer_id": "C011",
+  "po_number": "PO-3093",
+  "date": "2026-07-26",
+  "status": "shipped",
+  "lines": [
+   {
+    "sku": "NB-BLT-1661",
+    "qty": 5
+   },
+   {
+    "sku": "NB-FLT-2251",
+    "qty": 2
+   },
+   {
+    "sku": "NB-CON-1059",
+    "qty": 2
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-52610",
+  "customer_id": "C012",
+  "po_number": "PO-3011",
+  "date": "2026-03-27",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-FTG-4643",
+    "qty": 12
+   },
+   {
+    "sku": "NB-SLT-5330",
+    "qty": 5
+   },
+   {
+    "sku": "NB-FLT-7437",
+    "qty": 6
+   },
+   {
+    "sku": "NB-FLT-5679",
+    "qty": 24
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-52648",
+  "customer_id": "C012",
+  "po_number": null,
+  "date": "2026-04-21",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-MTR-1110",
+    "qty": 10
+   },
+   {
+    "sku": "NB-BLT-2733",
+    "qty": 5
+   },
+   {
+    "sku": "NB-TST-9872",
+    "qty": 2
+   },
+   {
+    "sku": "NB-FTG-4643",
+    "qty": 6
+   },
+   {
+    "sku": "NB-CAP-4846",
+    "qty": 2
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-52674",
+  "customer_id": "C012",
+  "po_number": null,
+  "date": "2026-04-25",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-FTG-2372",
+    "qty": 2
+   },
+   {
+    "sku": "NB-VLV-6926",
+    "qty": 4
+   },
+   {
+    "sku": "NB-MTR-4362",
+    "qty": 5
+   },
+   {
+    "sku": "NB-FLT-7437",
+    "qty": 2
+   },
+   {
+    "sku": "NB-FTG-2091",
+    "qty": 1
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-52695",
+  "customer_id": "C012",
+  "po_number": "PO-4591",
+  "date": "2026-05-07",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-VLV-2889",
+    "qty": 12
+   },
+   {
+    "sku": "NB-MTR-4362",
+    "qty": 6
+   },
+   {
+    "sku": "NB-VLV-8634",
+    "qty": 2
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-52710",
+  "customer_id": "C012",
+  "po_number": null,
+  "date": "2026-06-06",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-FLT-5679",
+    "qty": 10
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-52749",
+  "customer_id": "C012",
+  "po_number": "PO-9532",
+  "date": "2026-07-04",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-FLT-5353",
+    "qty": 24
+   },
+   {
+    "sku": "NB-FLT-5679",
+    "qty": 4
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-52767",
+  "customer_id": "C012",
+  "po_number": null,
+  "date": "2026-07-12",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-SLT-3983",
+    "qty": 6
+   },
+   {
+    "sku": "NB-VLV-8841",
+    "qty": 5
+   },
+   {
+    "sku": "NB-FUS-8320",
+    "qty": 1
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-52775",
+  "customer_id": "C012",
+  "po_number": "PO-7449",
+  "date": "2026-07-16",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-FTG-2465",
+    "qty": 6
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-52810",
+  "customer_id": "C012",
+  "po_number": null,
+  "date": "2026-07-31",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-FTG-7651",
+    "qty": 24
+   },
+   {
+    "sku": "NB-MTR-7881",
+    "qty": 12
+   },
+   {
+    "sku": "NB-SLT-4889",
+    "qty": 24
+   },
+   {
+    "sku": "NB-SLT-1603",
+    "qty": 12
+   },
+   {
+    "sku": "NB-SLT-4259",
+    "qty": 4
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-52847",
+  "customer_id": "C012",
+  "po_number": "PO-4866",
+  "date": "2026-09-01",
+  "status": "shipped",
+  "lines": [
+   {
+    "sku": "NB-CON-2374",
+    "qty": 1
+   },
+   {
+    "sku": "NB-FUS-7559",
+    "qty": 5
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-52865",
+  "customer_id": "C013",
+  "po_number": null,
+  "date": "2026-02-04",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-VLV-8996",
+    "qty": 2
+   },
+   {
+    "sku": "NB-FUS-2099",
+    "qty": 12
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-52890",
+  "customer_id": "C013",
+  "po_number": null,
+  "date": "2026-02-21",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-FLT-7437",
+    "qty": 2
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-52920",
+  "customer_id": "C013",
+  "po_number": null,
+  "date": "2026-04-01",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-VLV-9459",
+    "qty": 4
+   },
+   {
+    "sku": "NB-FLT-8147",
+    "qty": 24
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-52930",
+  "customer_id": "C013",
+  "po_number": null,
+  "date": "2026-05-12",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-VLV-9654",
+    "qty": 12
+   },
+   {
+    "sku": "NB-FLT-5679",
+    "qty": 4
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-52936",
+  "customer_id": "C013",
+  "po_number": null,
+  "date": "2026-07-01",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-CAP-2257",
+    "qty": 1
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-52949",
+  "customer_id": "C013",
+  "po_number": "PO-1746",
+  "date": "2026-07-07",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-FUS-3928",
+    "qty": 5
+   },
+   {
+    "sku": "NB-FLT-8147",
+    "qty": 2
+   },
+   {
+    "sku": "NB-FLT-6170",
+    "qty": 6
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-52973",
+  "customer_id": "C013",
+  "po_number": null,
+  "date": "2026-08-03",
+  "status": "processing",
+  "lines": [
+   {
+    "sku": "NB-VLV-6613",
+    "qty": 12
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-52991",
+  "customer_id": "C014",
+  "po_number": "PO-1453",
+  "date": "2026-01-09",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-SLT-1603",
+    "qty": 5
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-53017",
+  "customer_id": "C014",
+  "po_number": "PO-9608",
+  "date": "2026-03-01",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-VLV-9459",
+    "qty": 5
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-53034",
+  "customer_id": "C014",
+  "po_number": "PO-7050",
+  "date": "2026-04-12",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-CON-1017",
+    "qty": 6
+   },
+   {
+    "sku": "NB-MTR-4362",
+    "qty": 6
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-53064",
+  "customer_id": "C014",
+  "po_number": "PO-3580",
+  "date": "2026-06-18",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-FLT-7116",
+    "qty": 2
+   },
+   {
+    "sku": "NB-SLT-1603",
+    "qty": 10
+   },
+   {
+    "sku": "NB-FTG-3447",
+    "qty": 12
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-53069",
+  "customer_id": "C014",
+  "po_number": null,
+  "date": "2026-07-07",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-SLT-1603",
+    "qty": 2
+   },
+   {
+    "sku": "NB-BLT-1613",
+    "qty": 2
+   },
+   {
+    "sku": "NB-FUS-3928",
+    "qty": 2
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-53072",
+  "customer_id": "C014",
+  "po_number": null,
+  "date": "2026-08-15",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-MTR-4362",
+    "qty": 1
+   },
+   {
+    "sku": "NB-VLV-5337",
+    "qty": 2
+   },
+   {
+    "sku": "NB-FLT-7116",
+    "qty": 24
+   },
+   {
+    "sku": "NB-FLT-2251",
+    "qty": 2
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-53105",
+  "customer_id": "C014",
+  "po_number": "PO-6303",
+  "date": "2026-09-12",
+  "status": "shipped",
+  "lines": [
+   {
+    "sku": "NB-FTG-1942",
+    "qty": 10
+   },
+   {
+    "sku": "NB-FUS-8241",
+    "qty": 6
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-53122",
+  "customer_id": "C015",
+  "po_number": null,
+  "date": "2026-02-04",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-TST-8312",
+    "qty": 24
+   },
+   {
+    "sku": "NB-VLV-2889",
+    "qty": 4
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-53136",
+  "customer_id": "C015",
+  "po_number": null,
+  "date": "2026-02-15",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-VLV-9459",
+    "qty": 6
+   },
+   {
+    "sku": "NB-FLT-6909",
+    "qty": 6
+   },
+   {
+    "sku": "NB-FUS-8054",
+    "qty": 12
+   },
+   {
+    "sku": "NB-MTR-6538",
+    "qty": 4
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-53151",
+  "customer_id": "C015",
+  "po_number": "PO-5121",
+  "date": "2026-03-25",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-VLV-8841",
+    "qty": 4
+   },
+   {
+    "sku": "NB-FTG-5406",
+    "qty": 2
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-53182",
+  "customer_id": "C015",
+  "po_number": "PO-9243",
+  "date": "2026-06-06",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-CAP-4846",
+    "qty": 4
+   },
+   {
+    "sku": "NB-SLT-5306",
+    "qty": 2
+   },
+   {
+    "sku": "NB-FUS-8508",
+    "qty": 2
+   },
+   {
+    "sku": "NB-SLT-4259",
+    "qty": 2
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-53188",
+  "customer_id": "C015",
+  "po_number": "PO-1773",
+  "date": "2026-06-23",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-SLT-7610",
+    "qty": 2
+   },
+   {
+    "sku": "NB-SLT-6227",
+    "qty": 24
+   },
+   {
+    "sku": "NB-TST-2015",
+    "qty": 10
+   },
+   {
+    "sku": "NB-FTG-2372",
+    "qty": 12
+   },
+   {
+    "sku": "NB-VLV-8996",
+    "qty": 6
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-53227",
+  "customer_id": "C015",
+  "po_number": "PO-6810",
+  "date": "2026-07-12",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-CON-5005",
+    "qty": 4
+   },
+   {
+    "sku": "NB-MTR-6538",
+    "qty": 6
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-53246",
+  "customer_id": "C015",
+  "po_number": "PO-7111",
+  "date": "2026-07-29",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-TST-2015",
+    "qty": 6
+   },
+   {
+    "sku": "NB-SLT-7099",
+    "qty": 1
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-53265",
+  "customer_id": "C015",
+  "po_number": "PO-8319",
+  "date": "2026-08-08",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-FLT-3439",
+    "qty": 12
+   },
+   {
+    "sku": "NB-MTR-4245",
+    "qty": 12
+   },
+   {
+    "sku": "NB-VLV-8841",
+    "qty": 1
+   },
+   {
+    "sku": "NB-SLT-4259",
+    "qty": 4
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-53269",
+  "customer_id": "C015",
+  "po_number": "PO-2208",
+  "date": "2026-08-12",
+  "status": "shipped",
+  "lines": [
+   {
+    "sku": "NB-FUS-8320",
+    "qty": 12
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-53300",
+  "customer_id": "C015",
+  "po_number": "PO-6609",
+  "date": "2026-09-08",
+  "status": "backordered",
+  "lines": [
+   {
+    "sku": "NB-MTR-4245",
+    "qty": 5
+   },
+   {
+    "sku": "NB-SLT-3983",
+    "qty": 10
+   },
+   {
+    "sku": "NB-FUS-8508",
+    "qty": 5
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-53333",
+  "customer_id": "C016",
+  "po_number": null,
+  "date": "2026-01-21",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-FUS-8623",
+    "qty": 10
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-53357",
+  "customer_id": "C016",
+  "po_number": "PO-7355",
+  "date": "2026-01-23",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-FUS-8623",
+    "qty": 24
+   },
+   {
+    "sku": "NB-MTR-2104",
+    "qty": 36
+   },
+   {
+    "sku": "NB-TST-2015",
+    "qty": 1
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-53369",
+  "customer_id": "C016",
+  "po_number": null,
+  "date": "2026-09-09",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-MTR-2104",
+    "qty": 12
+   },
+   {
+    "sku": "NB-MTR-4245",
+    "qty": 4
+   },
+   {
+    "sku": "NB-FUS-8623",
+    "qty": 1
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-53408",
+  "customer_id": "C016",
+  "po_number": "PO-3278",
+  "date": "2026-09-11",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-CON-3997",
+    "qty": 2
+   },
+   {
+    "sku": "NB-FTG-5572",
+    "qty": 6
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-53438",
+  "customer_id": "C016",
+  "po_number": null,
+  "date": "2026-09-18",
+  "status": "shipped",
+  "lines": [
+   {
+    "sku": "NB-SLT-9290",
+    "qty": 2
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-53473",
+  "customer_id": "C017",
+  "po_number": null,
+  "date": "2026-03-18",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-FUS-2099",
+    "qty": 6
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-53506",
+  "customer_id": "C017",
+  "po_number": "PO-4988",
+  "date": "2026-05-06",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-FLT-4110",
+    "qty": 10
+   },
+   {
+    "sku": "NB-FUS-2099",
+    "qty": 6
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-53537",
+  "customer_id": "C017",
+  "po_number": "PO-5954",
+  "date": "2026-05-29",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-VLV-9654",
+    "qty": 2
+   },
+   {
+    "sku": "NB-CAP-6435",
+    "qty": 12
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-53544",
+  "customer_id": "C017",
+  "po_number": null,
+  "date": "2026-07-09",
+  "status": "backordered",
+  "lines": [
+   {
+    "sku": "NB-VLV-9459",
+    "qty": 5
+   },
+   {
+    "sku": "NB-FTG-5406",
+    "qty": 24
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-53563",
+  "customer_id": "C018",
+  "po_number": "PO-3696",
+  "date": "2026-04-06",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-SLT-4889",
+    "qty": 10
+   },
+   {
+    "sku": "NB-VLV-5337",
+    "qty": 12
+   },
+   {
+    "sku": "NB-FLT-4110",
+    "qty": 5
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-53572",
+  "customer_id": "C018",
+  "po_number": "PO-1930",
+  "date": "2026-06-09",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-MTR-7493",
+    "qty": 4
+   },
+   {
+    "sku": "NB-MTR-7065",
+    "qty": 4
+   },
+   {
+    "sku": "NB-FTG-7968",
+    "qty": 24
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-53583",
+  "customer_id": "C018",
+  "po_number": "PO-5434",
+  "date": "2026-07-04",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-VLV-6613",
+    "qty": 2
+   },
+   {
+    "sku": "NB-FUS-8241",
+    "qty": 6
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-53607",
+  "customer_id": "C018",
+  "po_number": null,
+  "date": "2026-09-01",
+  "status": "processing",
+  "lines": [
+   {
+    "sku": "NB-VLV-2407",
+    "qty": 6
+   },
+   {
+    "sku": "NB-FTG-3447",
+    "qty": 6
+   },
+   {
+    "sku": "NB-CAP-8542",
+    "qty": 1
+   },
+   {
+    "sku": "NB-FLT-5679",
+    "qty": 6
+   },
+   {
+    "sku": "NB-MTR-7065",
+    "qty": 1
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-53633",
+  "customer_id": "C019",
+  "po_number": "PO-9825",
+  "date": "2026-01-11",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-MTR-1110",
+    "qty": 4
+   },
+   {
+    "sku": "NB-CON-2374",
+    "qty": 6
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-53669",
+  "customer_id": "C019",
+  "po_number": null,
+  "date": "2026-01-18",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-VLV-9654",
+    "qty": 6
+   },
+   {
+    "sku": "NB-CAP-8542",
+    "qty": 12
+   },
+   {
+    "sku": "NB-SLT-9695",
+    "qty": 5
+   },
+   {
+    "sku": "NB-FUS-6985",
+    "qty": 12
+   },
+   {
+    "sku": "NB-FLT-4110",
+    "qty": 24
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-53681",
+  "customer_id": "C019",
+  "po_number": null,
+  "date": "2026-02-02",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-MTR-1558",
+    "qty": 2
+   },
+   {
+    "sku": "NB-SLT-9695",
+    "qty": 6
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-53718",
+  "customer_id": "C019",
+  "po_number": "PO-3978",
+  "date": "2026-05-16",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-CON-2374",
+    "qty": 1
+   },
+   {
+    "sku": "NB-VLV-8870",
+    "qty": 1
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-53749",
+  "customer_id": "C019",
+  "po_number": null,
+  "date": "2026-06-14",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-FLT-4110",
+    "qty": 2
+   },
+   {
+    "sku": "NB-SLT-7099",
+    "qty": 2
+   },
+   {
+    "sku": "NB-FLT-2666",
+    "qty": 4
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-53755",
+  "customer_id": "C019",
+  "po_number": "PO-7160",
+  "date": "2026-06-16",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-MTR-4715",
+    "qty": 10
+   },
+   {
+    "sku": "NB-CON-1017",
+    "qty": 1
+   },
+   {
+    "sku": "NB-BLT-8358",
+    "qty": 2
+   },
+   {
+    "sku": "NB-FLT-5679",
+    "qty": 6
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-53775",
+  "customer_id": "C019",
+  "po_number": "PO-9169",
+  "date": "2026-06-22",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-FLT-5353",
+    "qty": 4
+   },
+   {
+    "sku": "NB-BLT-8358",
+    "qty": 5
+   },
+   {
+    "sku": "NB-FTG-5268",
+    "qty": 4
+   },
+   {
+    "sku": "NB-CON-1017",
+    "qty": 10
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-53797",
+  "customer_id": "C019",
+  "po_number": "PO-6431",
+  "date": "2026-08-05",
+  "status": "shipped",
+  "lines": [
+   {
+    "sku": "NB-FTG-1275",
+    "qty": 12
+   },
+   {
+    "sku": "NB-SLT-9290",
+    "qty": 5
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-53828",
+  "customer_id": "C019",
+  "po_number": "PO-1854",
+  "date": "2026-08-30",
+  "status": "backordered",
+  "lines": [
+   {
+    "sku": "NB-FLT-5084",
+    "qty": 2
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-53853",
+  "customer_id": "C020",
+  "po_number": "PO-3764",
+  "date": "2026-01-28",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-VLV-8841",
+    "qty": 2
+   },
+   {
+    "sku": "NB-VLV-2407",
+    "qty": 2
+   },
+   {
+    "sku": "NB-VLV-9654",
+    "qty": 24
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-53858",
+  "customer_id": "C020",
+  "po_number": "PO-4795",
+  "date": "2026-03-17",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-VLV-6926",
+    "qty": 10
+   },
+   {
+    "sku": "NB-BLT-1825",
+    "qty": 11
+   },
+   {
+    "sku": "NB-VLV-3012",
+    "qty": 4
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-53870",
+  "customer_id": "C020",
+  "po_number": null,
+  "date": "2026-04-08",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-FLT-8147",
+    "qty": 1
+   },
+   {
+    "sku": "NB-FUS-9263",
+    "qty": 2
+   },
+   {
+    "sku": "NB-VLV-8870",
+    "qty": 12
+   },
+   {
+    "sku": "NB-FUS-3942",
+    "qty": 10
+   },
+   {
+    "sku": "NB-CAP-2257",
+    "qty": 24
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-53875",
+  "customer_id": "C020",
+  "po_number": "PO-1784",
+  "date": "2026-07-08",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-VLV-8841",
+    "qty": 24
+   },
+   {
+    "sku": "NB-CON-3997",
+    "qty": 2
+   },
+   {
+    "sku": "NB-CAP-2257",
+    "qty": 4
+   },
+   {
+    "sku": "NB-FTG-6358",
+    "qty": 2
+   },
+   {
+    "sku": "NB-MTR-4715",
+    "qty": 2
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-53895",
+  "customer_id": "C020",
+  "po_number": "PO-6214",
+  "date": "2026-08-15",
+  "status": "delivered",
+  "lines": [
+   {
+    "sku": "NB-FLT-4110",
+    "qty": 5
+   },
+   {
+    "sku": "NB-MTR-9164",
+    "qty": 1
+   },
+   {
+    "sku": "NB-FUS-6874",
+    "qty": 5
+   },
+   {
+    "sku": "NB-SLT-4889",
+    "qty": 10
+   }
+  ]
+ },
+ {
+  "order_id": "NBO-53910",
+  "customer_id": "C020",
+  "po_number": null,
+  "date": "2026-08-17",
+  "status": "shipped",
+  "lines": [
+   {
+    "sku": "NB-CON-5005",
+    "qty": 10
+   },
+   {
+    "sku": "NB-FLT-6170",
+    "qty": 2
+   },
+   {
+    "sku": "NB-SLT-1795",
+    "qty": 1
+   },
+   {
+    "sku": "NB-MTR-2104",
+    "qty": 5
+   },
+   {
+    "sku": "NB-SLT-6371",
+    "qty": 10
+   }
+  ]
+ }
+]

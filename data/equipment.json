@@ -1,0 +1,505 @@
+[
+ {
+  "model": "KVL-AC24-2",
+  "brand": "Korvale",
+  "type": "AC",
+  "type_name": "AC condenser",
+  "capacity": 24,
+  "compatible_parts": {
+   "capacitors": "NB-CAP-4362",
+   "contactors": "NB-CON-3997",
+   "motors": "NB-MTR-1110"
+  }
+ },
+ {
+  "model": "QMK-AC24-1",
+  "brand": "Quellmark",
+  "type": "AC",
+  "type_name": "AC condenser",
+  "capacity": 24,
+  "compatible_parts": {
+   "capacitors": "NB-CAP-1765",
+   "contactors": "NB-CON-5312",
+   "motors": "NB-MTR-4245"
+  }
+ },
+ {
+  "model": "TVD-AC24-B",
+  "brand": "Talverd",
+  "type": "AC",
+  "type_name": "AC condenser",
+  "capacity": 24,
+  "compatible_parts": {
+   "capacitors": "NB-CAP-3415",
+   "contactors": "NB-CON-3997",
+   "motors": "NB-MTR-4715"
+  }
+ },
+ {
+  "model": "OSR-AC48-3",
+  "brand": "Ostrine",
+  "type": "AC",
+  "type_name": "AC condenser",
+  "capacity": 48,
+  "compatible_parts": {
+   "capacitors": "NB-CAP-2219",
+   "contactors": "NB-CON-3997",
+   "motors": "NB-MTR-4362"
+  }
+ },
+ {
+  "model": "BSV-AC48-A",
+  "brand": "Brisova",
+  "type": "AC",
+  "type_name": "AC condenser",
+  "capacity": 48,
+  "compatible_parts": {
+   "capacitors": "NB-CAP-2219",
+   "contactors": "NB-CON-2374",
+   "motors": "NB-MTR-1110"
+  }
+ },
+ {
+  "model": "VTR-AC30-C",
+  "brand": "Vantrell",
+  "type": "AC",
+  "type_name": "AC condenser",
+  "capacity": 30,
+  "compatible_parts": {
+   "capacitors": "NB-CAP-2219",
+   "contactors": "NB-CON-8776",
+   "motors": "NB-MTR-1558"
+  }
+ },
+ {
+  "model": "HSK-HP24-C",
+  "brand": "Heskel",
+  "type": "HP",
+  "type_name": "heat pump",
+  "capacity": 24,
+  "compatible_parts": {
+   "capacitors": "NB-CAP-2219",
+   "contactors": "NB-CON-5005",
+   "motors": "NB-MTR-4715",
+   "thermostats": "NB-TST-2025"
+  }
+ },
+ {
+  "model": "MRW-HP24-1",
+  "brand": "Marrowind",
+  "type": "HP",
+  "type_name": "heat pump",
+  "capacity": 24,
+  "compatible_parts": {
+   "capacitors": "NB-CAP-4780",
+   "contactors": "NB-CON-5312",
+   "motors": "NB-MTR-4732",
+   "thermostats": "NB-TST-4206"
+  }
+ },
+ {
+  "model": "KVL-HP60-C",
+  "brand": "Korvale",
+  "type": "HP",
+  "type_name": "heat pump",
+  "capacity": 60,
+  "compatible_parts": {
+   "capacitors": "NB-CAP-4362",
+   "contactors": "NB-CON-3997",
+   "motors": "NB-MTR-2104",
+   "thermostats": "NB-TST-1496"
+  }
+ },
+ {
+  "model": "QMK-HP24-1",
+  "brand": "Quellmark",
+  "type": "HP",
+  "type_name": "heat pump",
+  "capacity": 24,
+  "compatible_parts": {
+   "capacitors": "NB-CAP-4780",
+   "contactors": "NB-CON-1017",
+   "motors": "NB-MTR-4715",
+   "thermostats": "NB-TST-1571"
+  }
+ },
+ {
+  "model": "TVD-HP30-2",
+  "brand": "Talverd",
+  "type": "HP",
+  "type_name": "heat pump",
+  "capacity": 30,
+  "compatible_parts": {
+   "capacitors": "NB-CAP-1765",
+   "contactors": "NB-CON-1059",
+   "motors": "NB-MTR-1110",
+   "thermostats": "NB-TST-4206"
+  }
+ },
+ {
+  "model": "OSR-FUR80-2",
+  "brand": "Ostrine",
+  "type": "FUR",
+  "type_name": "gas furnace",
+  "capacity": 80,
+  "compatible_parts": {
+   "motors": "NB-MTR-7881",
+   "filters": "NB-FLT-4110",
+   "thermostats": "NB-TST-8774",
+   "capacitors": "NB-CAP-6435"
+  }
+ },
+ {
+  "model": "BSV-FUR120-B",
+  "brand": "Brisova",
+  "type": "FUR",
+  "type_name": "gas furnace",
+  "capacity": 120,
+  "compatible_parts": {
+   "motors": "NB-MTR-6538",
+   "filters": "NB-FLT-7437",
+   "thermostats": "NB-TST-8312",
+   "capacitors": "NB-CAP-4846"
+  }
+ },
+ {
+  "model": "VTR-FUR100-C",
+  "brand": "Vantrell",
+  "type": "FUR",
+  "type_name": "gas furnace",
+  "capacity": 100,
+  "compatible_parts": {
+   "motors": "NB-MTR-5214",
+   "filters": "NB-FLT-7392",
+   "thermostats": "NB-TST-9872",
+   "capacitors": "NB-CAP-6435"
+  }
+ },
+ {
+  "model": "HSK-FUR60-A",
+  "brand": "Heskel",
+  "type": "FUR",
+  "type_name": "gas furnace",
+  "capacity": 60,
+  "compatible_parts": {
+   "motors": "NB-MTR-7881",
+   "filters": "NB-FLT-7116",
+   "thermostats": "NB-TST-7631",
+   "capacitors": "NB-CAP-7267"
+  }
+ },
+ {
+  "model": "MRW-FUR120-2",
+  "brand": "Marrowind",
+  "type": "FUR",
+  "type_name": "gas furnace",
+  "capacity": 120,
+  "compatible_parts": {
+   "motors": "NB-MTR-6936",
+   "filters": "NB-FLT-2251",
+   "thermostats": "NB-TST-8312",
+   "capacitors": "NB-CAP-5131"
+  }
+ },
+ {
+  "model": "KVL-FUR60-1",
+  "brand": "Korvale",
+  "type": "FUR",
+  "type_name": "gas furnace",
+  "capacity": 60,
+  "compatible_parts": {
+   "motors": "NB-MTR-7493",
+   "filters": "NB-FLT-5353",
+   "thermostats": "NB-TST-9872",
+   "capacitors": "NB-CAP-4846"
+  }
+ },
+ {
+  "model": "QMK-AH48-C",
+  "brand": "Quellmark",
+  "type": "AH",
+  "type_name": "air handler",
+  "capacity": 48,
+  "compatible_parts": {
+   "motors": "NB-MTR-7881",
+   "filters": "NB-FLT-7437",
+   "capacitors": "NB-CAP-5350"
+  }
+ },
+ {
+  "model": "TVD-AH48-C",
+  "brand": "Talverd",
+  "type": "AH",
+  "type_name": "air handler",
+  "capacity": 48,
+  "compatible_parts": {
+   "motors": "NB-MTR-6936",
+   "filters": "NB-FLT-2064",
+   "capacitors": "NB-CAP-6435"
+  }
+ },
+ {
+  "model": "OSR-AH24-2",
+  "brand": "Ostrine",
+  "type": "AH",
+  "type_name": "air handler",
+  "capacity": 24,
+  "compatible_parts": {
+   "motors": "NB-MTR-7065",
+   "filters": "NB-FLT-5084",
+   "capacitors": "NB-CAP-8542"
+  }
+ },
+ {
+  "model": "BSV-AH36-2",
+  "brand": "Brisova",
+  "type": "AH",
+  "type_name": "air handler",
+  "capacity": 36,
+  "compatible_parts": {
+   "motors": "NB-MTR-7493",
+   "filters": "NB-FLT-4110",
+   "capacitors": "NB-CAP-5707"
+  }
+ },
+ {
+  "model": "VTR-RTU60-B",
+  "brand": "Vantrell",
+  "type": "RTU",
+  "type_name": "rooftop unit",
+  "capacity": 60,
+  "compatible_parts": {
+   "belts": "NB-BLT-3912",
+   "filters": "NB-FLT-6170",
+   "contactors": "NB-CON-8776",
+   "capacitors": "NB-CAP-4362",
+   "motors": "NB-MTR-1110",
+   "fuses": "NB-FUS-1057"
+  }
+ },
+ {
+  "model": "HSK-RTU90-C",
+  "brand": "Heskel",
+  "type": "RTU",
+  "type_name": "rooftop unit",
+  "capacity": 90,
+  "compatible_parts": {
+   "belts": "NB-BLT-3912",
+   "filters": "NB-FLT-8147",
+   "contactors": "NB-CON-5005",
+   "capacitors": "NB-CAP-2257",
+   "motors": "NB-MTR-4715",
+   "fuses": "NB-FUS-9263"
+  }
+ },
+ {
+  "model": "MRW-RTU120-1",
+  "brand": "Marrowind",
+  "type": "RTU",
+  "type_name": "rooftop unit",
+  "capacity": 120,
+  "compatible_parts": {
+   "belts": "NB-BLT-8358",
+   "filters": "NB-FLT-3439",
+   "contactors": "NB-CON-2374",
+   "capacitors": "NB-CAP-1765",
+   "motors": "NB-MTR-1110",
+   "fuses": "NB-FUS-2502"
+  }
+ },
+ {
+  "model": "KVL-RTU36-B",
+  "brand": "Korvale",
+  "type": "RTU",
+  "type_name": "rooftop unit",
+  "capacity": 36,
+  "compatible_parts": {
+   "belts": "NB-BLT-2733",
+   "filters": "NB-FLT-5679",
+   "contactors": "NB-CON-2374",
+   "capacitors": "NB-CAP-1765",
+   "motors": "NB-MTR-1110",
+   "fuses": "NB-FUS-1382"
+  }
+ },
+ {
+  "model": "QMK-RTU48-C",
+  "brand": "Quellmark",
+  "type": "RTU",
+  "type_name": "rooftop unit",
+  "capacity": 48,
+  "compatible_parts": {
+   "belts": "NB-BLT-1613",
+   "filters": "NB-FLT-2064",
+   "contactors": "NB-CON-1017",
+   "capacitors": "NB-CAP-2082",
+   "motors": "NB-MTR-4362",
+   "fuses": "NB-FUS-3928"
+  }
+ },
+ {
+  "model": "TVD-RTU120-C",
+  "brand": "Talverd",
+  "type": "RTU",
+  "type_name": "rooftop unit",
+  "capacity": 120,
+  "compatible_parts": {
+   "belts": "NB-BLT-1661",
+   "filters": "NB-FLT-6170",
+   "contactors": "NB-CON-1059",
+   "capacitors": "NB-CAP-2257",
+   "motors": "NB-MTR-2328",
+   "fuses": "NB-FUS-3928"
+  }
+ },
+ {
+  "model": "OSR-BLR80-1",
+  "brand": "Ostrine",
+  "type": "BLR",
+  "type_name": "boiler",
+  "capacity": 80,
+  "compatible_parts": {
+   "valves": "NB-VLV-2674",
+   "fuses": "NB-FUS-2099",
+   "thermostats": "NB-TST-6967"
+  }
+ },
+ {
+  "model": "BSV-BLR120-1",
+  "brand": "Brisova",
+  "type": "BLR",
+  "type_name": "boiler",
+  "capacity": 120,
+  "compatible_parts": {
+   "valves": "NB-VLV-3645",
+   "fuses": "NB-FUS-2502",
+   "thermostats": "NB-TST-5210"
+  }
+ },
+ {
+  "model": "VTR-BLR120-3",
+  "brand": "Vantrell",
+  "type": "BLR",
+  "type_name": "boiler",
+  "capacity": 120,
+  "compatible_parts": {
+   "valves": "NB-VLV-5337",
+   "fuses": "NB-FUS-8241",
+   "thermostats": "NB-TST-6967"
+  }
+ },
+ {
+  "model": "HSK-WIC6-3",
+  "brand": "Heskel",
+  "type": "WIC",
+  "type_name": "walk-in cooler",
+  "capacity": 6,
+  "compatible_parts": {
+   "motors": "NB-MTR-4245",
+   "contactors": "NB-CON-5005",
+   "thermostats": "NB-TST-2015"
+  }
+ },
+ {
+  "model": "MRW-WIC10-3",
+  "brand": "Marrowind",
+  "type": "WIC",
+  "type_name": "walk-in cooler",
+  "capacity": 10,
+  "compatible_parts": {
+   "motors": "NB-MTR-4362",
+   "contactors": "NB-CON-8776",
+   "thermostats": "NB-TST-5063"
+  }
+ },
+ {
+  "model": "KVL-WIC10-C",
+  "brand": "Korvale",
+  "type": "WIC",
+  "type_name": "walk-in cooler",
+  "capacity": 10,
+  "compatible_parts": {
+   "motors": "NB-MTR-1110",
+   "contactors": "NB-CON-8304",
+   "thermostats": "NB-TST-2015"
+  }
+ },
+ {
+  "model": "QMK-EXF24-B",
+  "brand": "Quellmark",
+  "type": "EXF",
+  "type_name": "exhaust fan",
+  "capacity": 24,
+  "compatible_parts": {
+   "belts": "NB-BLT-1825",
+   "motors": "NB-MTR-9164",
+   "fuses": "NB-FUS-8508"
+  }
+ },
+ {
+  "model": "TVD-EXF12-B",
+  "brand": "Talverd",
+  "type": "EXF",
+  "type_name": "exhaust fan",
+  "capacity": 12,
+  "compatible_parts": {
+   "belts": "NB-BLT-8358",
+   "motors": "NB-MTR-9076",
+   "fuses": "NB-FUS-2099"
+  }
+ },
+ {
+  "model": "OSR-EXF20-2",
+  "brand": "Ostrine",
+  "type": "EXF",
+  "type_name": "exhaust fan",
+  "capacity": 20,
+  "compatible_parts": {
+   "belts": "NB-BLT-5811",
+   "motors": "NB-MTR-7952",
+   "fuses": "NB-FUS-8623"
+  }
+ },
+ {
+  "model": "BSV-WH40-3",
+  "brand": "Brisova",
+  "type": "WH",
+  "type_name": "water heater",
+  "capacity": 40,
+  "compatible_parts": {
+   "valves": "NB-VLV-2674"
+  }
+ },
+ {
+  "model": "VTR-WH40-3",
+  "brand": "Vantrell",
+  "type": "WH",
+  "type_name": "water heater",
+  "capacity": 40,
+  "compatible_parts": {
+   "valves": "NB-VLV-6613"
+  }
+ },
+ {
+  "model": "HSK-MS9-A",
+  "brand": "Heskel",
+  "type": "MS",
+  "type_name": "mini-split",
+  "capacity": 9,
+  "compatible_parts": {
+   "capacitors": "NB-CAP-2219",
+   "fuses": "NB-FUS-8508"
+  }
+ },
+ {
+  "model": "MRW-MS18-B",
+  "brand": "Marrowind",
+  "type": "MS",
+  "type_name": "mini-split",
+  "capacity": 18,
+  "compatible_parts": {
+   "capacitors": "NB-CAP-2269",
+   "fuses": "NB-FUS-9019"
+  }
+ }
+]

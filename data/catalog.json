@@ -1,0 +1,5641 @@
+[
+ {
+  "sku": "NB-VLV-1378",
+  "name": "1-1/2\" brass gate valve, sweat",
+  "category": "valves",
+  "attributes": {
+   "type": "gate",
+   "size": "1-1/2\"",
+   "material": "brass",
+   "connection": "sweat"
+  },
+  "aliases": [
+   "1-1/2 brass gate valve sweat",
+   "1-1/2 brass GV sweat",
+   "1-1/2\" gate valve",
+   "1-1/2 gate valve",
+   "brass gate valves"
+  ],
+  "long_description": "inch and a half brass gate valve with sweat ends",
+  "unit": "each",
+  "list_price": 41.99,
+  "stock_qty": 5,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "1-1/2 brass gate valve sweat",
+   "1-1/2 brass GV sweat"
+  ]
+ },
+ {
+  "sku": "NB-VLV-2407",
+  "name": "1\" PVC ball valve, NPT",
+  "category": "valves",
+  "attributes": {
+   "type": "ball",
+   "size": "1\"",
+   "material": "PVC",
+   "connection": "NPT"
+  },
+  "aliases": [
+   "1 PVC ball valve NPT",
+   "1 PVC BV NPT",
+   "1\" ball valve",
+   "1 ball valve",
+   "PVC ball valves"
+  ],
+  "long_description": "one inch PVC ball valve with NPT ends",
+  "unit": "each",
+  "list_price": 8.49,
+  "stock_qty": 107,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "1 PVC ball valve NPT",
+   "1 PVC BV NPT"
+  ]
+ },
+ {
+  "sku": "NB-VLV-2674",
+  "name": "1\" stainless gate valve, press",
+  "category": "valves",
+  "attributes": {
+   "type": "gate",
+   "size": "1\"",
+   "material": "stainless",
+   "connection": "press"
+  },
+  "aliases": [
+   "1 stainless gate valve press",
+   "1 stainless GV press",
+   "1\" gate valve",
+   "1 gate valve",
+   "stainless gate valves"
+  ],
+  "long_description": "one inch stainless gate valve with press ends",
+  "unit": "each",
+  "list_price": 43.99,
+  "stock_qty": 51,
+  "compatible_equipment": [
+   "BSV-WH40-3",
+   "OSR-BLR80-1"
+  ],
+  "unique_aliases": [
+   "1 stainless gate valve press",
+   "1 stainless GV press",
+   "1\" gate valve",
+   "1 gate valve"
+  ]
+ },
+ {
+  "sku": "NB-VLV-2889",
+  "name": "1-1/2\" PVC ball valve, NPT",
+  "category": "valves",
+  "attributes": {
+   "type": "ball",
+   "size": "1-1/2\"",
+   "material": "PVC",
+   "connection": "NPT"
+  },
+  "aliases": [
+   "1-1/2 PVC ball valve NPT",
+   "1-1/2 PVC BV NPT",
+   "1-1/2\" ball valve",
+   "1-1/2 ball valve",
+   "PVC ball valves"
+  ],
+  "long_description": "inch and a half PVC ball valve with NPT ends",
+  "unit": "each",
+  "list_price": 17.49,
+  "stock_qty": 73,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "1-1/2 PVC ball valve NPT",
+   "1-1/2 PVC BV NPT"
+  ]
+ },
+ {
+  "sku": "NB-VLV-3012",
+  "name": "1-1/2\" stainless ball valve, NPT",
+  "category": "valves",
+  "attributes": {
+   "type": "ball",
+   "size": "1-1/2\"",
+   "material": "stainless",
+   "connection": "NPT"
+  },
+  "aliases": [
+   "1-1/2 stainless ball valve NPT",
+   "1-1/2 stainless BV NPT",
+   "1-1/2\" ball valve",
+   "1-1/2 ball valve",
+   "stainless ball valves"
+  ],
+  "long_description": "inch and a half stainless ball valve with NPT ends",
+  "unit": "each",
+  "list_price": 83.99,
+  "stock_qty": 61,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "1-1/2 stainless ball valve NPT",
+   "1-1/2 stainless BV NPT",
+   "stainless ball valves"
+  ]
+ },
+ {
+  "sku": "NB-VLV-3361",
+  "name": "1/2\" bronze check valve, NPT",
+  "category": "valves",
+  "attributes": {
+   "type": "check",
+   "size": "1/2\"",
+   "material": "bronze",
+   "connection": "NPT"
+  },
+  "aliases": [
+   "1/2 bronze check valve NPT",
+   "1/2 bronze CV NPT",
+   "1/2\" check valve",
+   "1/2 check valve",
+   "bronze check valves"
+  ],
+  "long_description": "half inch bronze check valve with NPT ends",
+  "unit": "each",
+  "list_price": 13.49,
+  "stock_qty": 68,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "1/2 bronze check valve NPT",
+   "1/2 bronze CV NPT",
+   "1/2\" check valve",
+   "1/2 check valve"
+  ]
+ },
+ {
+  "sku": "NB-VLV-3645",
+  "name": "1\" brass ball valve, NPT",
+  "category": "valves",
+  "attributes": {
+   "type": "ball",
+   "size": "1\"",
+   "material": "brass",
+   "connection": "NPT"
+  },
+  "aliases": [
+   "1 brass ball valve NPT",
+   "1 brass BV NPT",
+   "1\" ball valve",
+   "1 ball valve",
+   "brass ball valves"
+  ],
+  "long_description": "one inch brass ball valve with NPT ends",
+  "unit": "each",
+  "list_price": 18.49,
+  "stock_qty": 104,
+  "compatible_equipment": [
+   "BSV-BLR120-1"
+  ],
+  "unique_aliases": [
+   "1 brass ball valve NPT",
+   "1 brass BV NPT",
+   "brass ball valves"
+  ]
+ },
+ {
+  "sku": "NB-VLV-4362",
+  "name": "1-1/2\" bronze gate valve, PEX",
+  "category": "valves",
+  "attributes": {
+   "type": "gate",
+   "size": "1-1/2\"",
+   "material": "bronze",
+   "connection": "PEX"
+  },
+  "aliases": [
+   "1-1/2 bronze gate valve PEX",
+   "1-1/2 bronze GV PEX",
+   "1-1/2\" gate valve",
+   "1-1/2 gate valve",
+   "bronze gate valves"
+  ],
+  "long_description": "inch and a half bronze gate valve with PEX ends",
+  "unit": "each",
+  "list_price": 54.49,
+  "stock_qty": 68,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "1-1/2 bronze gate valve PEX",
+   "1-1/2 bronze GV PEX",
+   "bronze gate valves"
+  ]
+ },
+ {
+  "sku": "NB-VLV-5337",
+  "name": "3/4\" stainless check valve, PEX",
+  "category": "valves",
+  "attributes": {
+   "type": "check",
+   "size": "3/4\"",
+   "material": "stainless",
+   "connection": "PEX"
+  },
+  "aliases": [
+   "3/4 stainless check valve PEX",
+   "3/4 stainless CV PEX",
+   "3/4\" check valve",
+   "3/4 check valve",
+   "stainless check valves"
+  ],
+  "long_description": "three-quarter inch stainless check valve with PEX ends",
+  "unit": "each",
+  "list_price": 30.49,
+  "stock_qty": 64,
+  "compatible_equipment": [
+   "VTR-BLR120-3"
+  ],
+  "unique_aliases": [
+   "3/4 stainless check valve PEX",
+   "3/4 stainless CV PEX",
+   "stainless check valves"
+  ]
+ },
+ {
+  "sku": "NB-VLV-6109",
+  "name": "1/2\" brass gate valve, sweat",
+  "category": "valves",
+  "attributes": {
+   "type": "gate",
+   "size": "1/2\"",
+   "material": "brass",
+   "connection": "sweat"
+  },
+  "aliases": [
+   "1/2 brass gate valve sweat",
+   "1/2 brass GV sweat",
+   "1/2\" gate valve",
+   "1/2 gate valve",
+   "brass gate valves"
+  ],
+  "long_description": "half inch brass gate valve with sweat ends",
+  "unit": "each",
+  "list_price": 9.99,
+  "stock_qty": 91,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "1/2 brass gate valve sweat",
+   "1/2 brass GV sweat",
+   "1/2\" gate valve",
+   "1/2 gate valve"
+  ]
+ },
+ {
+  "sku": "NB-VLV-6613",
+  "name": "1\" bronze ball valve, sweat",
+  "category": "valves",
+  "attributes": {
+   "type": "ball",
+   "size": "1\"",
+   "material": "bronze",
+   "connection": "sweat"
+  },
+  "aliases": [
+   "1 bronze ball valve sweat",
+   "1 bronze BV sweat",
+   "1\" ball valve",
+   "1 ball valve",
+   "bronze ball valves"
+  ],
+  "long_description": "one inch bronze ball valve with sweat ends",
+  "unit": "each",
+  "list_price": 23.49,
+  "stock_qty": 69,
+  "compatible_equipment": [
+   "VTR-WH40-3"
+  ],
+  "unique_aliases": [
+   "1 bronze ball valve sweat",
+   "1 bronze BV sweat"
+  ]
+ },
+ {
+  "sku": "NB-VLV-6926",
+  "name": "3/4\" PVC ball valve, NPT",
+  "category": "valves",
+  "attributes": {
+   "type": "ball",
+   "size": "3/4\"",
+   "material": "PVC",
+   "connection": "NPT"
+  },
+  "aliases": [
+   "3/4 PVC ball valve NPT",
+   "3/4 PVC BV NPT",
+   "3/4\" ball valve",
+   "3/4 ball valve",
+   "PVC ball valves"
+  ],
+  "long_description": "three-quarter inch PVC ball valve with NPT ends",
+  "unit": "each",
+  "list_price": 5.49,
+  "stock_qty": 4,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "3/4 PVC ball valve NPT",
+   "3/4 PVC BV NPT",
+   "3/4\" ball valve",
+   "3/4 ball valve"
+  ]
+ },
+ {
+  "sku": "NB-VLV-8634",
+  "name": "2\" stainless gate valve, PEX",
+  "category": "valves",
+  "attributes": {
+   "type": "gate",
+   "size": "2\"",
+   "material": "stainless",
+   "connection": "PEX"
+  },
+  "aliases": [
+   "2 stainless gate valve PEX",
+   "2 stainless GV PEX",
+   "2\" gate valve",
+   "2 gate valve",
+   "stainless gate valves"
+  ],
+  "long_description": "two inch stainless gate valve with PEX ends",
+  "unit": "each",
+  "list_price": 135.99,
+  "stock_qty": 43,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "2 stainless gate valve PEX",
+   "2 stainless GV PEX",
+   "2\" gate valve",
+   "2 gate valve"
+  ]
+ },
+ {
+  "sku": "NB-VLV-8768",
+  "name": "1-1/4\" bronze ball valve, sweat",
+  "category": "valves",
+  "attributes": {
+   "type": "ball",
+   "size": "1-1/4\"",
+   "material": "bronze",
+   "connection": "sweat"
+  },
+  "aliases": [
+   "1-1/4 bronze ball valve sweat",
+   "1-1/4 bronze BV sweat",
+   "1-1/4\" ball valve",
+   "1-1/4 ball valve",
+   "bronze ball valves"
+  ],
+  "long_description": "inch and a quarter bronze ball valve with sweat ends",
+  "unit": "each",
+  "list_price": 37.99,
+  "stock_qty": 75,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "1-1/4 bronze ball valve sweat",
+   "1-1/4 bronze BV sweat",
+   "1-1/4\" ball valve",
+   "1-1/4 ball valve"
+  ]
+ },
+ {
+  "sku": "NB-VLV-8841",
+  "name": "1-1/4\" brass gate valve, NPT",
+  "category": "valves",
+  "attributes": {
+   "type": "gate",
+   "size": "1-1/4\"",
+   "material": "brass",
+   "connection": "NPT"
+  },
+  "aliases": [
+   "1-1/4 brass gate valve NPT",
+   "1-1/4 brass GV NPT",
+   "1-1/4\" gate valve",
+   "1-1/4 gate valve",
+   "brass gate valves"
+  ],
+  "long_description": "inch and a quarter brass gate valve with NPT ends",
+  "unit": "each",
+  "list_price": 31.99,
+  "stock_qty": 64,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "1-1/4 brass gate valve NPT",
+   "1-1/4 brass GV NPT",
+   "1-1/4\" gate valve",
+   "1-1/4 gate valve"
+  ]
+ },
+ {
+  "sku": "NB-VLV-8870",
+  "name": "1/2\" bronze ball valve, NPT",
+  "category": "valves",
+  "attributes": {
+   "type": "ball",
+   "size": "1/2\"",
+   "material": "bronze",
+   "connection": "NPT"
+  },
+  "aliases": [
+   "1/2 bronze ball valve NPT",
+   "1/2 bronze BV NPT",
+   "1/2\" ball valve",
+   "1/2 ball valve",
+   "bronze ball valves"
+  ],
+  "long_description": "half inch bronze ball valve with NPT ends",
+  "unit": "each",
+  "list_price": 11.99,
+  "stock_qty": 84,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "1/2 bronze ball valve NPT",
+   "1/2 bronze BV NPT",
+   "1/2\" ball valve",
+   "1/2 ball valve"
+  ]
+ },
+ {
+  "sku": "NB-VLV-8927",
+  "name": "3/4\" bronze check valve, NPT",
+  "category": "valves",
+  "attributes": {
+   "type": "check",
+   "size": "3/4\"",
+   "material": "bronze",
+   "connection": "NPT"
+  },
+  "aliases": [
+   "3/4 bronze check valve NPT",
+   "3/4 bronze CV NPT",
+   "3/4\" check valve",
+   "3/4 check valve",
+   "bronze check valves"
+  ],
+  "long_description": "three-quarter inch bronze check valve with NPT ends",
+  "unit": "each",
+  "list_price": 17.99,
+  "stock_qty": 84,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "3/4 bronze check valve NPT",
+   "3/4 bronze CV NPT"
+  ]
+ },
+ {
+  "sku": "NB-VLV-8996",
+  "name": "1-1/4\" bronze check valve, press",
+  "category": "valves",
+  "attributes": {
+   "type": "check",
+   "size": "1-1/4\"",
+   "material": "bronze",
+   "connection": "press"
+  },
+  "aliases": [
+   "1-1/4 bronze check valve press",
+   "1-1/4 bronze CV press",
+   "1-1/4\" check valve",
+   "1-1/4 check valve",
+   "bronze check valves"
+  ],
+  "long_description": "inch and a quarter bronze check valve with press ends",
+  "unit": "each",
+  "list_price": 43.49,
+  "stock_qty": 86,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "1-1/4 bronze check valve press",
+   "1-1/4 bronze CV press",
+   "1-1/4\" check valve",
+   "1-1/4 check valve"
+  ]
+ },
+ {
+  "sku": "NB-VLV-9459",
+  "name": "1\" brass check valve, press",
+  "category": "valves",
+  "attributes": {
+   "type": "check",
+   "size": "1\"",
+   "material": "brass",
+   "connection": "press"
+  },
+  "aliases": [
+   "1 brass check valve press",
+   "1 brass CV press",
+   "1\" check valve",
+   "1 check valve",
+   "brass check valves"
+  ],
+  "long_description": "one inch brass check valve with press ends",
+  "unit": "each",
+  "list_price": 20.99,
+  "stock_qty": 0,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "1 brass check valve press",
+   "1 brass CV press",
+   "1\" check valve",
+   "1 check valve",
+   "brass check valves"
+  ]
+ },
+ {
+  "sku": "NB-VLV-9654",
+  "name": "1-1/2\" brass gate valve, NPT",
+  "category": "valves",
+  "attributes": {
+   "type": "gate",
+   "size": "1-1/2\"",
+   "material": "brass",
+   "connection": "NPT"
+  },
+  "aliases": [
+   "1-1/2 brass gate valve NPT",
+   "1-1/2 brass GV NPT",
+   "1-1/2\" gate valve",
+   "1-1/2 gate valve",
+   "brass gate valves"
+  ],
+  "long_description": "inch and a half brass gate valve with NPT ends",
+  "unit": "each",
+  "list_price": 41.99,
+  "stock_qty": 4,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "1-1/2 brass gate valve NPT",
+   "1-1/2 brass GV NPT"
+  ]
+ },
+ {
+  "sku": "NB-FTG-1275",
+  "name": "3/4\" galvanized coupling",
+  "category": "fittings",
+  "attributes": {
+   "type": "coupling",
+   "size": "3/4\"",
+   "material": "galvanized",
+   "pack_qty": 1
+  },
+  "aliases": [
+   "3/4 galv coupling",
+   "3/4\" galvanized coupling",
+   "3/4 couplings",
+   "galvanized couplings"
+  ],
+  "long_description": "three-quarter inch galvanized coupling fittings",
+  "unit": "each",
+  "list_price": 2.49,
+  "stock_qty": 216,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "3/4 galv coupling",
+   "3/4\" galvanized coupling",
+   "galvanized couplings"
+  ]
+ },
+ {
+  "sku": "NB-FTG-1942",
+  "name": "3/4\" galvanized 45 elbow",
+  "category": "fittings",
+  "attributes": {
+   "type": "45 elbow",
+   "size": "3/4\"",
+   "material": "galvanized",
+   "pack_qty": 1
+  },
+  "aliases": [
+   "3/4 galv 45",
+   "3/4\" galvanized 45 elbow",
+   "3/4 45 elbows",
+   "galvanized 45 elbows"
+  ],
+  "long_description": "three-quarter inch galvanized 45 elbow fittings",
+  "unit": "each",
+  "list_price": 3.49,
+  "stock_qty": 0,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "3/4 galv 45",
+   "3/4\" galvanized 45 elbow",
+   "galvanized 45 elbows"
+  ]
+ },
+ {
+  "sku": "NB-FTG-2091",
+  "name": "3/4\" black iron union",
+  "category": "fittings",
+  "attributes": {
+   "type": "union",
+   "size": "3/4\"",
+   "material": "black iron",
+   "pack_qty": 1
+  },
+  "aliases": [
+   "3/4 BI union",
+   "3/4\" black iron union",
+   "3/4 unions",
+   "black iron unions"
+  ],
+  "long_description": "three-quarter inch black iron union fittings",
+  "unit": "each",
+  "list_price": 9.49,
+  "stock_qty": 206,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "3/4 BI union",
+   "3/4\" black iron union",
+   "3/4 unions",
+   "black iron unions"
+  ]
+ },
+ {
+  "sku": "NB-FTG-2186",
+  "name": "1-1/2\" PVC sch40 tee",
+  "category": "fittings",
+  "attributes": {
+   "type": "tee",
+   "size": "1-1/2\"",
+   "material": "PVC sch40",
+   "pack_qty": 1
+  },
+  "aliases": [
+   "1-1/2 pvc tee",
+   "1-1/2\" PVC sch40 tee",
+   "1-1/2 tees",
+   "PVC sch40 tees"
+  ],
+  "long_description": "inch and a half PVC sch40 tee fittings",
+  "unit": "each",
+  "list_price": 2.99,
+  "stock_qty": 168,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "1-1/2 pvc tee",
+   "1-1/2\" PVC sch40 tee",
+   "1-1/2 tees",
+   "PVC sch40 tees"
+  ]
+ },
+ {
+  "sku": "NB-FTG-2372",
+  "name": "1\" CPVC 90 elbow",
+  "category": "fittings",
+  "attributes": {
+   "type": "90 elbow",
+   "size": "1\"",
+   "material": "CPVC",
+   "pack_qty": 1
+  },
+  "aliases": [
+   "1 cpvc 90",
+   "1\" CPVC 90 elbow",
+   "1 90 elbows",
+   "CPVC 90 elbows"
+  ],
+  "long_description": "one inch CPVC 90 elbow fittings",
+  "unit": "each",
+  "list_price": 1.49,
+  "stock_qty": 111,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "1 cpvc 90",
+   "1\" CPVC 90 elbow",
+   "CPVC 90 elbows"
+  ]
+ },
+ {
+  "sku": "NB-FTG-2451",
+  "name": "1-1/4\" copper tee",
+  "category": "fittings",
+  "attributes": {
+   "type": "tee",
+   "size": "1-1/4\"",
+   "material": "copper",
+   "pack_qty": 1
+  },
+  "aliases": [
+   "1-1/4 cu tee",
+   "1-1/4\" copper tee",
+   "1-1/4 tees",
+   "copper tees"
+  ],
+  "long_description": "inch and a quarter copper tee fittings",
+  "unit": "each",
+  "list_price": 6.49,
+  "stock_qty": 161,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "1-1/4 cu tee",
+   "1-1/4\" copper tee",
+   "1-1/4 tees",
+   "copper tees"
+  ]
+ },
+ {
+  "sku": "NB-FTG-2465",
+  "name": "1-1/2\" copper coupling",
+  "category": "fittings",
+  "attributes": {
+   "type": "coupling",
+   "size": "1-1/2\"",
+   "material": "copper",
+   "pack_qty": 1
+  },
+  "aliases": [
+   "1-1/2 cu coupling",
+   "1-1/2\" copper coupling",
+   "1-1/2 couplings",
+   "copper couplings"
+  ],
+  "long_description": "inch and a half copper coupling fittings",
+  "unit": "each",
+  "list_price": 4.49,
+  "stock_qty": 141,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "1-1/2 cu coupling",
+   "1-1/2\" copper coupling",
+   "copper couplings"
+  ]
+ },
+ {
+  "sku": "NB-FTG-3447",
+  "name": "1\" black iron 90 elbow",
+  "category": "fittings",
+  "attributes": {
+   "type": "90 elbow",
+   "size": "1\"",
+   "material": "black iron",
+   "pack_qty": 1
+  },
+  "aliases": [
+   "1 BI 90",
+   "1\" black iron 90 elbow",
+   "1 90 elbows",
+   "black iron 90 elbows"
+  ],
+  "long_description": "one inch black iron 90 elbow fittings",
+  "unit": "each",
+  "list_price": 4.99,
+  "stock_qty": 146,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "1 BI 90",
+   "1\" black iron 90 elbow"
+  ]
+ },
+ {
+  "sku": "NB-FTG-4003",
+  "name": "1-1/4\" copper 90 elbow",
+  "category": "fittings",
+  "attributes": {
+   "type": "90 elbow",
+   "size": "1-1/4\"",
+   "material": "copper",
+   "pack_qty": 1
+  },
+  "aliases": [
+   "1-1/4 cu 90",
+   "1-1/4\" copper 90 elbow",
+   "1-1/4 90 elbows",
+   "copper 90 elbows"
+  ],
+  "long_description": "inch and a quarter copper 90 elbow fittings",
+  "unit": "each",
+  "list_price": 4.99,
+  "stock_qty": 3,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "1-1/4 cu 90",
+   "1-1/4\" copper 90 elbow",
+   "1-1/4 90 elbows",
+   "copper 90 elbows"
+  ]
+ },
+ {
+  "sku": "NB-FTG-4643",
+  "name": "1-1/4\" CPVC 45 elbow",
+  "category": "fittings",
+  "attributes": {
+   "type": "45 elbow",
+   "size": "1-1/4\"",
+   "material": "CPVC",
+   "pack_qty": 1
+  },
+  "aliases": [
+   "1-1/4 cpvc 45",
+   "1-1/4\" CPVC 45 elbow",
+   "1-1/4 45 elbows",
+   "CPVC 45 elbows"
+  ],
+  "long_description": "inch and a quarter CPVC 45 elbow fittings",
+  "unit": "each",
+  "list_price": 2.49,
+  "stock_qty": 235,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "1-1/4 cpvc 45",
+   "1-1/4\" CPVC 45 elbow",
+   "1-1/4 45 elbows",
+   "CPVC 45 elbows"
+  ]
+ },
+ {
+  "sku": "NB-FTG-5268",
+  "name": "3/4\" black iron 45 elbow",
+  "category": "fittings",
+  "attributes": {
+   "type": "45 elbow",
+   "size": "3/4\"",
+   "material": "black iron",
+   "pack_qty": 1
+  },
+  "aliases": [
+   "3/4 BI 45",
+   "3/4\" black iron 45 elbow",
+   "3/4 45 elbows",
+   "black iron 45 elbows"
+  ],
+  "long_description": "three-quarter inch black iron 45 elbow fittings",
+  "unit": "each",
+  "list_price": 2.99,
+  "stock_qty": 174,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "3/4 BI 45",
+   "3/4\" black iron 45 elbow",
+   "black iron 45 elbows"
+  ]
+ },
+ {
+  "sku": "NB-FTG-5332",
+  "name": "1/2\" PVC sch40 90 elbow (box of 10)",
+  "category": "fittings",
+  "attributes": {
+   "type": "90 elbow",
+   "size": "1/2\"",
+   "material": "PVC sch40",
+   "pack_qty": 10
+  },
+  "aliases": [
+   "1/2 pvc 90",
+   "1/2\" PVC sch40 90 elbow",
+   "1/2 90 elbows",
+   "PVC sch40 90 elbows"
+  ],
+  "long_description": "half inch PVC sch40 90 elbow fittings",
+  "unit": "box",
+  "list_price": 3.99,
+  "stock_qty": 272,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "1/2 pvc 90",
+   "1/2\" PVC sch40 90 elbow"
+  ]
+ },
+ {
+  "sku": "NB-FTG-5406",
+  "name": "3/4\" copper cap (box of 10)",
+  "category": "fittings",
+  "attributes": {
+   "type": "cap",
+   "size": "3/4\"",
+   "material": "copper",
+   "pack_qty": 10
+  },
+  "aliases": [
+   "3/4 cu cap",
+   "3/4\" copper cap",
+   "3/4 caps",
+   "copper caps"
+  ],
+  "long_description": "three-quarter inch copper cap fittings",
+  "unit": "box",
+  "list_price": 9.99,
+  "stock_qty": 3,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "3/4 cu cap",
+   "3/4\" copper cap",
+   "3/4 caps",
+   "copper caps"
+  ]
+ },
+ {
+  "sku": "NB-FTG-5572",
+  "name": "1/2\" PVC sch40 male adapter (box of 10)",
+  "category": "fittings",
+  "attributes": {
+   "type": "male adapter",
+   "size": "1/2\"",
+   "material": "PVC sch40",
+   "pack_qty": 10
+  },
+  "aliases": [
+   "1/2 pvc MA",
+   "1/2\" PVC sch40 male adapter",
+   "1/2 male adapters",
+   "PVC sch40 male adapters"
+  ],
+  "long_description": "half inch PVC sch40 male adapter fittings",
+  "unit": "box",
+  "list_price": 4.99,
+  "stock_qty": 164,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "1/2 pvc MA",
+   "1/2\" PVC sch40 male adapter",
+   "1/2 male adapters",
+   "PVC sch40 male adapters"
+  ]
+ },
+ {
+  "sku": "NB-FTG-6358",
+  "name": "1-1/2\" PVC sch40 coupling",
+  "category": "fittings",
+  "attributes": {
+   "type": "coupling",
+   "size": "1-1/2\"",
+   "material": "PVC sch40",
+   "pack_qty": 1
+  },
+  "aliases": [
+   "1-1/2 pvc coupling",
+   "1-1/2\" PVC sch40 coupling",
+   "1-1/2 couplings",
+   "PVC sch40 couplings"
+  ],
+  "long_description": "inch and a half PVC sch40 coupling fittings",
+  "unit": "each",
+  "list_price": 1.49,
+  "stock_qty": 0,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "1-1/2 pvc coupling",
+   "1-1/2\" PVC sch40 coupling",
+   "PVC sch40 couplings"
+  ]
+ },
+ {
+  "sku": "NB-FTG-7651",
+  "name": "1\" galvanized tee",
+  "category": "fittings",
+  "attributes": {
+   "type": "tee",
+   "size": "1\"",
+   "material": "galvanized",
+   "pack_qty": 1
+  },
+  "aliases": [
+   "1 galv tee",
+   "1\" galvanized tee",
+   "1 tees",
+   "galvanized tees"
+  ],
+  "long_description": "one inch galvanized tee fittings",
+  "unit": "each",
+  "list_price": 6.99,
+  "stock_qty": 0,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "1 galv tee",
+   "1\" galvanized tee",
+   "1 tees",
+   "galvanized tees"
+  ]
+ },
+ {
+  "sku": "NB-FTG-7968",
+  "name": "1/2\" black iron 90 elbow",
+  "category": "fittings",
+  "attributes": {
+   "type": "90 elbow",
+   "size": "1/2\"",
+   "material": "black iron",
+   "pack_qty": 1
+  },
+  "aliases": [
+   "1/2 BI 90",
+   "1/2\" black iron 90 elbow",
+   "1/2 90 elbows",
+   "black iron 90 elbows"
+  ],
+  "long_description": "half inch black iron 90 elbow fittings",
+  "unit": "each",
+  "list_price": 1.99,
+  "stock_qty": 148,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "1/2 BI 90",
+   "1/2\" black iron 90 elbow"
+  ]
+ },
+ {
+  "sku": "NB-FTG-9103",
+  "name": "1-1/2\" PVC sch40 45 elbow",
+  "category": "fittings",
+  "attributes": {
+   "type": "45 elbow",
+   "size": "1-1/2\"",
+   "material": "PVC sch40",
+   "pack_qty": 1
+  },
+  "aliases": [
+   "1-1/2 pvc 45",
+   "1-1/2\" PVC sch40 45 elbow",
+   "1-1/2 45 elbows",
+   "PVC sch40 45 elbows"
+  ],
+  "long_description": "inch and a half PVC sch40 45 elbow fittings",
+  "unit": "each",
+  "list_price": 2.49,
+  "stock_qty": 162,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "1-1/2 pvc 45",
+   "1-1/2\" PVC sch40 45 elbow",
+   "1-1/2 45 elbows",
+   "PVC sch40 45 elbows"
+  ]
+ },
+ {
+  "sku": "NB-FTG-9434",
+  "name": "3/4\" CPVC coupling",
+  "category": "fittings",
+  "attributes": {
+   "type": "coupling",
+   "size": "3/4\"",
+   "material": "CPVC",
+   "pack_qty": 1
+  },
+  "aliases": [
+   "3/4 cpvc coupling",
+   "3/4\" CPVC coupling",
+   "3/4 couplings",
+   "CPVC couplings"
+  ],
+  "long_description": "three-quarter inch CPVC coupling fittings",
+  "unit": "each",
+  "list_price": 0.99,
+  "stock_qty": 127,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "3/4 cpvc coupling",
+   "3/4\" CPVC coupling",
+   "CPVC couplings"
+  ]
+ },
+ {
+  "sku": "NB-FTG-9791",
+  "name": "1\" PVC sch40 90 elbow",
+  "category": "fittings",
+  "attributes": {
+   "type": "90 elbow",
+   "size": "1\"",
+   "material": "PVC sch40",
+   "pack_qty": 1
+  },
+  "aliases": [
+   "1 pvc 90",
+   "1\" PVC sch40 90 elbow",
+   "1 90 elbows",
+   "PVC sch40 90 elbows"
+  ],
+  "long_description": "one inch PVC sch40 90 elbow fittings",
+  "unit": "each",
+  "list_price": 1.49,
+  "stock_qty": 266,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "1 pvc 90",
+   "1\" PVC sch40 90 elbow"
+  ]
+ },
+ {
+  "sku": "NB-CON-1017",
+  "name": "1-pole 60A contactor, 24V coil",
+  "category": "contactors",
+  "attributes": {
+   "poles": 1,
+   "amps": 60,
+   "coil_voltage": "24V"
+  },
+  "aliases": [
+   "60A 1P contactor 24V coil",
+   "1 pole 60 amp contactor 24V",
+   "24V contactor 1p 60a",
+   "60 amp contactor",
+   "1 pole contactor"
+  ],
+  "long_description": "1-pole 60 amp definite purpose contactor with a 24V coil",
+  "unit": "each",
+  "list_price": 38.49,
+  "stock_qty": 67,
+  "compatible_equipment": [
+   "QMK-HP24-1",
+   "QMK-RTU48-C"
+  ],
+  "unique_aliases": [
+   "60A 1P contactor 24V coil",
+   "1 pole 60 amp contactor 24V",
+   "24V contactor 1p 60a"
+  ]
+ },
+ {
+  "sku": "NB-CON-1059",
+  "name": "1-pole 40A contactor, 24V coil",
+  "category": "contactors",
+  "attributes": {
+   "poles": 1,
+   "amps": 40,
+   "coil_voltage": "24V"
+  },
+  "aliases": [
+   "40A 1P contactor 24V coil",
+   "1 pole 40 amp contactor 24V",
+   "24V contactor 1p 40a",
+   "40 amp contactor",
+   "1 pole contactor"
+  ],
+  "long_description": "1-pole 40 amp definite purpose contactor with a 24V coil",
+  "unit": "each",
+  "list_price": 32.49,
+  "stock_qty": 5,
+  "compatible_equipment": [
+   "TVD-HP30-2",
+   "TVD-RTU120-C"
+  ],
+  "unique_aliases": [
+   "40A 1P contactor 24V coil",
+   "1 pole 40 amp contactor 24V",
+   "24V contactor 1p 40a"
+  ]
+ },
+ {
+  "sku": "NB-CON-1564",
+  "name": "1-pole 40A contactor, 208/240V coil",
+  "category": "contactors",
+  "attributes": {
+   "poles": 1,
+   "amps": 40,
+   "coil_voltage": "208/240V"
+  },
+  "aliases": [
+   "40A 1P contactor 208/240V coil",
+   "1 pole 40 amp contactor 208/240V",
+   "208/240V contactor 1p 40a",
+   "40 amp contactor",
+   "1 pole contactor"
+  ],
+  "long_description": "1-pole 40 amp definite purpose contactor with a 208/240V coil",
+  "unit": "each",
+  "list_price": 37.49,
+  "stock_qty": 31,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "40A 1P contactor 208/240V coil",
+   "1 pole 40 amp contactor 208/240V",
+   "208/240V contactor 1p 40a"
+  ]
+ },
+ {
+  "sku": "NB-CON-2374",
+  "name": "2-pole 60A contactor, 24V coil",
+  "category": "contactors",
+  "attributes": {
+   "poles": 2,
+   "amps": 60,
+   "coil_voltage": "24V"
+  },
+  "aliases": [
+   "60A 2P contactor 24V coil",
+   "2 pole 60 amp contactor 24V",
+   "24V contactor 2p 60a",
+   "60 amp contactor",
+   "2 pole contactor"
+  ],
+  "long_description": "2-pole 60 amp definite purpose contactor with a 24V coil",
+  "unit": "each",
+  "list_price": 44.49,
+  "stock_qty": 31,
+  "compatible_equipment": [
+   "BSV-AC48-A",
+   "KVL-RTU36-B",
+   "MRW-RTU120-1"
+  ],
+  "unique_aliases": [
+   "60A 2P contactor 24V coil",
+   "2 pole 60 amp contactor 24V",
+   "24V contactor 2p 60a"
+  ]
+ },
+ {
+  "sku": "NB-CON-3581",
+  "name": "2-pole 30A contactor, 120V coil",
+  "category": "contactors",
+  "attributes": {
+   "poles": 2,
+   "amps": 30,
+   "coil_voltage": "120V"
+  },
+  "aliases": [
+   "30A 2P contactor 120V coil",
+   "2 pole 30 amp contactor 120V",
+   "120V contactor 2p 30a",
+   "30 amp contactor",
+   "2 pole contactor"
+  ],
+  "long_description": "2-pole 30 amp definite purpose contactor with a 120V coil",
+  "unit": "each",
+  "list_price": 38.49,
+  "stock_qty": 5,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "30A 2P contactor 120V coil",
+   "2 pole 30 amp contactor 120V",
+   "120V contactor 2p 30a"
+  ]
+ },
+ {
+  "sku": "NB-CON-3997",
+  "name": "3-pole 30A contactor, 24V coil",
+  "category": "contactors",
+  "attributes": {
+   "poles": 3,
+   "amps": 30,
+   "coil_voltage": "24V"
+  },
+  "aliases": [
+   "30A 3P contactor 24V coil",
+   "3 pole 30 amp contactor 24V",
+   "24V contactor 3p 30a",
+   "30 amp contactor",
+   "3 pole contactor"
+  ],
+  "long_description": "3-pole 30 amp definite purpose contactor with a 24V coil",
+  "unit": "each",
+  "list_price": 41.49,
+  "stock_qty": 0,
+  "compatible_equipment": [
+   "KVL-AC24-2",
+   "KVL-HP60-C",
+   "OSR-AC48-3",
+   "TVD-AC24-B"
+  ],
+  "unique_aliases": [
+   "30A 3P contactor 24V coil",
+   "3 pole 30 amp contactor 24V",
+   "24V contactor 3p 30a"
+  ]
+ },
+ {
+  "sku": "NB-CON-4569",
+  "name": "3-pole 40A contactor, 120V coil",
+  "category": "contactors",
+  "attributes": {
+   "poles": 3,
+   "amps": 40,
+   "coil_voltage": "120V"
+  },
+  "aliases": [
+   "40A 3P contactor 120V coil",
+   "3 pole 40 amp contactor 120V",
+   "120V contactor 3p 40a",
+   "40 amp contactor",
+   "3 pole contactor"
+  ],
+  "long_description": "3-pole 40 amp definite purpose contactor with a 120V coil",
+  "unit": "each",
+  "list_price": 47.49,
+  "stock_qty": 0,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "40A 3P contactor 120V coil",
+   "3 pole 40 amp contactor 120V",
+   "120V contactor 3p 40a"
+  ]
+ },
+ {
+  "sku": "NB-CON-5005",
+  "name": "2-pole 50A contactor, 24V coil",
+  "category": "contactors",
+  "attributes": {
+   "poles": 2,
+   "amps": 50,
+   "coil_voltage": "24V"
+  },
+  "aliases": [
+   "50A 2P contactor 24V coil",
+   "2 pole 50 amp contactor 24V",
+   "24V contactor 2p 50a",
+   "50 amp contactor",
+   "2 pole contactor"
+  ],
+  "long_description": "2-pole 50 amp definite purpose contactor with a 24V coil",
+  "unit": "each",
+  "list_price": 41.49,
+  "stock_qty": 40,
+  "compatible_equipment": [
+   "HSK-HP24-C",
+   "HSK-RTU90-C",
+   "HSK-WIC6-3"
+  ],
+  "unique_aliases": [
+   "50A 2P contactor 24V coil",
+   "2 pole 50 amp contactor 24V",
+   "24V contactor 2p 50a"
+  ]
+ },
+ {
+  "sku": "NB-CON-5312",
+  "name": "2-pole 40A contactor, 24V coil",
+  "category": "contactors",
+  "attributes": {
+   "poles": 2,
+   "amps": 40,
+   "coil_voltage": "24V"
+  },
+  "aliases": [
+   "40A 2P contactor 24V coil",
+   "2 pole 40 amp contactor 24V",
+   "24V contactor 2p 40a",
+   "40 amp contactor",
+   "2 pole contactor"
+  ],
+  "long_description": "2-pole 40 amp definite purpose contactor with a 24V coil",
+  "unit": "each",
+  "list_price": 38.49,
+  "stock_qty": 0,
+  "compatible_equipment": [
+   "MRW-HP24-1",
+   "QMK-AC24-1"
+  ],
+  "unique_aliases": [
+   "40A 2P contactor 24V coil",
+   "2 pole 40 amp contactor 24V",
+   "24V contactor 2p 40a"
+  ]
+ },
+ {
+  "sku": "NB-CON-5407",
+  "name": "2-pole 30A contactor, 208/240V coil",
+  "category": "contactors",
+  "attributes": {
+   "poles": 2,
+   "amps": 30,
+   "coil_voltage": "208/240V"
+  },
+  "aliases": [
+   "30A 2P contactor 208/240V coil",
+   "2 pole 30 amp contactor 208/240V",
+   "208/240V contactor 2p 30a",
+   "30 amp contactor",
+   "2 pole contactor"
+  ],
+  "long_description": "2-pole 30 amp definite purpose contactor with a 208/240V coil",
+  "unit": "each",
+  "list_price": 40.49,
+  "stock_qty": 80,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "30A 2P contactor 208/240V coil",
+   "2 pole 30 amp contactor 208/240V",
+   "208/240V contactor 2p 30a"
+  ]
+ },
+ {
+  "sku": "NB-CON-6071",
+  "name": "3-pole 60A contactor, 208/240V coil",
+  "category": "contactors",
+  "attributes": {
+   "poles": 3,
+   "amps": 60,
+   "coil_voltage": "208/240V"
+  },
+  "aliases": [
+   "60A 3P contactor 208/240V coil",
+   "3 pole 60 amp contactor 208/240V",
+   "208/240V contactor 3p 60a",
+   "60 amp contactor",
+   "3 pole contactor"
+  ],
+  "long_description": "3-pole 60 amp definite purpose contactor with a 208/240V coil",
+  "unit": "each",
+  "list_price": 55.49,
+  "stock_qty": 68,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "60A 3P contactor 208/240V coil",
+   "3 pole 60 amp contactor 208/240V",
+   "208/240V contactor 3p 60a"
+  ]
+ },
+ {
+  "sku": "NB-CON-6300",
+  "name": "3-pole 60A contactor, 120V coil",
+  "category": "contactors",
+  "attributes": {
+   "poles": 3,
+   "amps": 60,
+   "coil_voltage": "120V"
+  },
+  "aliases": [
+   "60A 3P contactor 120V coil",
+   "3 pole 60 amp contactor 120V",
+   "120V contactor 3p 60a",
+   "60 amp contactor",
+   "3 pole contactor"
+  ],
+  "long_description": "3-pole 60 amp definite purpose contactor with a 120V coil",
+  "unit": "each",
+  "list_price": 53.49,
+  "stock_qty": 76,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "60A 3P contactor 120V coil",
+   "3 pole 60 amp contactor 120V",
+   "120V contactor 3p 60a"
+  ]
+ },
+ {
+  "sku": "NB-CON-6389",
+  "name": "2-pole 40A contactor, 208/240V coil",
+  "category": "contactors",
+  "attributes": {
+   "poles": 2,
+   "amps": 40,
+   "coil_voltage": "208/240V"
+  },
+  "aliases": [
+   "40A 2P contactor 208/240V coil",
+   "2 pole 40 amp contactor 208/240V",
+   "208/240V contactor 2p 40a",
+   "40 amp contactor",
+   "2 pole contactor"
+  ],
+  "long_description": "2-pole 40 amp definite purpose contactor with a 208/240V coil",
+  "unit": "each",
+  "list_price": 43.49,
+  "stock_qty": 50,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "40A 2P contactor 208/240V coil",
+   "2 pole 40 amp contactor 208/240V",
+   "208/240V contactor 2p 40a"
+  ]
+ },
+ {
+  "sku": "NB-CON-6494",
+  "name": "2-pole 40A contactor, 120V coil",
+  "category": "contactors",
+  "attributes": {
+   "poles": 2,
+   "amps": 40,
+   "coil_voltage": "120V"
+  },
+  "aliases": [
+   "40A 2P contactor 120V coil",
+   "2 pole 40 amp contactor 120V",
+   "120V contactor 2p 40a",
+   "40 amp contactor",
+   "2 pole contactor"
+  ],
+  "long_description": "2-pole 40 amp definite purpose contactor with a 120V coil",
+  "unit": "each",
+  "list_price": 41.49,
+  "stock_qty": 72,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "40A 2P contactor 120V coil",
+   "2 pole 40 amp contactor 120V",
+   "120V contactor 2p 40a"
+  ]
+ },
+ {
+  "sku": "NB-CON-6842",
+  "name": "3-pole 30A contactor, 208/240V coil",
+  "category": "contactors",
+  "attributes": {
+   "poles": 3,
+   "amps": 30,
+   "coil_voltage": "208/240V"
+  },
+  "aliases": [
+   "30A 3P contactor 208/240V coil",
+   "3 pole 30 amp contactor 208/240V",
+   "208/240V contactor 3p 30a",
+   "30 amp contactor",
+   "3 pole contactor"
+  ],
+  "long_description": "3-pole 30 amp definite purpose contactor with a 208/240V coil",
+  "unit": "each",
+  "list_price": 46.49,
+  "stock_qty": 35,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "30A 3P contactor 208/240V coil",
+   "3 pole 30 amp contactor 208/240V",
+   "208/240V contactor 3p 30a"
+  ]
+ },
+ {
+  "sku": "NB-CON-6966",
+  "name": "1-pole 50A contactor, 208/240V coil",
+  "category": "contactors",
+  "attributes": {
+   "poles": 1,
+   "amps": 50,
+   "coil_voltage": "208/240V"
+  },
+  "aliases": [
+   "50A 1P contactor 208/240V coil",
+   "1 pole 50 amp contactor 208/240V",
+   "208/240V contactor 1p 50a",
+   "50 amp contactor",
+   "1 pole contactor"
+  ],
+  "long_description": "1-pole 50 amp definite purpose contactor with a 208/240V coil",
+  "unit": "each",
+  "list_price": 40.49,
+  "stock_qty": 65,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "50A 1P contactor 208/240V coil",
+   "1 pole 50 amp contactor 208/240V",
+   "208/240V contactor 1p 50a"
+  ]
+ },
+ {
+  "sku": "NB-CON-7252",
+  "name": "1-pole 30A contactor, 208/240V coil",
+  "category": "contactors",
+  "attributes": {
+   "poles": 1,
+   "amps": 30,
+   "coil_voltage": "208/240V"
+  },
+  "aliases": [
+   "30A 1P contactor 208/240V coil",
+   "1 pole 30 amp contactor 208/240V",
+   "208/240V contactor 1p 30a",
+   "30 amp contactor",
+   "1 pole contactor"
+  ],
+  "long_description": "1-pole 30 amp definite purpose contactor with a 208/240V coil",
+  "unit": "each",
+  "list_price": 34.49,
+  "stock_qty": 28,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "30A 1P contactor 208/240V coil",
+   "1 pole 30 amp contactor 208/240V",
+   "208/240V contactor 1p 30a"
+  ]
+ },
+ {
+  "sku": "NB-CON-8304",
+  "name": "1-pole 30A contactor, 24V coil",
+  "category": "contactors",
+  "attributes": {
+   "poles": 1,
+   "amps": 30,
+   "coil_voltage": "24V"
+  },
+  "aliases": [
+   "30A 1P contactor 24V coil",
+   "1 pole 30 amp contactor 24V",
+   "24V contactor 1p 30a",
+   "30 amp contactor",
+   "1 pole contactor"
+  ],
+  "long_description": "1-pole 30 amp definite purpose contactor with a 24V coil",
+  "unit": "each",
+  "list_price": 29.49,
+  "stock_qty": 71,
+  "compatible_equipment": [
+   "KVL-WIC10-C"
+  ],
+  "unique_aliases": [
+   "30A 1P contactor 24V coil",
+   "1 pole 30 amp contactor 24V",
+   "24V contactor 1p 30a"
+  ]
+ },
+ {
+  "sku": "NB-CON-8776",
+  "name": "3-pole 60A contactor, 24V coil",
+  "category": "contactors",
+  "attributes": {
+   "poles": 3,
+   "amps": 60,
+   "coil_voltage": "24V"
+  },
+  "aliases": [
+   "60A 3P contactor 24V coil",
+   "3 pole 60 amp contactor 24V",
+   "24V contactor 3p 60a",
+   "60 amp contactor",
+   "3 pole contactor"
+  ],
+  "long_description": "3-pole 60 amp definite purpose contactor with a 24V coil",
+  "unit": "each",
+  "list_price": 50.49,
+  "stock_qty": 66,
+  "compatible_equipment": [
+   "MRW-WIC10-3",
+   "VTR-AC30-C",
+   "VTR-RTU60-B"
+  ],
+  "unique_aliases": [
+   "60A 3P contactor 24V coil",
+   "3 pole 60 amp contactor 24V",
+   "24V contactor 3p 60a"
+  ]
+ },
+ {
+  "sku": "NB-CON-9963",
+  "name": "1-pole 30A contactor, 120V coil",
+  "category": "contactors",
+  "attributes": {
+   "poles": 1,
+   "amps": 30,
+   "coil_voltage": "120V"
+  },
+  "aliases": [
+   "30A 1P contactor 120V coil",
+   "1 pole 30 amp contactor 120V",
+   "120V contactor 1p 30a",
+   "30 amp contactor",
+   "1 pole contactor"
+  ],
+  "long_description": "1-pole 30 amp definite purpose contactor with a 120V coil",
+  "unit": "each",
+  "list_price": 32.49,
+  "stock_qty": 70,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "30A 1P contactor 120V coil",
+   "1 pole 30 amp contactor 120V",
+   "120V contactor 1p 30a"
+  ]
+ },
+ {
+  "sku": "NB-CAP-1765",
+  "name": "45/5 uF 440V dual run capacitor",
+  "category": "capacitors",
+  "attributes": {
+   "type": "dual run",
+   "microfarads": "45/5",
+   "voltage": "440V"
+  },
+  "aliases": [
+   "45/5 440V dual run cap",
+   "45+5 mfd 440V dual run capacitor",
+   "45/5 uf 440V cap",
+   "45/5 cap",
+   "dual run capacitor"
+  ],
+  "long_description": "dual run capacitor, 45/5 microfarad, rated 440V",
+  "unit": "each",
+  "list_price": 32.49,
+  "stock_qty": 145,
+  "compatible_equipment": [
+   "KVL-RTU36-B",
+   "MRW-RTU120-1",
+   "QMK-AC24-1",
+   "TVD-HP30-2"
+  ],
+  "unique_aliases": [
+   "45/5 440V dual run cap",
+   "45+5 mfd 440V dual run capacitor",
+   "45/5 uf 440V cap",
+   "45/5 cap"
+  ]
+ },
+ {
+  "sku": "NB-CAP-2082",
+  "name": "50/5 uF 370V dual run capacitor",
+  "category": "capacitors",
+  "attributes": {
+   "type": "dual run",
+   "microfarads": "50/5",
+   "voltage": "370V"
+  },
+  "aliases": [
+   "50/5 370V dual run cap",
+   "50+5 mfd 370V dual run capacitor",
+   "50/5 uf 370V cap",
+   "50/5 cap",
+   "dual run capacitor"
+  ],
+  "long_description": "dual run capacitor, 50/5 microfarad, rated 370V",
+  "unit": "each",
+  "list_price": 30.99,
+  "stock_qty": 129,
+  "compatible_equipment": [
+   "QMK-RTU48-C"
+  ],
+  "unique_aliases": [
+   "50/5 370V dual run cap",
+   "50+5 mfd 370V dual run capacitor",
+   "50/5 uf 370V cap",
+   "50/5 cap"
+  ]
+ },
+ {
+  "sku": "NB-CAP-2219",
+  "name": "55/5 uF 440V dual run capacitor",
+  "category": "capacitors",
+  "attributes": {
+   "type": "dual run",
+   "microfarads": "55/5",
+   "voltage": "440V"
+  },
+  "aliases": [
+   "55/5 440V dual run cap",
+   "55+5 mfd 440V dual run capacitor",
+   "55/5 uf 440V cap",
+   "55/5 cap",
+   "dual run capacitor"
+  ],
+  "long_description": "dual run capacitor, 55/5 microfarad, rated 440V",
+  "unit": "each",
+  "list_price": 34.99,
+  "stock_qty": 51,
+  "compatible_equipment": [
+   "BSV-AC48-A",
+   "HSK-HP24-C",
+   "HSK-MS9-A",
+   "OSR-AC48-3",
+   "VTR-AC30-C"
+  ],
+  "unique_aliases": [
+   "55/5 440V dual run cap",
+   "55+5 mfd 440V dual run capacitor",
+   "55/5 uf 440V cap",
+   "55/5 cap"
+  ]
+ },
+ {
+  "sku": "NB-CAP-2257",
+  "name": "80/5 uF 370V dual run capacitor",
+  "category": "capacitors",
+  "attributes": {
+   "type": "dual run",
+   "microfarads": "80/5",
+   "voltage": "370V"
+  },
+  "aliases": [
+   "80/5 370V dual run cap",
+   "80+5 mfd 370V dual run capacitor",
+   "80/5 uf 370V cap",
+   "80/5 cap",
+   "dual run capacitor"
+  ],
+  "long_description": "dual run capacitor, 80/5 microfarad, rated 370V",
+  "unit": "each",
+  "list_price": 38.49,
+  "stock_qty": 112,
+  "compatible_equipment": [
+   "HSK-RTU90-C",
+   "TVD-RTU120-C"
+  ],
+  "unique_aliases": [
+   "80/5 370V dual run cap",
+   "80+5 mfd 370V dual run capacitor",
+   "80/5 uf 370V cap"
+  ]
+ },
+ {
+  "sku": "NB-CAP-2269",
+  "name": "80/5 uF 440V dual run capacitor",
+  "category": "capacitors",
+  "attributes": {
+   "type": "dual run",
+   "microfarads": "80/5",
+   "voltage": "440V"
+  },
+  "aliases": [
+   "80/5 440V dual run cap",
+   "80+5 mfd 440V dual run capacitor",
+   "80/5 uf 440V cap",
+   "80/5 cap",
+   "dual run capacitor"
+  ],
+  "long_description": "dual run capacitor, 80/5 microfarad, rated 440V",
+  "unit": "each",
+  "list_price": 41.49,
+  "stock_qty": 136,
+  "compatible_equipment": [
+   "MRW-MS18-B"
+  ],
+  "unique_aliases": [
+   "80/5 440V dual run cap",
+   "80+5 mfd 440V dual run capacitor",
+   "80/5 uf 440V cap"
+  ]
+ },
+ {
+  "sku": "NB-CAP-3415",
+  "name": "60/5 uF 370V dual run capacitor",
+  "category": "capacitors",
+  "attributes": {
+   "type": "dual run",
+   "microfarads": "60/5",
+   "voltage": "370V"
+  },
+  "aliases": [
+   "60/5 370V dual run cap",
+   "60+5 mfd 370V dual run capacitor",
+   "60/5 uf 370V cap",
+   "60/5 cap",
+   "dual run capacitor"
+  ],
+  "long_description": "dual run capacitor, 60/5 microfarad, rated 370V",
+  "unit": "each",
+  "list_price": 33.49,
+  "stock_qty": 0,
+  "compatible_equipment": [
+   "TVD-AC24-B"
+  ],
+  "unique_aliases": [
+   "60/5 370V dual run cap",
+   "60+5 mfd 370V dual run capacitor",
+   "60/5 uf 370V cap",
+   "60/5 cap"
+  ]
+ },
+ {
+  "sku": "NB-CAP-4248",
+  "name": "70/5 uF 440V dual run capacitor",
+  "category": "capacitors",
+  "attributes": {
+   "type": "dual run",
+   "microfarads": "70/5",
+   "voltage": "440V"
+  },
+  "aliases": [
+   "70/5 440V dual run cap",
+   "70+5 mfd 440V dual run capacitor",
+   "70/5 uf 440V cap",
+   "70/5 cap",
+   "dual run capacitor"
+  ],
+  "long_description": "dual run capacitor, 70/5 microfarad, rated 440V",
+  "unit": "each",
+  "list_price": 38.99,
+  "stock_qty": 4,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "70/5 440V dual run cap",
+   "70+5 mfd 440V dual run capacitor",
+   "70/5 uf 440V cap"
+  ]
+ },
+ {
+  "sku": "NB-CAP-4362",
+  "name": "70/5 uF 370V dual run capacitor",
+  "category": "capacitors",
+  "attributes": {
+   "type": "dual run",
+   "microfarads": "70/5",
+   "voltage": "370V"
+  },
+  "aliases": [
+   "70/5 370V dual run cap",
+   "70+5 mfd 370V dual run capacitor",
+   "70/5 uf 370V cap",
+   "70/5 cap",
+   "dual run capacitor"
+  ],
+  "long_description": "dual run capacitor, 70/5 microfarad, rated 370V",
+  "unit": "each",
+  "list_price": 35.99,
+  "stock_qty": 116,
+  "compatible_equipment": [
+   "KVL-AC24-2",
+   "KVL-HP60-C",
+   "VTR-RTU60-B"
+  ],
+  "unique_aliases": [
+   "70/5 370V dual run cap",
+   "70+5 mfd 370V dual run capacitor",
+   "70/5 uf 370V cap"
+  ]
+ },
+ {
+  "sku": "NB-CAP-4780",
+  "name": "40/5 uF 440V dual run capacitor",
+  "category": "capacitors",
+  "attributes": {
+   "type": "dual run",
+   "microfarads": "40/5",
+   "voltage": "440V"
+  },
+  "aliases": [
+   "40/5 440V dual run cap",
+   "40+5 mfd 440V dual run capacitor",
+   "40/5 uf 440V cap",
+   "40/5 cap",
+   "dual run capacitor"
+  ],
+  "long_description": "dual run capacitor, 40/5 microfarad, rated 440V",
+  "unit": "each",
+  "list_price": 31.49,
+  "stock_qty": 109,
+  "compatible_equipment": [
+   "MRW-HP24-1",
+   "QMK-HP24-1"
+  ],
+  "unique_aliases": [
+   "40/5 440V dual run cap",
+   "40+5 mfd 440V dual run capacitor",
+   "40/5 uf 440V cap",
+   "40/5 cap"
+  ]
+ },
+ {
+  "sku": "NB-CAP-4846",
+  "name": "7.5 uF 440V single run capacitor",
+  "category": "capacitors",
+  "attributes": {
+   "type": "single run",
+   "microfarads": "7.5",
+   "voltage": "440V"
+  },
+  "aliases": [
+   "7.5 440V single run cap",
+   "7.5 mfd 440V single run capacitor",
+   "7.5 uf 440V cap",
+   "7.5 cap",
+   "single run capacitor"
+  ],
+  "long_description": "single run capacitor, 7.5 microfarad, rated 440V",
+  "unit": "each",
+  "list_price": 14.49,
+  "stock_qty": 65,
+  "compatible_equipment": [
+   "BSV-FUR120-B",
+   "KVL-FUR60-1"
+  ],
+  "unique_aliases": [
+   "7.5 440V single run cap",
+   "7.5 mfd 440V single run capacitor",
+   "7.5 uf 440V cap",
+   "7.5 cap"
+  ]
+ },
+ {
+  "sku": "NB-CAP-5131",
+  "name": "30 uF 370V single run capacitor",
+  "category": "capacitors",
+  "attributes": {
+   "type": "single run",
+   "microfarads": "30",
+   "voltage": "370V"
+  },
+  "aliases": [
+   "30 370V single run cap",
+   "30 mfd 370V single run capacitor",
+   "30 uf 370V cap",
+   "30 cap",
+   "single run capacitor"
+  ],
+  "long_description": "single run capacitor, 30 microfarad, rated 370V",
+  "unit": "each",
+  "list_price": 18.49,
+  "stock_qty": 120,
+  "compatible_equipment": [
+   "MRW-FUR120-2"
+  ],
+  "unique_aliases": [
+   "30 370V single run cap",
+   "30 mfd 370V single run capacitor",
+   "30 uf 370V cap",
+   "30 cap"
+  ]
+ },
+ {
+  "sku": "NB-CAP-5350",
+  "name": "25 uF 440V single run capacitor",
+  "category": "capacitors",
+  "attributes": {
+   "type": "single run",
+   "microfarads": "25",
+   "voltage": "440V"
+  },
+  "aliases": [
+   "25 440V single run cap",
+   "25 mfd 440V single run capacitor",
+   "25 uf 440V cap",
+   "25 cap",
+   "single run capacitor"
+  ],
+  "long_description": "single run capacitor, 25 microfarad, rated 440V",
+  "unit": "each",
+  "list_price": 19.99,
+  "stock_qty": 1,
+  "compatible_equipment": [
+   "QMK-AH48-C"
+  ],
+  "unique_aliases": [
+   "25 440V single run cap",
+   "25 mfd 440V single run capacitor",
+   "25 uf 440V cap",
+   "25 cap"
+  ]
+ },
+ {
+  "sku": "NB-CAP-5707",
+  "name": "5 uF 370V single run capacitor",
+  "category": "capacitors",
+  "attributes": {
+   "type": "single run",
+   "microfarads": "5",
+   "voltage": "370V"
+  },
+  "aliases": [
+   "5 370V single run cap",
+   "5 mfd 370V single run capacitor",
+   "5 uf 370V cap",
+   "5 cap",
+   "single run capacitor"
+  ],
+  "long_description": "single run capacitor, 5 microfarad, rated 370V",
+  "unit": "each",
+  "list_price": 10.99,
+  "stock_qty": 52,
+  "compatible_equipment": [
+   "BSV-AH36-2"
+  ],
+  "unique_aliases": [
+   "5 370V single run cap",
+   "5 mfd 370V single run capacitor",
+   "5 uf 370V cap"
+  ]
+ },
+ {
+  "sku": "NB-CAP-6435",
+  "name": "5 uF 440V single run capacitor",
+  "category": "capacitors",
+  "attributes": {
+   "type": "single run",
+   "microfarads": "5",
+   "voltage": "440V"
+  },
+  "aliases": [
+   "5 440V single run cap",
+   "5 mfd 440V single run capacitor",
+   "5 uf 440V cap",
+   "5 cap",
+   "single run capacitor"
+  ],
+  "long_description": "single run capacitor, 5 microfarad, rated 440V",
+  "unit": "each",
+  "list_price": 13.99,
+  "stock_qty": 59,
+  "compatible_equipment": [
+   "OSR-FUR80-2",
+   "TVD-AH48-C",
+   "VTR-FUR100-C"
+  ],
+  "unique_aliases": [
+   "5 440V single run cap",
+   "5 mfd 440V single run capacitor",
+   "5 uf 440V cap"
+  ]
+ },
+ {
+  "sku": "NB-CAP-7267",
+  "name": "15 uF 440V single run capacitor",
+  "category": "capacitors",
+  "attributes": {
+   "type": "single run",
+   "microfarads": "15",
+   "voltage": "440V"
+  },
+  "aliases": [
+   "15 440V single run cap",
+   "15 mfd 440V single run capacitor",
+   "15 uf 440V cap",
+   "15 cap",
+   "single run capacitor"
+  ],
+  "long_description": "single run capacitor, 15 microfarad, rated 440V",
+  "unit": "each",
+  "list_price": 16.99,
+  "stock_qty": 107,
+  "compatible_equipment": [
+   "HSK-FUR60-A"
+  ],
+  "unique_aliases": [
+   "15 440V single run cap",
+   "15 mfd 440V single run capacitor",
+   "15 uf 440V cap",
+   "15 cap"
+  ]
+ },
+ {
+  "sku": "NB-CAP-8542",
+  "name": "20 uF 370V single run capacitor",
+  "category": "capacitors",
+  "attributes": {
+   "type": "single run",
+   "microfarads": "20",
+   "voltage": "370V"
+  },
+  "aliases": [
+   "20 370V single run cap",
+   "20 mfd 370V single run capacitor",
+   "20 uf 370V cap",
+   "20 cap",
+   "single run capacitor"
+  ],
+  "long_description": "single run capacitor, 20 microfarad, rated 370V",
+  "unit": "each",
+  "list_price": 15.49,
+  "stock_qty": 99,
+  "compatible_equipment": [
+   "OSR-AH24-2"
+  ],
+  "unique_aliases": [
+   "20 370V single run cap",
+   "20 mfd 370V single run capacitor",
+   "20 uf 370V cap",
+   "20 cap"
+  ]
+ },
+ {
+  "sku": "NB-CAP-8763",
+  "name": "145-175 uF 250V start capacitor",
+  "category": "capacitors",
+  "attributes": {
+   "type": "start",
+   "microfarads": "145-175",
+   "voltage": "250V"
+  },
+  "aliases": [
+   "145-175 250V start cap",
+   "145-175 mfd 250V start capacitor",
+   "145-175 uf 250V cap",
+   "145-175 cap",
+   "start capacitor"
+  ],
+  "long_description": "start capacitor, 145-175 microfarad, rated 250V",
+  "unit": "each",
+  "list_price": 16.49,
+  "stock_qty": 2,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "145-175 250V start cap",
+   "145-175 mfd 250V start capacitor",
+   "145-175 uf 250V cap",
+   "145-175 cap"
+  ]
+ },
+ {
+  "sku": "NB-CAP-8848",
+  "name": "189-227 uF 250V start capacitor",
+  "category": "capacitors",
+  "attributes": {
+   "type": "start",
+   "microfarads": "189-227",
+   "voltage": "250V"
+  },
+  "aliases": [
+   "189-227 250V start cap",
+   "189-227 mfd 250V start capacitor",
+   "189-227 uf 250V cap",
+   "189-227 cap",
+   "start capacitor"
+  ],
+  "long_description": "start capacitor, 189-227 microfarad, rated 250V",
+  "unit": "each",
+  "list_price": 16.49,
+  "stock_qty": 0,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "189-227 250V start cap",
+   "189-227 mfd 250V start capacitor",
+   "189-227 uf 250V cap",
+   "189-227 cap"
+  ]
+ },
+ {
+  "sku": "NB-CAP-9092",
+  "name": "108-130 uF 250V start capacitor",
+  "category": "capacitors",
+  "attributes": {
+   "type": "start",
+   "microfarads": "108-130",
+   "voltage": "250V"
+  },
+  "aliases": [
+   "108-130 250V start cap",
+   "108-130 mfd 250V start capacitor",
+   "108-130 uf 250V cap",
+   "108-130 cap",
+   "start capacitor"
+  ],
+  "long_description": "start capacitor, 108-130 microfarad, rated 250V",
+  "unit": "each",
+  "list_price": 16.49,
+  "stock_qty": 0,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "108-130 250V start cap",
+   "108-130 mfd 250V start capacitor",
+   "108-130 uf 250V cap",
+   "108-130 cap"
+  ]
+ },
+ {
+  "sku": "NB-CAP-9617",
+  "name": "88-106 uF 250V start capacitor",
+  "category": "capacitors",
+  "attributes": {
+   "type": "start",
+   "microfarads": "88-106",
+   "voltage": "250V"
+  },
+  "aliases": [
+   "88-106 250V start cap",
+   "88-106 mfd 250V start capacitor",
+   "88-106 uf 250V cap",
+   "88-106 cap",
+   "start capacitor"
+  ],
+  "long_description": "start capacitor, 88-106 microfarad, rated 250V",
+  "unit": "each",
+  "list_price": 16.49,
+  "stock_qty": 83,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "88-106 250V start cap",
+   "88-106 mfd 250V start capacitor",
+   "88-106 uf 250V cap",
+   "88-106 cap"
+  ]
+ },
+ {
+  "sku": "NB-FLT-1790",
+  "name": "Pleated air filter 20x20x4 MERV 8",
+  "category": "filters",
+  "attributes": {
+   "size": "20x20x4",
+   "merv": 8
+  },
+  "aliases": [
+   "20x20x4 merv 8",
+   "20 by 20 by 4 merv 8 pleated",
+   "20x20x4 MERV8 filters",
+   "20x20x4 filters",
+   "20x20 filters"
+  ],
+  "long_description": "pleated air filters, 20 by 20 by 4 inch, MERV 8",
+  "unit": "each",
+  "list_price": 26.49,
+  "stock_qty": 352,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "20x20x4 merv 8",
+   "20 by 20 by 4 merv 8 pleated",
+   "20x20x4 MERV8 filters"
+  ]
+ },
+ {
+  "sku": "NB-FLT-1845",
+  "name": "Pleated air filter 16x25x1 MERV 8",
+  "category": "filters",
+  "attributes": {
+   "size": "16x25x1",
+   "merv": 8
+  },
+  "aliases": [
+   "16x25x1 merv 8",
+   "16 by 25 by 1 merv 8 pleated",
+   "16x25x1 MERV8 filters",
+   "16x25x1 filters",
+   "16x25 filters"
+  ],
+  "long_description": "pleated air filters, 16 by 25 by 1 inch, MERV 8",
+  "unit": "each",
+  "list_price": 7.49,
+  "stock_qty": 337,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "16x25x1 merv 8",
+   "16 by 25 by 1 merv 8 pleated",
+   "16x25x1 MERV8 filters"
+  ]
+ },
+ {
+  "sku": "NB-FLT-2064",
+  "name": "Pleated air filter 20x20x4 MERV 11",
+  "category": "filters",
+  "attributes": {
+   "size": "20x20x4",
+   "merv": 11
+  },
+  "aliases": [
+   "20x20x4 merv 11",
+   "20 by 20 by 4 merv 11 pleated",
+   "20x20x4 MERV11 filters",
+   "20x20x4 filters",
+   "20x20 filters"
+  ],
+  "long_description": "pleated air filters, 20 by 20 by 4 inch, MERV 11",
+  "unit": "each",
+  "list_price": 35.49,
+  "stock_qty": 237,
+  "compatible_equipment": [
+   "QMK-RTU48-C",
+   "TVD-AH48-C"
+  ],
+  "unique_aliases": [
+   "20x20x4 merv 11",
+   "20 by 20 by 4 merv 11 pleated",
+   "20x20x4 MERV11 filters"
+  ]
+ },
+ {
+  "sku": "NB-FLT-2251",
+  "name": "Pleated air filter 16x20x1 MERV 13",
+  "category": "filters",
+  "attributes": {
+   "size": "16x20x1",
+   "merv": 13
+  },
+  "aliases": [
+   "16x20x1 merv 13",
+   "16 by 20 by 1 merv 13 pleated",
+   "16x20x1 MERV13 filters",
+   "16x20x1 filters",
+   "16x20 filters"
+  ],
+  "long_description": "pleated air filters, 16 by 20 by 1 inch, MERV 13",
+  "unit": "each",
+  "list_price": 11.99,
+  "stock_qty": 158,
+  "compatible_equipment": [
+   "MRW-FUR120-2"
+  ],
+  "unique_aliases": [
+   "16x20x1 merv 13",
+   "16 by 20 by 1 merv 13 pleated",
+   "16x20x1 MERV13 filters"
+  ]
+ },
+ {
+  "sku": "NB-FLT-2666",
+  "name": "Pleated air filter 16x25x4 MERV 11",
+  "category": "filters",
+  "attributes": {
+   "size": "16x25x4",
+   "merv": 11
+  },
+  "aliases": [
+   "16x25x4 merv 11",
+   "16 by 25 by 4 merv 11 pleated",
+   "16x25x4 MERV11 filters",
+   "16x25x4 filters",
+   "16x25 filters"
+  ],
+  "long_description": "pleated air filters, 16 by 25 by 4 inch, MERV 11",
+  "unit": "each",
+  "list_price": 35.49,
+  "stock_qty": 343,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "16x25x4 merv 11",
+   "16 by 25 by 4 merv 11 pleated",
+   "16x25x4 MERV11 filters"
+  ]
+ },
+ {
+  "sku": "NB-FLT-3439",
+  "name": "Pleated air filter 16x25x2 MERV 11",
+  "category": "filters",
+  "attributes": {
+   "size": "16x25x2",
+   "merv": 11
+  },
+  "aliases": [
+   "16x25x2 merv 11",
+   "16 by 25 by 2 merv 11 pleated",
+   "16x25x2 MERV11 filters",
+   "16x25x2 filters",
+   "16x25 filters"
+  ],
+  "long_description": "pleated air filters, 16 by 25 by 2 inch, MERV 11",
+  "unit": "each",
+  "list_price": 16.49,
+  "stock_qty": 203,
+  "compatible_equipment": [
+   "MRW-RTU120-1"
+  ],
+  "unique_aliases": [
+   "16x25x2 merv 11",
+   "16 by 25 by 2 merv 11 pleated",
+   "16x25x2 MERV11 filters"
+  ]
+ },
+ {
+  "sku": "NB-FLT-4110",
+  "name": "Pleated air filter 20x25x1 MERV 11",
+  "category": "filters",
+  "attributes": {
+   "size": "20x25x1",
+   "merv": 11
+  },
+  "aliases": [
+   "20x25x1 merv 11",
+   "20 by 25 by 1 merv 11 pleated",
+   "20x25x1 MERV11 filters",
+   "20x25x1 filters",
+   "20x25 filters"
+  ],
+  "long_description": "pleated air filters, 20 by 25 by 1 inch, MERV 11",
+  "unit": "each",
+  "list_price": 9.49,
+  "stock_qty": 279,
+  "compatible_equipment": [
+   "BSV-AH36-2",
+   "OSR-FUR80-2"
+  ],
+  "unique_aliases": [
+   "20x25x1 merv 11",
+   "20 by 25 by 1 merv 11 pleated",
+   "20x25x1 MERV11 filters"
+  ]
+ },
+ {
+  "sku": "NB-FLT-5084",
+  "name": "Pleated air filter 16x25x2 MERV 13",
+  "category": "filters",
+  "attributes": {
+   "size": "16x25x2",
+   "merv": 13
+  },
+  "aliases": [
+   "16x25x2 merv 13",
+   "16 by 25 by 2 merv 13 pleated",
+   "16x25x2 MERV13 filters",
+   "16x25x2 filters",
+   "16x25 filters"
+  ],
+  "long_description": "pleated air filters, 16 by 25 by 2 inch, MERV 13",
+  "unit": "each",
+  "list_price": 20.49,
+  "stock_qty": 198,
+  "compatible_equipment": [
+   "OSR-AH24-2"
+  ],
+  "unique_aliases": [
+   "16x25x2 merv 13",
+   "16 by 25 by 2 merv 13 pleated",
+   "16x25x2 MERV13 filters"
+  ]
+ },
+ {
+  "sku": "NB-FLT-5353",
+  "name": "Pleated air filter 16x25x2 MERV 8",
+  "category": "filters",
+  "attributes": {
+   "size": "16x25x2",
+   "merv": 8
+  },
+  "aliases": [
+   "16x25x2 merv 8",
+   "16 by 25 by 2 merv 8 pleated",
+   "16x25x2 MERV8 filters",
+   "16x25x2 filters",
+   "16x25 filters"
+  ],
+  "long_description": "pleated air filters, 16 by 25 by 2 inch, MERV 8",
+  "unit": "each",
+  "list_price": 12.49,
+  "stock_qty": 4,
+  "compatible_equipment": [
+   "KVL-FUR60-1"
+  ],
+  "unique_aliases": [
+   "16x25x2 merv 8",
+   "16 by 25 by 2 merv 8 pleated",
+   "16x25x2 MERV8 filters"
+  ]
+ },
+ {
+  "sku": "NB-FLT-5508",
+  "name": "Pleated air filter 20x25x2 MERV 8",
+  "category": "filters",
+  "attributes": {
+   "size": "20x25x2",
+   "merv": 8
+  },
+  "aliases": [
+   "20x25x2 merv 8",
+   "20 by 25 by 2 merv 8 pleated",
+   "20x25x2 MERV8 filters",
+   "20x25x2 filters",
+   "20x25 filters"
+  ],
+  "long_description": "pleated air filters, 20 by 25 by 2 inch, MERV 8",
+  "unit": "each",
+  "list_price": 12.49,
+  "stock_qty": 285,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "20x25x2 merv 8",
+   "20 by 25 by 2 merv 8 pleated",
+   "20x25x2 MERV8 filters",
+   "20x25x2 filters"
+  ]
+ },
+ {
+  "sku": "NB-FLT-5597",
+  "name": "Pleated air filter 20x25x4 MERV 8",
+  "category": "filters",
+  "attributes": {
+   "size": "20x25x4",
+   "merv": 8
+  },
+  "aliases": [
+   "20x25x4 merv 8",
+   "20 by 25 by 4 merv 8 pleated",
+   "20x25x4 MERV8 filters",
+   "20x25x4 filters",
+   "20x25 filters"
+  ],
+  "long_description": "pleated air filters, 20 by 25 by 4 inch, MERV 8",
+  "unit": "each",
+  "list_price": 26.49,
+  "stock_qty": 266,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "20x25x4 merv 8",
+   "20 by 25 by 4 merv 8 pleated",
+   "20x25x4 MERV8 filters",
+   "20x25x4 filters"
+  ]
+ },
+ {
+  "sku": "NB-FLT-5679",
+  "name": "Pleated air filter 12x24x1 MERV 11",
+  "category": "filters",
+  "attributes": {
+   "size": "12x24x1",
+   "merv": 11
+  },
+  "aliases": [
+   "12x24x1 merv 11",
+   "12 by 24 by 1 merv 11 pleated",
+   "12x24x1 MERV11 filters",
+   "12x24x1 filters",
+   "12x24 filters"
+  ],
+  "long_description": "pleated air filters, 12 by 24 by 1 inch, MERV 11",
+  "unit": "each",
+  "list_price": 9.49,
+  "stock_qty": 255,
+  "compatible_equipment": [
+   "KVL-RTU36-B"
+  ],
+  "unique_aliases": [
+   "12x24x1 merv 11",
+   "12 by 24 by 1 merv 11 pleated",
+   "12x24x1 MERV11 filters",
+   "12x24x1 filters",
+   "12x24 filters"
+  ]
+ },
+ {
+  "sku": "NB-FLT-6170",
+  "name": "Pleated air filter 16x20x1 MERV 11",
+  "category": "filters",
+  "attributes": {
+   "size": "16x20x1",
+   "merv": 11
+  },
+  "aliases": [
+   "16x20x1 merv 11",
+   "16 by 20 by 1 merv 11 pleated",
+   "16x20x1 MERV11 filters",
+   "16x20x1 filters",
+   "16x20 filters"
+  ],
+  "long_description": "pleated air filters, 16 by 20 by 1 inch, MERV 11",
+  "unit": "each",
+  "list_price": 9.49,
+  "stock_qty": 334,
+  "compatible_equipment": [
+   "TVD-RTU120-C",
+   "VTR-RTU60-B"
+  ],
+  "unique_aliases": [
+   "16x20x1 merv 11",
+   "16 by 20 by 1 merv 11 pleated",
+   "16x20x1 MERV11 filters"
+  ]
+ },
+ {
+  "sku": "NB-FLT-6909",
+  "name": "Pleated air filter 20x20x4 MERV 13",
+  "category": "filters",
+  "attributes": {
+   "size": "20x20x4",
+   "merv": 13
+  },
+  "aliases": [
+   "20x20x4 merv 13",
+   "20 by 20 by 4 merv 13 pleated",
+   "20x20x4 MERV13 filters",
+   "20x20x4 filters",
+   "20x20 filters"
+  ],
+  "long_description": "pleated air filters, 20 by 20 by 4 inch, MERV 13",
+  "unit": "each",
+  "list_price": 44.49,
+  "stock_qty": 2,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "20x20x4 merv 13",
+   "20 by 20 by 4 merv 13 pleated",
+   "20x20x4 MERV13 filters"
+  ]
+ },
+ {
+  "sku": "NB-FLT-7116",
+  "name": "Pleated air filter 20x20x1 MERV 8",
+  "category": "filters",
+  "attributes": {
+   "size": "20x20x1",
+   "merv": 8
+  },
+  "aliases": [
+   "20x20x1 merv 8",
+   "20 by 20 by 1 merv 8 pleated",
+   "20x20x1 MERV8 filters",
+   "20x20x1 filters",
+   "20x20 filters"
+  ],
+  "long_description": "pleated air filters, 20 by 20 by 1 inch, MERV 8",
+  "unit": "each",
+  "list_price": 7.49,
+  "stock_qty": 0,
+  "compatible_equipment": [
+   "HSK-FUR60-A"
+  ],
+  "unique_aliases": [
+   "20x20x1 merv 8",
+   "20 by 20 by 1 merv 8 pleated",
+   "20x20x1 MERV8 filters",
+   "20x20x1 filters"
+  ]
+ },
+ {
+  "sku": "NB-FLT-7392",
+  "name": "Pleated air filter 16x25x4 MERV 13",
+  "category": "filters",
+  "attributes": {
+   "size": "16x25x4",
+   "merv": 13
+  },
+  "aliases": [
+   "16x25x4 merv 13",
+   "16 by 25 by 4 merv 13 pleated",
+   "16x25x4 MERV13 filters",
+   "16x25x4 filters",
+   "16x25 filters"
+  ],
+  "long_description": "pleated air filters, 16 by 25 by 4 inch, MERV 13",
+  "unit": "each",
+  "list_price": 44.49,
+  "stock_qty": 387,
+  "compatible_equipment": [
+   "VTR-FUR100-C"
+  ],
+  "unique_aliases": [
+   "16x25x4 merv 13",
+   "16 by 25 by 4 merv 13 pleated",
+   "16x25x4 MERV13 filters"
+  ]
+ },
+ {
+  "sku": "NB-FLT-7437",
+  "name": "Pleated air filter 14x20x1 MERV 11",
+  "category": "filters",
+  "attributes": {
+   "size": "14x20x1",
+   "merv": 11
+  },
+  "aliases": [
+   "14x20x1 merv 11",
+   "14 by 20 by 1 merv 11 pleated",
+   "14x20x1 MERV11 filters",
+   "14x20x1 filters",
+   "14x20 filters"
+  ],
+  "long_description": "pleated air filters, 14 by 20 by 1 inch, MERV 11",
+  "unit": "each",
+  "list_price": 9.49,
+  "stock_qty": 364,
+  "compatible_equipment": [
+   "BSV-FUR120-B",
+   "QMK-AH48-C"
+  ],
+  "unique_aliases": [
+   "14x20x1 merv 11",
+   "14 by 20 by 1 merv 11 pleated",
+   "14x20x1 MERV11 filters",
+   "14x20x1 filters",
+   "14x20 filters"
+  ]
+ },
+ {
+  "sku": "NB-FLT-8013",
+  "name": "Pleated air filter 16x25x1 MERV 11",
+  "category": "filters",
+  "attributes": {
+   "size": "16x25x1",
+   "merv": 11
+  },
+  "aliases": [
+   "16x25x1 merv 11",
+   "16 by 25 by 1 merv 11 pleated",
+   "16x25x1 MERV11 filters",
+   "16x25x1 filters",
+   "16x25 filters"
+  ],
+  "long_description": "pleated air filters, 16 by 25 by 1 inch, MERV 11",
+  "unit": "each",
+  "list_price": 9.49,
+  "stock_qty": 363,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "16x25x1 merv 11",
+   "16 by 25 by 1 merv 11 pleated",
+   "16x25x1 MERV11 filters"
+  ]
+ },
+ {
+  "sku": "NB-FLT-8147",
+  "name": "Pleated air filter 20x25x1 MERV 8",
+  "category": "filters",
+  "attributes": {
+   "size": "20x25x1",
+   "merv": 8
+  },
+  "aliases": [
+   "20x25x1 merv 8",
+   "20 by 25 by 1 merv 8 pleated",
+   "20x25x1 MERV8 filters",
+   "20x25x1 filters",
+   "20x25 filters"
+  ],
+  "long_description": "pleated air filters, 20 by 25 by 1 inch, MERV 8",
+  "unit": "each",
+  "list_price": 7.49,
+  "stock_qty": 231,
+  "compatible_equipment": [
+   "HSK-RTU90-C"
+  ],
+  "unique_aliases": [
+   "20x25x1 merv 8",
+   "20 by 25 by 1 merv 8 pleated",
+   "20x25x1 MERV8 filters"
+  ]
+ },
+ {
+  "sku": "NB-FLT-9371",
+  "name": "Pleated air filter 24x24x2 MERV 11",
+  "category": "filters",
+  "attributes": {
+   "size": "24x24x2",
+   "merv": 11
+  },
+  "aliases": [
+   "24x24x2 merv 11",
+   "24 by 24 by 2 merv 11 pleated",
+   "24x24x2 MERV11 filters",
+   "24x24x2 filters",
+   "24x24 filters"
+  ],
+  "long_description": "pleated air filters, 24 by 24 by 2 inch, MERV 11",
+  "unit": "each",
+  "list_price": 16.49,
+  "stock_qty": 2,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "24x24x2 merv 11",
+   "24 by 24 by 2 merv 11 pleated",
+   "24x24x2 MERV11 filters",
+   "24x24x2 filters",
+   "24x24 filters"
+  ]
+ },
+ {
+  "sku": "NB-MTR-1110",
+  "name": "3/4 HP 1075 RPM 208-230V condenser fan motor",
+  "category": "motors",
+  "attributes": {
+   "type": "condenser fan motor",
+   "hp": "3/4",
+   "rpm": 1075,
+   "voltage": "208-230V"
+  },
+  "aliases": [
+   "3/4 hp 1075 rpm cond fan motor 208-230V",
+   "3/4hp 1075 condenser fan motor 208-230V",
+   "cond fan motor 3/4 hp 1075 rpm 208-230V",
+   "3/4 hp condenser fan motor",
+   "condenser fan motor"
+  ],
+  "long_description": "condenser fan motor, 3/4 horsepower, 1075 RPM, 208-230V",
+  "unit": "each",
+  "list_price": 210.49,
+  "stock_qty": 14,
+  "compatible_equipment": [
+   "BSV-AC48-A",
+   "KVL-AC24-2",
+   "KVL-RTU36-B",
+   "KVL-WIC10-C",
+   "MRW-RTU120-1",
+   "TVD-HP30-2",
+   "VTR-RTU60-B"
+  ],
+  "unique_aliases": [
+   "3/4 hp 1075 rpm cond fan motor 208-230V",
+   "3/4hp 1075 condenser fan motor 208-230V",
+   "cond fan motor 3/4 hp 1075 rpm 208-230V"
+  ]
+ },
+ {
+  "sku": "NB-MTR-1558",
+  "name": "1/3 HP 825 RPM 208-230V condenser fan motor",
+  "category": "motors",
+  "attributes": {
+   "type": "condenser fan motor",
+   "hp": "1/3",
+   "rpm": 825,
+   "voltage": "208-230V"
+  },
+  "aliases": [
+   "1/3 hp 825 rpm cond fan motor 208-230V",
+   "1/3hp 825 condenser fan motor 208-230V",
+   "cond fan motor 1/3 hp 825 rpm 208-230V",
+   "1/3 hp condenser fan motor",
+   "condenser fan motor"
+  ],
+  "long_description": "condenser fan motor, 1/3 horsepower, 825 RPM, 208-230V",
+  "unit": "each",
+  "list_price": 135.49,
+  "stock_qty": 14,
+  "compatible_equipment": [
+   "VTR-AC30-C"
+  ],
+  "unique_aliases": [
+   "1/3 hp 825 rpm cond fan motor 208-230V",
+   "1/3hp 825 condenser fan motor 208-230V",
+   "cond fan motor 1/3 hp 825 rpm 208-230V",
+   "1/3 hp condenser fan motor"
+  ]
+ },
+ {
+  "sku": "NB-MTR-2104",
+  "name": "1/4 HP 1075 RPM 115V condenser fan motor",
+  "category": "motors",
+  "attributes": {
+   "type": "condenser fan motor",
+   "hp": "1/4",
+   "rpm": 1075,
+   "voltage": "115V"
+  },
+  "aliases": [
+   "1/4 hp 1075 rpm cond fan motor 115V",
+   "1/4hp 1075 condenser fan motor 115V",
+   "cond fan motor 1/4 hp 1075 rpm 115V",
+   "1/4 hp condenser fan motor",
+   "condenser fan motor"
+  ],
+  "long_description": "condenser fan motor, 1/4 horsepower, 1075 RPM, 115V",
+  "unit": "each",
+  "list_price": 120.49,
+  "stock_qty": 2,
+  "compatible_equipment": [
+   "KVL-HP60-C"
+  ],
+  "unique_aliases": [
+   "1/4 hp 1075 rpm cond fan motor 115V",
+   "1/4hp 1075 condenser fan motor 115V",
+   "cond fan motor 1/4 hp 1075 rpm 115V",
+   "1/4 hp condenser fan motor"
+  ]
+ },
+ {
+  "sku": "NB-MTR-2328",
+  "name": "1/5 HP 825 RPM 208-230V condenser fan motor",
+  "category": "motors",
+  "attributes": {
+   "type": "condenser fan motor",
+   "hp": "1/5",
+   "rpm": 825,
+   "voltage": "208-230V"
+  },
+  "aliases": [
+   "1/5 hp 825 rpm cond fan motor 208-230V",
+   "1/5hp 825 condenser fan motor 208-230V",
+   "cond fan motor 1/5 hp 825 rpm 208-230V",
+   "1/5 hp condenser fan motor",
+   "condenser fan motor"
+  ],
+  "long_description": "condenser fan motor, 1/5 horsepower, 825 RPM, 208-230V",
+  "unit": "each",
+  "list_price": 111.49,
+  "stock_qty": 17,
+  "compatible_equipment": [
+   "TVD-RTU120-C"
+  ],
+  "unique_aliases": [
+   "1/5 hp 825 rpm cond fan motor 208-230V",
+   "1/5hp 825 condenser fan motor 208-230V",
+   "cond fan motor 1/5 hp 825 rpm 208-230V"
+  ]
+ },
+ {
+  "sku": "NB-MTR-4245",
+  "name": "3/4 HP 1625 RPM 208-230V condenser fan motor",
+  "category": "motors",
+  "attributes": {
+   "type": "condenser fan motor",
+   "hp": "3/4",
+   "rpm": 1625,
+   "voltage": "208-230V"
+  },
+  "aliases": [
+   "3/4 hp 1625 rpm cond fan motor 208-230V",
+   "3/4hp 1625 condenser fan motor 208-230V",
+   "cond fan motor 3/4 hp 1625 rpm 208-230V",
+   "3/4 hp condenser fan motor",
+   "condenser fan motor"
+  ],
+  "long_description": "condenser fan motor, 3/4 horsepower, 1625 RPM, 208-230V",
+  "unit": "each",
+  "list_price": 210.49,
+  "stock_qty": 5,
+  "compatible_equipment": [
+   "HSK-WIC6-3",
+   "QMK-AC24-1"
+  ],
+  "unique_aliases": [
+   "3/4 hp 1625 rpm cond fan motor 208-230V",
+   "3/4hp 1625 condenser fan motor 208-230V",
+   "cond fan motor 3/4 hp 1625 rpm 208-230V"
+  ]
+ },
+ {
+  "sku": "NB-MTR-4362",
+  "name": "1/5 HP 1625 RPM 208-230V condenser fan motor",
+  "category": "motors",
+  "attributes": {
+   "type": "condenser fan motor",
+   "hp": "1/5",
+   "rpm": 1625,
+   "voltage": "208-230V"
+  },
+  "aliases": [
+   "1/5 hp 1625 rpm cond fan motor 208-230V",
+   "1/5hp 1625 condenser fan motor 208-230V",
+   "cond fan motor 1/5 hp 1625 rpm 208-230V",
+   "1/5 hp condenser fan motor",
+   "condenser fan motor"
+  ],
+  "long_description": "condenser fan motor, 1/5 horsepower, 1625 RPM, 208-230V",
+  "unit": "each",
+  "list_price": 111.49,
+  "stock_qty": 13,
+  "compatible_equipment": [
+   "MRW-WIC10-3",
+   "OSR-AC48-3",
+   "QMK-RTU48-C"
+  ],
+  "unique_aliases": [
+   "1/5 hp 1625 rpm cond fan motor 208-230V",
+   "1/5hp 1625 condenser fan motor 208-230V",
+   "cond fan motor 1/5 hp 1625 rpm 208-230V"
+  ]
+ },
+ {
+  "sku": "NB-MTR-4715",
+  "name": "1/2 HP 1075 RPM 115V condenser fan motor",
+  "category": "motors",
+  "attributes": {
+   "type": "condenser fan motor",
+   "hp": "1/2",
+   "rpm": 1075,
+   "voltage": "115V"
+  },
+  "aliases": [
+   "1/2 hp 1075 rpm cond fan motor 115V",
+   "1/2hp 1075 condenser fan motor 115V",
+   "cond fan motor 1/2 hp 1075 rpm 115V",
+   "1/2 hp condenser fan motor",
+   "condenser fan motor"
+  ],
+  "long_description": "condenser fan motor, 1/2 horsepower, 1075 RPM, 115V",
+  "unit": "each",
+  "list_price": 165.49,
+  "stock_qty": 23,
+  "compatible_equipment": [
+   "HSK-HP24-C",
+   "HSK-RTU90-C",
+   "QMK-HP24-1",
+   "TVD-AC24-B"
+  ],
+  "unique_aliases": [
+   "1/2 hp 1075 rpm cond fan motor 115V",
+   "1/2hp 1075 condenser fan motor 115V",
+   "cond fan motor 1/2 hp 1075 rpm 115V",
+   "1/2 hp condenser fan motor"
+  ]
+ },
+ {
+  "sku": "NB-MTR-4732",
+  "name": "1/6 HP 1075 RPM 208-230V condenser fan motor",
+  "category": "motors",
+  "attributes": {
+   "type": "condenser fan motor",
+   "hp": "1/6",
+   "rpm": 1075,
+   "voltage": "208-230V"
+  },
+  "aliases": [
+   "1/6 hp 1075 rpm cond fan motor 208-230V",
+   "1/6hp 1075 condenser fan motor 208-230V",
+   "cond fan motor 1/6 hp 1075 rpm 208-230V",
+   "1/6 hp condenser fan motor",
+   "condenser fan motor"
+  ],
+  "long_description": "condenser fan motor, 1/6 horsepower, 1075 RPM, 208-230V",
+  "unit": "each",
+  "list_price": 105.49,
+  "stock_qty": 9,
+  "compatible_equipment": [
+   "MRW-HP24-1"
+  ],
+  "unique_aliases": [
+   "1/6 hp 1075 rpm cond fan motor 208-230V",
+   "1/6hp 1075 condenser fan motor 208-230V",
+   "cond fan motor 1/6 hp 1075 rpm 208-230V",
+   "1/6 hp condenser fan motor"
+  ]
+ },
+ {
+  "sku": "NB-MTR-5214",
+  "name": "1/3 HP 1075 RPM 115V blower motor",
+  "category": "motors",
+  "attributes": {
+   "type": "blower motor",
+   "hp": "1/3",
+   "rpm": 1075,
+   "voltage": "115V"
+  },
+  "aliases": [
+   "1/3 hp 1075 rpm blower motor 115V",
+   "1/3hp 1075 blower motor 115V",
+   "blower motor 1/3 hp 1075 rpm 115V",
+   "1/3 hp blower motor",
+   "blower motor"
+  ],
+  "long_description": "blower motor, 1/3 horsepower, 1075 RPM, 115V",
+  "unit": "each",
+  "list_price": 135.49,
+  "stock_qty": 12,
+  "compatible_equipment": [
+   "VTR-FUR100-C"
+  ],
+  "unique_aliases": [
+   "1/3 hp 1075 rpm blower motor 115V",
+   "1/3hp 1075 blower motor 115V",
+   "blower motor 1/3 hp 1075 rpm 115V"
+  ]
+ },
+ {
+  "sku": "NB-MTR-5785",
+  "name": "1/6 HP 1625 RPM 115V blower motor",
+  "category": "motors",
+  "attributes": {
+   "type": "blower motor",
+   "hp": "1/6",
+   "rpm": 1625,
+   "voltage": "115V"
+  },
+  "aliases": [
+   "1/6 hp 1625 rpm blower motor 115V",
+   "1/6hp 1625 blower motor 115V",
+   "blower motor 1/6 hp 1625 rpm 115V",
+   "1/6 hp blower motor",
+   "blower motor"
+  ],
+  "long_description": "blower motor, 1/6 horsepower, 1625 RPM, 115V",
+  "unit": "each",
+  "list_price": 105.49,
+  "stock_qty": 9,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "1/6 hp 1625 rpm blower motor 115V",
+   "1/6hp 1625 blower motor 115V",
+   "blower motor 1/6 hp 1625 rpm 115V"
+  ]
+ },
+ {
+  "sku": "NB-MTR-6538",
+  "name": "3/4 HP 825 RPM 115V blower motor",
+  "category": "motors",
+  "attributes": {
+   "type": "blower motor",
+   "hp": "3/4",
+   "rpm": 825,
+   "voltage": "115V"
+  },
+  "aliases": [
+   "3/4 hp 825 rpm blower motor 115V",
+   "3/4hp 825 blower motor 115V",
+   "blower motor 3/4 hp 825 rpm 115V",
+   "3/4 hp blower motor",
+   "blower motor"
+  ],
+  "long_description": "blower motor, 3/4 horsepower, 825 RPM, 115V",
+  "unit": "each",
+  "list_price": 210.49,
+  "stock_qty": 5,
+  "compatible_equipment": [
+   "BSV-FUR120-B"
+  ],
+  "unique_aliases": [
+   "3/4 hp 825 rpm blower motor 115V",
+   "3/4hp 825 blower motor 115V",
+   "blower motor 3/4 hp 825 rpm 115V",
+   "3/4 hp blower motor"
+  ]
+ },
+ {
+  "sku": "NB-MTR-6936",
+  "name": "1/5 HP 825 RPM 115V blower motor",
+  "category": "motors",
+  "attributes": {
+   "type": "blower motor",
+   "hp": "1/5",
+   "rpm": 825,
+   "voltage": "115V"
+  },
+  "aliases": [
+   "1/5 hp 825 rpm blower motor 115V",
+   "1/5hp 825 blower motor 115V",
+   "blower motor 1/5 hp 825 rpm 115V",
+   "1/5 hp blower motor",
+   "blower motor"
+  ],
+  "long_description": "blower motor, 1/5 horsepower, 825 RPM, 115V",
+  "unit": "each",
+  "list_price": 111.49,
+  "stock_qty": 1,
+  "compatible_equipment": [
+   "MRW-FUR120-2",
+   "TVD-AH48-C"
+  ],
+  "unique_aliases": [
+   "1/5 hp 825 rpm blower motor 115V",
+   "1/5hp 825 blower motor 115V",
+   "blower motor 1/5 hp 825 rpm 115V"
+  ]
+ },
+ {
+  "sku": "NB-MTR-7065",
+  "name": "1/6 HP 1625 RPM 208-230V blower motor",
+  "category": "motors",
+  "attributes": {
+   "type": "blower motor",
+   "hp": "1/6",
+   "rpm": 1625,
+   "voltage": "208-230V"
+  },
+  "aliases": [
+   "1/6 hp 1625 rpm blower motor 208-230V",
+   "1/6hp 1625 blower motor 208-230V",
+   "blower motor 1/6 hp 1625 rpm 208-230V",
+   "1/6 hp blower motor",
+   "blower motor"
+  ],
+  "long_description": "blower motor, 1/6 horsepower, 1625 RPM, 208-230V",
+  "unit": "each",
+  "list_price": 105.49,
+  "stock_qty": 13,
+  "compatible_equipment": [
+   "OSR-AH24-2"
+  ],
+  "unique_aliases": [
+   "1/6 hp 1625 rpm blower motor 208-230V",
+   "1/6hp 1625 blower motor 208-230V",
+   "blower motor 1/6 hp 1625 rpm 208-230V"
+  ]
+ },
+ {
+  "sku": "NB-MTR-7493",
+  "name": "1/3 HP 1075 RPM 208-230V blower motor",
+  "category": "motors",
+  "attributes": {
+   "type": "blower motor",
+   "hp": "1/3",
+   "rpm": 1075,
+   "voltage": "208-230V"
+  },
+  "aliases": [
+   "1/3 hp 1075 rpm blower motor 208-230V",
+   "1/3hp 1075 blower motor 208-230V",
+   "blower motor 1/3 hp 1075 rpm 208-230V",
+   "1/3 hp blower motor",
+   "blower motor"
+  ],
+  "long_description": "blower motor, 1/3 horsepower, 1075 RPM, 208-230V",
+  "unit": "each",
+  "list_price": 135.49,
+  "stock_qty": 18,
+  "compatible_equipment": [
+   "BSV-AH36-2",
+   "KVL-FUR60-1"
+  ],
+  "unique_aliases": [
+   "1/3 hp 1075 rpm blower motor 208-230V",
+   "1/3hp 1075 blower motor 208-230V",
+   "blower motor 1/3 hp 1075 rpm 208-230V"
+  ]
+ },
+ {
+  "sku": "NB-MTR-7881",
+  "name": "1/5 HP 1075 RPM 208-230V blower motor",
+  "category": "motors",
+  "attributes": {
+   "type": "blower motor",
+   "hp": "1/5",
+   "rpm": 1075,
+   "voltage": "208-230V"
+  },
+  "aliases": [
+   "1/5 hp 1075 rpm blower motor 208-230V",
+   "1/5hp 1075 blower motor 208-230V",
+   "blower motor 1/5 hp 1075 rpm 208-230V",
+   "1/5 hp blower motor",
+   "blower motor"
+  ],
+  "long_description": "blower motor, 1/5 horsepower, 1075 RPM, 208-230V",
+  "unit": "each",
+  "list_price": 111.49,
+  "stock_qty": 10,
+  "compatible_equipment": [
+   "HSK-FUR60-A",
+   "OSR-FUR80-2",
+   "QMK-AH48-C"
+  ],
+  "unique_aliases": [
+   "1/5 hp 1075 rpm blower motor 208-230V",
+   "1/5hp 1075 blower motor 208-230V",
+   "blower motor 1/5 hp 1075 rpm 208-230V"
+  ]
+ },
+ {
+  "sku": "NB-MTR-7890",
+  "name": "1/3 HP 1625 RPM 208-230V blower motor",
+  "category": "motors",
+  "attributes": {
+   "type": "blower motor",
+   "hp": "1/3",
+   "rpm": 1625,
+   "voltage": "208-230V"
+  },
+  "aliases": [
+   "1/3 hp 1625 rpm blower motor 208-230V",
+   "1/3hp 1625 blower motor 208-230V",
+   "blower motor 1/3 hp 1625 rpm 208-230V",
+   "1/3 hp blower motor",
+   "blower motor"
+  ],
+  "long_description": "blower motor, 1/3 horsepower, 1625 RPM, 208-230V",
+  "unit": "each",
+  "list_price": 135.49,
+  "stock_qty": 18,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "1/3 hp 1625 rpm blower motor 208-230V",
+   "1/3hp 1625 blower motor 208-230V",
+   "blower motor 1/3 hp 1625 rpm 208-230V"
+  ]
+ },
+ {
+  "sku": "NB-MTR-7952",
+  "name": "1/6 HP 825 RPM 208-230V exhaust fan motor",
+  "category": "motors",
+  "attributes": {
+   "type": "exhaust fan motor",
+   "hp": "1/6",
+   "rpm": 825,
+   "voltage": "208-230V"
+  },
+  "aliases": [
+   "1/6 hp 825 rpm exhaust motor 208-230V",
+   "1/6hp 825 exhaust fan motor 208-230V",
+   "exhaust motor 1/6 hp 825 rpm 208-230V",
+   "1/6 hp exhaust fan motor",
+   "exhaust fan motor"
+  ],
+  "long_description": "exhaust fan motor, 1/6 horsepower, 825 RPM, 208-230V",
+  "unit": "each",
+  "list_price": 105.49,
+  "stock_qty": 5,
+  "compatible_equipment": [
+   "OSR-EXF20-2"
+  ],
+  "unique_aliases": [
+   "1/6 hp 825 rpm exhaust motor 208-230V",
+   "1/6hp 825 exhaust fan motor 208-230V",
+   "exhaust motor 1/6 hp 825 rpm 208-230V"
+  ]
+ },
+ {
+  "sku": "NB-MTR-9076",
+  "name": "1/6 HP 1625 RPM 115V exhaust fan motor",
+  "category": "motors",
+  "attributes": {
+   "type": "exhaust fan motor",
+   "hp": "1/6",
+   "rpm": 1625,
+   "voltage": "115V"
+  },
+  "aliases": [
+   "1/6 hp 1625 rpm exhaust motor 115V",
+   "1/6hp 1625 exhaust fan motor 115V",
+   "exhaust motor 1/6 hp 1625 rpm 115V",
+   "1/6 hp exhaust fan motor",
+   "exhaust fan motor"
+  ],
+  "long_description": "exhaust fan motor, 1/6 horsepower, 1625 RPM, 115V",
+  "unit": "each",
+  "list_price": 105.49,
+  "stock_qty": 9,
+  "compatible_equipment": [
+   "TVD-EXF12-B"
+  ],
+  "unique_aliases": [
+   "1/6 hp 1625 rpm exhaust motor 115V",
+   "1/6hp 1625 exhaust fan motor 115V",
+   "exhaust motor 1/6 hp 1625 rpm 115V"
+  ]
+ },
+ {
+  "sku": "NB-MTR-9164",
+  "name": "3/4 HP 1075 RPM 115V exhaust fan motor",
+  "category": "motors",
+  "attributes": {
+   "type": "exhaust fan motor",
+   "hp": "3/4",
+   "rpm": 1075,
+   "voltage": "115V"
+  },
+  "aliases": [
+   "3/4 hp 1075 rpm exhaust motor 115V",
+   "3/4hp 1075 exhaust fan motor 115V",
+   "exhaust motor 3/4 hp 1075 rpm 115V",
+   "3/4 hp exhaust fan motor",
+   "exhaust fan motor"
+  ],
+  "long_description": "exhaust fan motor, 3/4 horsepower, 1075 RPM, 115V",
+  "unit": "each",
+  "list_price": 210.49,
+  "stock_qty": 20,
+  "compatible_equipment": [
+   "QMK-EXF24-B"
+  ],
+  "unique_aliases": [
+   "3/4 hp 1075 rpm exhaust motor 115V",
+   "3/4hp 1075 exhaust fan motor 115V",
+   "exhaust motor 3/4 hp 1075 rpm 115V",
+   "3/4 hp exhaust fan motor"
+  ]
+ },
+ {
+  "sku": "NB-MTR-9271",
+  "name": "1/2 HP 825 RPM 208-230V exhaust fan motor",
+  "category": "motors",
+  "attributes": {
+   "type": "exhaust fan motor",
+   "hp": "1/2",
+   "rpm": 825,
+   "voltage": "208-230V"
+  },
+  "aliases": [
+   "1/2 hp 825 rpm exhaust motor 208-230V",
+   "1/2hp 825 exhaust fan motor 208-230V",
+   "exhaust motor 1/2 hp 825 rpm 208-230V",
+   "1/2 hp exhaust fan motor",
+   "exhaust fan motor"
+  ],
+  "long_description": "exhaust fan motor, 1/2 horsepower, 825 RPM, 208-230V",
+  "unit": "each",
+  "list_price": 165.49,
+  "stock_qty": 18,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "1/2 hp 825 rpm exhaust motor 208-230V",
+   "1/2hp 825 exhaust fan motor 208-230V",
+   "exhaust motor 1/2 hp 825 rpm 208-230V",
+   "1/2 hp exhaust fan motor"
+  ]
+ },
+ {
+  "sku": "NB-TST-1496",
+  "name": "heat pump Wi-Fi 3H/2C thermostat, black",
+  "category": "thermostats",
+  "attributes": {
+   "group": "heat pump",
+   "model": "heat pump Wi-Fi 3H/2C",
+   "color": "black"
+  },
+  "aliases": [
+   "heat pump Wi-Fi 3H/2C tstat black",
+   "black heat pump Wi-Fi 3H/2C thermostat",
+   "heat pump Wi-Fi 3H/2C t-stat",
+   "heat pump thermostat"
+  ],
+  "long_description": "black heat pump Wi-Fi 3H/2C thermostat",
+  "unit": "each",
+  "list_price": 160.49,
+  "stock_qty": 58,
+  "compatible_equipment": [
+   "KVL-HP60-C"
+  ],
+  "unique_aliases": [
+   "heat pump Wi-Fi 3H/2C tstat black",
+   "black heat pump Wi-Fi 3H/2C thermostat"
+  ]
+ },
+ {
+  "sku": "NB-TST-1571",
+  "name": "heat pump non-programmable 2H/1C thermostat, white",
+  "category": "thermostats",
+  "attributes": {
+   "group": "heat pump",
+   "model": "heat pump non-programmable 2H/1C",
+   "color": "white"
+  },
+  "aliases": [
+   "heat pump non-programmable 2H/1C tstat white",
+   "white heat pump non-programmable 2H/1C thermostat",
+   "heat pump non-programmable 2H/1C t-stat",
+   "heat pump thermostat"
+  ],
+  "long_description": "white heat pump non-programmable 2H/1C thermostat",
+  "unit": "each",
+  "list_price": 70.49,
+  "stock_qty": 37,
+  "compatible_equipment": [
+   "QMK-HP24-1"
+  ],
+  "unique_aliases": [
+   "heat pump non-programmable 2H/1C tstat white",
+   "white heat pump non-programmable 2H/1C thermostat"
+  ]
+ },
+ {
+  "sku": "NB-TST-1666",
+  "name": "line voltage 120V thermostat, black",
+  "category": "thermostats",
+  "attributes": {
+   "group": "line voltage",
+   "model": "line voltage 120V",
+   "color": "black"
+  },
+  "aliases": [
+   "line voltage 120V tstat black",
+   "black line voltage 120V thermostat",
+   "line voltage 120V t-stat",
+   "line voltage thermostat"
+  ],
+  "long_description": "black line voltage 120V thermostat",
+  "unit": "each",
+  "list_price": 45.49,
+  "stock_qty": 59,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "line voltage 120V tstat black",
+   "black line voltage 120V thermostat"
+  ]
+ },
+ {
+  "sku": "NB-TST-2015",
+  "name": "walk-in cooler temperature controller thermostat, white",
+  "category": "thermostats",
+  "attributes": {
+   "group": "walk-in controller",
+   "model": "walk-in cooler temperature controller",
+   "color": "white"
+  },
+  "aliases": [
+   "walk-in cooler temperature controller tstat white",
+   "white walk-in cooler temperature controller thermostat",
+   "walk-in cooler temperature controller t-stat",
+   "walk-in controller thermostat"
+  ],
+  "long_description": "white walk-in cooler temperature controller thermostat",
+  "unit": "each",
+  "list_price": 118.49,
+  "stock_qty": 0,
+  "compatible_equipment": [
+   "HSK-WIC6-3",
+   "KVL-WIC10-C"
+  ],
+  "unique_aliases": [
+   "walk-in cooler temperature controller tstat white",
+   "white walk-in cooler temperature controller thermostat"
+  ]
+ },
+ {
+  "sku": "NB-TST-2025",
+  "name": "heat pump Wi-Fi 3H/2C thermostat, white",
+  "category": "thermostats",
+  "attributes": {
+   "group": "heat pump",
+   "model": "heat pump Wi-Fi 3H/2C",
+   "color": "white"
+  },
+  "aliases": [
+   "heat pump Wi-Fi 3H/2C tstat white",
+   "white heat pump Wi-Fi 3H/2C thermostat",
+   "heat pump Wi-Fi 3H/2C t-stat",
+   "heat pump thermostat"
+  ],
+  "long_description": "white heat pump Wi-Fi 3H/2C thermostat",
+  "unit": "each",
+  "list_price": 160.49,
+  "stock_qty": 40,
+  "compatible_equipment": [
+   "HSK-HP24-C"
+  ],
+  "unique_aliases": [
+   "heat pump Wi-Fi 3H/2C tstat white",
+   "white heat pump Wi-Fi 3H/2C thermostat"
+  ]
+ },
+ {
+  "sku": "NB-TST-4162",
+  "name": "heat pump programmable 2H/1C thermostat, black",
+  "category": "thermostats",
+  "attributes": {
+   "group": "heat pump",
+   "model": "heat pump programmable 2H/1C",
+   "color": "black"
+  },
+  "aliases": [
+   "heat pump programmable 2H/1C tstat black",
+   "black heat pump programmable 2H/1C thermostat",
+   "heat pump programmable 2H/1C t-stat",
+   "heat pump thermostat"
+  ],
+  "long_description": "black heat pump programmable 2H/1C thermostat",
+  "unit": "each",
+  "list_price": 70.49,
+  "stock_qty": 39,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "heat pump programmable 2H/1C tstat black",
+   "black heat pump programmable 2H/1C thermostat"
+  ]
+ },
+ {
+  "sku": "NB-TST-4193",
+  "name": "walk-in freezer temperature controller thermostat, black",
+  "category": "thermostats",
+  "attributes": {
+   "group": "walk-in controller",
+   "model": "walk-in freezer temperature controller",
+   "color": "black"
+  },
+  "aliases": [
+   "walk-in freezer temperature controller tstat black",
+   "black walk-in freezer temperature controller thermostat",
+   "walk-in freezer temperature controller t-stat",
+   "walk-in controller thermostat"
+  ],
+  "long_description": "black walk-in freezer temperature controller thermostat",
+  "unit": "each",
+  "list_price": 118.49,
+  "stock_qty": 0,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "walk-in freezer temperature controller tstat black",
+   "black walk-in freezer temperature controller thermostat"
+  ]
+ },
+ {
+  "sku": "NB-TST-4206",
+  "name": "heat pump non-programmable 2H/1C thermostat, black",
+  "category": "thermostats",
+  "attributes": {
+   "group": "heat pump",
+   "model": "heat pump non-programmable 2H/1C",
+   "color": "black"
+  },
+  "aliases": [
+   "heat pump non-programmable 2H/1C tstat black",
+   "black heat pump non-programmable 2H/1C thermostat",
+   "heat pump non-programmable 2H/1C t-stat",
+   "heat pump thermostat"
+  ],
+  "long_description": "black heat pump non-programmable 2H/1C thermostat",
+  "unit": "each",
+  "list_price": 70.49,
+  "stock_qty": 60,
+  "compatible_equipment": [
+   "MRW-HP24-1",
+   "TVD-HP30-2"
+  ],
+  "unique_aliases": [
+   "heat pump non-programmable 2H/1C tstat black",
+   "black heat pump non-programmable 2H/1C thermostat"
+  ]
+ },
+ {
+  "sku": "NB-TST-5063",
+  "name": "walk-in cooler temperature controller thermostat, black",
+  "category": "thermostats",
+  "attributes": {
+   "group": "walk-in controller",
+   "model": "walk-in cooler temperature controller",
+   "color": "black"
+  },
+  "aliases": [
+   "walk-in cooler temperature controller tstat black",
+   "black walk-in cooler temperature controller thermostat",
+   "walk-in cooler temperature controller t-stat",
+   "walk-in controller thermostat"
+  ],
+  "long_description": "black walk-in cooler temperature controller thermostat",
+  "unit": "each",
+  "list_price": 118.49,
+  "stock_qty": 24,
+  "compatible_equipment": [
+   "MRW-WIC10-3"
+  ],
+  "unique_aliases": [
+   "walk-in cooler temperature controller tstat black",
+   "black walk-in cooler temperature controller thermostat"
+  ]
+ },
+ {
+  "sku": "NB-TST-5210",
+  "name": "line voltage 240V thermostat, white",
+  "category": "thermostats",
+  "attributes": {
+   "group": "line voltage",
+   "model": "line voltage 240V",
+   "color": "white"
+  },
+  "aliases": [
+   "line voltage 240V tstat white",
+   "white line voltage 240V thermostat",
+   "line voltage 240V t-stat",
+   "line voltage thermostat"
+  ],
+  "long_description": "white line voltage 240V thermostat",
+  "unit": "each",
+  "list_price": 45.49,
+  "stock_qty": 0,
+  "compatible_equipment": [
+   "BSV-BLR120-1"
+  ],
+  "unique_aliases": [
+   "line voltage 240V tstat white",
+   "white line voltage 240V thermostat"
+  ]
+ },
+ {
+  "sku": "NB-TST-6297",
+  "name": "walk-in freezer temperature controller thermostat, white",
+  "category": "thermostats",
+  "attributes": {
+   "group": "walk-in controller",
+   "model": "walk-in freezer temperature controller",
+   "color": "white"
+  },
+  "aliases": [
+   "walk-in freezer temperature controller tstat white",
+   "white walk-in freezer temperature controller thermostat",
+   "walk-in freezer temperature controller t-stat",
+   "walk-in controller thermostat"
+  ],
+  "long_description": "white walk-in freezer temperature controller thermostat",
+  "unit": "each",
+  "list_price": 118.49,
+  "stock_qty": 4,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "walk-in freezer temperature controller tstat white",
+   "white walk-in freezer temperature controller thermostat"
+  ]
+ },
+ {
+  "sku": "NB-TST-6967",
+  "name": "line voltage 240V thermostat, black",
+  "category": "thermostats",
+  "attributes": {
+   "group": "line voltage",
+   "model": "line voltage 240V",
+   "color": "black"
+  },
+  "aliases": [
+   "line voltage 240V tstat black",
+   "black line voltage 240V thermostat",
+   "line voltage 240V t-stat",
+   "line voltage thermostat"
+  ],
+  "long_description": "black line voltage 240V thermostat",
+  "unit": "each",
+  "list_price": 45.49,
+  "stock_qty": 49,
+  "compatible_equipment": [
+   "OSR-BLR80-1",
+   "VTR-BLR120-3"
+  ],
+  "unique_aliases": [
+   "line voltage 240V tstat black",
+   "black line voltage 240V thermostat"
+  ]
+ },
+ {
+  "sku": "NB-TST-7106",
+  "name": "heat pump programmable 2H/1C thermostat, white",
+  "category": "thermostats",
+  "attributes": {
+   "group": "heat pump",
+   "model": "heat pump programmable 2H/1C",
+   "color": "white"
+  },
+  "aliases": [
+   "heat pump programmable 2H/1C tstat white",
+   "white heat pump programmable 2H/1C thermostat",
+   "heat pump programmable 2H/1C t-stat",
+   "heat pump thermostat"
+  ],
+  "long_description": "white heat pump programmable 2H/1C thermostat",
+  "unit": "each",
+  "list_price": 70.49,
+  "stock_qty": 44,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "heat pump programmable 2H/1C tstat white",
+   "white heat pump programmable 2H/1C thermostat"
+  ]
+ },
+ {
+  "sku": "NB-TST-7153",
+  "name": "line voltage 120V thermostat, white",
+  "category": "thermostats",
+  "attributes": {
+   "group": "line voltage",
+   "model": "line voltage 120V",
+   "color": "white"
+  },
+  "aliases": [
+   "line voltage 120V tstat white",
+   "white line voltage 120V thermostat",
+   "line voltage 120V t-stat",
+   "line voltage thermostat"
+  ],
+  "long_description": "white line voltage 120V thermostat",
+  "unit": "each",
+  "list_price": 45.49,
+  "stock_qty": 47,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "line voltage 120V tstat white",
+   "white line voltage 120V thermostat"
+  ]
+ },
+ {
+  "sku": "NB-TST-7631",
+  "name": "Wi-Fi 2H/2C thermostat, black",
+  "category": "thermostats",
+  "attributes": {
+   "group": "conventional",
+   "model": "Wi-Fi 2H/2C",
+   "color": "black"
+  },
+  "aliases": [
+   "Wi-Fi 2H/2C tstat black",
+   "black Wi-Fi 2H/2C thermostat",
+   "Wi-Fi 2H/2C t-stat",
+   "conventional thermostat"
+  ],
+  "long_description": "black Wi-Fi 2H/2C thermostat",
+  "unit": "each",
+  "list_price": 135.49,
+  "stock_qty": 28,
+  "compatible_equipment": [
+   "HSK-FUR60-A"
+  ],
+  "unique_aliases": [
+   "Wi-Fi 2H/2C tstat black",
+   "black Wi-Fi 2H/2C thermostat"
+  ]
+ },
+ {
+  "sku": "NB-TST-7730",
+  "name": "programmable 2H/2C thermostat, white",
+  "category": "thermostats",
+  "attributes": {
+   "group": "conventional",
+   "model": "programmable 2H/2C",
+   "color": "white"
+  },
+  "aliases": [
+   "programmable 2H/2C tstat white",
+   "white programmable 2H/2C thermostat",
+   "programmable 2H/2C t-stat",
+   "conventional thermostat"
+  ],
+  "long_description": "white programmable 2H/2C thermostat",
+  "unit": "each",
+  "list_price": 45.49,
+  "stock_qty": 31,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "programmable 2H/2C tstat white",
+   "white programmable 2H/2C thermostat",
+   "programmable 2H/2C t-stat"
+  ]
+ },
+ {
+  "sku": "NB-TST-8312",
+  "name": "non-programmable 1H/1C thermostat, black",
+  "category": "thermostats",
+  "attributes": {
+   "group": "conventional",
+   "model": "non-programmable 1H/1C",
+   "color": "black"
+  },
+  "aliases": [
+   "non-programmable 1H/1C tstat black",
+   "black non-programmable 1H/1C thermostat",
+   "non-programmable 1H/1C t-stat",
+   "conventional thermostat"
+  ],
+  "long_description": "black non-programmable 1H/1C thermostat",
+  "unit": "each",
+  "list_price": 45.49,
+  "stock_qty": 0,
+  "compatible_equipment": [
+   "BSV-FUR120-B",
+   "MRW-FUR120-2"
+  ],
+  "unique_aliases": [
+   "non-programmable 1H/1C tstat black",
+   "black non-programmable 1H/1C thermostat"
+  ]
+ },
+ {
+  "sku": "NB-TST-8603",
+  "name": "Wi-Fi 2H/2C thermostat, white",
+  "category": "thermostats",
+  "attributes": {
+   "group": "conventional",
+   "model": "Wi-Fi 2H/2C",
+   "color": "white"
+  },
+  "aliases": [
+   "Wi-Fi 2H/2C tstat white",
+   "white Wi-Fi 2H/2C thermostat",
+   "Wi-Fi 2H/2C t-stat",
+   "conventional thermostat"
+  ],
+  "long_description": "white Wi-Fi 2H/2C thermostat",
+  "unit": "each",
+  "list_price": 135.49,
+  "stock_qty": 39,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "Wi-Fi 2H/2C tstat white",
+   "white Wi-Fi 2H/2C thermostat"
+  ]
+ },
+ {
+  "sku": "NB-TST-8774",
+  "name": "programmable 1H/1C thermostat, white",
+  "category": "thermostats",
+  "attributes": {
+   "group": "conventional",
+   "model": "programmable 1H/1C",
+   "color": "white"
+  },
+  "aliases": [
+   "programmable 1H/1C tstat white",
+   "white programmable 1H/1C thermostat",
+   "programmable 1H/1C t-stat",
+   "conventional thermostat"
+  ],
+  "long_description": "white programmable 1H/1C thermostat",
+  "unit": "each",
+  "list_price": 45.49,
+  "stock_qty": 29,
+  "compatible_equipment": [
+   "OSR-FUR80-2"
+  ],
+  "unique_aliases": [
+   "programmable 1H/1C tstat white",
+   "white programmable 1H/1C thermostat",
+   "programmable 1H/1C t-stat"
+  ]
+ },
+ {
+  "sku": "NB-TST-9872",
+  "name": "non-programmable 1H/1C thermostat, white",
+  "category": "thermostats",
+  "attributes": {
+   "group": "conventional",
+   "model": "non-programmable 1H/1C",
+   "color": "white"
+  },
+  "aliases": [
+   "non-programmable 1H/1C tstat white",
+   "white non-programmable 1H/1C thermostat",
+   "non-programmable 1H/1C t-stat",
+   "conventional thermostat"
+  ],
+  "long_description": "white non-programmable 1H/1C thermostat",
+  "unit": "each",
+  "list_price": 45.49,
+  "stock_qty": 40,
+  "compatible_equipment": [
+   "KVL-FUR60-1",
+   "VTR-FUR100-C"
+  ],
+  "unique_aliases": [
+   "non-programmable 1H/1C tstat white",
+   "white non-programmable 1H/1C thermostat"
+  ]
+ },
+ {
+  "sku": "NB-BLT-1103",
+  "name": "V-belt B39",
+  "category": "belts",
+  "attributes": {
+   "section": "B",
+   "length": 39,
+   "code": "B39"
+  },
+  "aliases": [
+   "B39 belt",
+   "B39 v-belt",
+   "B39 vbelt",
+   "B section belt"
+  ],
+  "long_description": "B-section V-belt, size B39",
+  "unit": "each",
+  "list_price": 19.49,
+  "stock_qty": 2,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "B39 belt",
+   "B39 v-belt",
+   "B39 vbelt"
+  ]
+ },
+ {
+  "sku": "NB-BLT-1613",
+  "name": "V-belt 4L500",
+  "category": "belts",
+  "attributes": {
+   "section": "4L",
+   "length": 500,
+   "code": "4L500"
+  },
+  "aliases": [
+   "4L500 belt",
+   "4L500 v-belt",
+   "4L500 vbelt",
+   "4L section belt"
+  ],
+  "long_description": "4L-section V-belt, size 4L500",
+  "unit": "each",
+  "list_price": 12.49,
+  "stock_qty": 32,
+  "compatible_equipment": [
+   "QMK-RTU48-C"
+  ],
+  "unique_aliases": [
+   "4L500 belt",
+   "4L500 v-belt",
+   "4L500 vbelt"
+  ]
+ },
+ {
+  "sku": "NB-BLT-1661",
+  "name": "V-belt 5L700",
+  "category": "belts",
+  "attributes": {
+   "section": "5L",
+   "length": 700,
+   "code": "5L700"
+  },
+  "aliases": [
+   "5L700 belt",
+   "5L700 v-belt",
+   "5L700 vbelt",
+   "5L section belt"
+  ],
+  "long_description": "5L-section V-belt, size 5L700",
+  "unit": "each",
+  "list_price": 20.49,
+  "stock_qty": 71,
+  "compatible_equipment": [
+   "TVD-RTU120-C"
+  ],
+  "unique_aliases": [
+   "5L700 belt",
+   "5L700 v-belt",
+   "5L700 vbelt"
+  ]
+ },
+ {
+  "sku": "NB-BLT-1825",
+  "name": "V-belt 4L600",
+  "category": "belts",
+  "attributes": {
+   "section": "4L",
+   "length": 600,
+   "code": "4L600"
+  },
+  "aliases": [
+   "4L600 belt",
+   "4L600 v-belt",
+   "4L600 vbelt",
+   "4L section belt"
+  ],
+  "long_description": "4L-section V-belt, size 4L600",
+  "unit": "each",
+  "list_price": 13.49,
+  "stock_qty": 82,
+  "compatible_equipment": [
+   "QMK-EXF24-B"
+  ],
+  "unique_aliases": [
+   "4L600 belt",
+   "4L600 v-belt",
+   "4L600 vbelt"
+  ]
+ },
+ {
+  "sku": "NB-BLT-2230",
+  "name": "V-belt B55",
+  "category": "belts",
+  "attributes": {
+   "section": "B",
+   "length": 55,
+   "code": "B55"
+  },
+  "aliases": [
+   "B55 belt",
+   "B55 v-belt",
+   "B55 vbelt",
+   "B section belt"
+  ],
+  "long_description": "B-section V-belt, size B55",
+  "unit": "each",
+  "list_price": 21.99,
+  "stock_qty": 0,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "B55 belt",
+   "B55 v-belt",
+   "B55 vbelt"
+  ]
+ },
+ {
+  "sku": "NB-BLT-2733",
+  "name": "V-belt A64",
+  "category": "belts",
+  "attributes": {
+   "section": "A",
+   "length": 64,
+   "code": "A64"
+  },
+  "aliases": [
+   "A64 belt",
+   "A64 v-belt",
+   "A64 vbelt",
+   "A section belt"
+  ],
+  "long_description": "A-section V-belt, size A64",
+  "unit": "each",
+  "list_price": 15.99,
+  "stock_qty": 73,
+  "compatible_equipment": [
+   "KVL-RTU36-B"
+  ],
+  "unique_aliases": [
+   "A64 belt",
+   "A64 v-belt",
+   "A64 vbelt"
+  ]
+ },
+ {
+  "sku": "NB-BLT-2953",
+  "name": "V-belt 4L340",
+  "category": "belts",
+  "attributes": {
+   "section": "4L",
+   "length": 340,
+   "code": "4L340"
+  },
+  "aliases": [
+   "4L340 belt",
+   "4L340 v-belt",
+   "4L340 vbelt",
+   "4L section belt"
+  ],
+  "long_description": "4L-section V-belt, size 4L340",
+  "unit": "each",
+  "list_price": 10.49,
+  "stock_qty": 69,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "4L340 belt",
+   "4L340 v-belt",
+   "4L340 vbelt"
+  ]
+ },
+ {
+  "sku": "NB-BLT-3912",
+  "name": "V-belt A26",
+  "category": "belts",
+  "attributes": {
+   "section": "A",
+   "length": 26,
+   "code": "A26"
+  },
+  "aliases": [
+   "A26 belt",
+   "A26 v-belt",
+   "A26 vbelt",
+   "A section belt"
+  ],
+  "long_description": "A-section V-belt, size A26",
+  "unit": "each",
+  "list_price": 11.49,
+  "stock_qty": 43,
+  "compatible_equipment": [
+   "HSK-RTU90-C",
+   "VTR-RTU60-B"
+  ],
+  "unique_aliases": [
+   "A26 belt",
+   "A26 v-belt",
+   "A26 vbelt"
+  ]
+ },
+ {
+  "sku": "NB-BLT-4105",
+  "name": "V-belt B35",
+  "category": "belts",
+  "attributes": {
+   "section": "B",
+   "length": 35,
+   "code": "B35"
+  },
+  "aliases": [
+   "B35 belt",
+   "B35 v-belt",
+   "B35 vbelt",
+   "B section belt"
+  ],
+  "long_description": "B-section V-belt, size B35",
+  "unit": "each",
+  "list_price": 18.49,
+  "stock_qty": 0,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "B35 belt",
+   "B35 v-belt",
+   "B35 vbelt"
+  ]
+ },
+ {
+  "sku": "NB-BLT-4181",
+  "name": "V-belt A28",
+  "category": "belts",
+  "attributes": {
+   "section": "A",
+   "length": 28,
+   "code": "A28"
+  },
+  "aliases": [
+   "A28 belt",
+   "A28 v-belt",
+   "A28 vbelt",
+   "A section belt"
+  ],
+  "long_description": "A-section V-belt, size A28",
+  "unit": "each",
+  "list_price": 11.49,
+  "stock_qty": 60,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "A28 belt",
+   "A28 v-belt",
+   "A28 vbelt"
+  ]
+ },
+ {
+  "sku": "NB-BLT-4565",
+  "name": "V-belt 4L440",
+  "category": "belts",
+  "attributes": {
+   "section": "4L",
+   "length": 440,
+   "code": "4L440"
+  },
+  "aliases": [
+   "4L440 belt",
+   "4L440 v-belt",
+   "4L440 vbelt",
+   "4L section belt"
+  ],
+  "long_description": "4L-section V-belt, size 4L440",
+  "unit": "each",
+  "list_price": 11.49,
+  "stock_qty": 0,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "4L440 belt",
+   "4L440 v-belt",
+   "4L440 vbelt"
+  ]
+ },
+ {
+  "sku": "NB-BLT-4815",
+  "name": "V-belt B67",
+  "category": "belts",
+  "attributes": {
+   "section": "B",
+   "length": 67,
+   "code": "B67"
+  },
+  "aliases": [
+   "B67 belt",
+   "B67 v-belt",
+   "B67 vbelt",
+   "B section belt"
+  ],
+  "long_description": "B-section V-belt, size B67",
+  "unit": "each",
+  "list_price": 24.49,
+  "stock_qty": 4,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "B67 belt",
+   "B67 v-belt",
+   "B67 vbelt"
+  ]
+ },
+ {
+  "sku": "NB-BLT-5258",
+  "name": "V-belt 4L360",
+  "category": "belts",
+  "attributes": {
+   "section": "4L",
+   "length": 360,
+   "code": "4L360"
+  },
+  "aliases": [
+   "4L360 belt",
+   "4L360 v-belt",
+   "4L360 vbelt",
+   "4L section belt"
+  ],
+  "long_description": "4L-section V-belt, size 4L360",
+  "unit": "each",
+  "list_price": 10.49,
+  "stock_qty": 39,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "4L360 belt",
+   "4L360 v-belt",
+   "4L360 vbelt"
+  ]
+ },
+ {
+  "sku": "NB-BLT-5811",
+  "name": "V-belt A32",
+  "category": "belts",
+  "attributes": {
+   "section": "A",
+   "length": 32,
+   "code": "A32"
+  },
+  "aliases": [
+   "A32 belt",
+   "A32 v-belt",
+   "A32 vbelt",
+   "A section belt"
+  ],
+  "long_description": "A-section V-belt, size A32",
+  "unit": "each",
+  "list_price": 11.99,
+  "stock_qty": 35,
+  "compatible_equipment": [
+   "OSR-EXF20-2"
+  ],
+  "unique_aliases": [
+   "A32 belt",
+   "A32 v-belt",
+   "A32 vbelt"
+  ]
+ },
+ {
+  "sku": "NB-BLT-6570",
+  "name": "V-belt A68",
+  "category": "belts",
+  "attributes": {
+   "section": "A",
+   "length": 68,
+   "code": "A68"
+  },
+  "aliases": [
+   "A68 belt",
+   "A68 v-belt",
+   "A68 vbelt",
+   "A section belt"
+  ],
+  "long_description": "A-section V-belt, size A68",
+  "unit": "each",
+  "list_price": 16.49,
+  "stock_qty": 55,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "A68 belt",
+   "A68 v-belt",
+   "A68 vbelt"
+  ]
+ },
+ {
+  "sku": "NB-BLT-6729",
+  "name": "V-belt A50",
+  "category": "belts",
+  "attributes": {
+   "section": "A",
+   "length": 50,
+   "code": "A50"
+  },
+  "aliases": [
+   "A50 belt",
+   "A50 v-belt",
+   "A50 vbelt",
+   "A section belt"
+  ],
+  "long_description": "A-section V-belt, size A50",
+  "unit": "each",
+  "list_price": 14.49,
+  "stock_qty": 56,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "A50 belt",
+   "A50 v-belt",
+   "A50 vbelt"
+  ]
+ },
+ {
+  "sku": "NB-BLT-7040",
+  "name": "V-belt 5L460",
+  "category": "belts",
+  "attributes": {
+   "section": "5L",
+   "length": 460,
+   "code": "5L460"
+  },
+  "aliases": [
+   "5L460 belt",
+   "5L460 v-belt",
+   "5L460 vbelt",
+   "5L section belt"
+  ],
+  "long_description": "5L-section V-belt, size 5L460",
+  "unit": "each",
+  "list_price": 16.49,
+  "stock_qty": 72,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "5L460 belt",
+   "5L460 v-belt",
+   "5L460 vbelt"
+  ]
+ },
+ {
+  "sku": "NB-BLT-7098",
+  "name": "V-belt 4L580",
+  "category": "belts",
+  "attributes": {
+   "section": "4L",
+   "length": 580,
+   "code": "4L580"
+  },
+  "aliases": [
+   "4L580 belt",
+   "4L580 v-belt",
+   "4L580 vbelt",
+   "4L section belt"
+  ],
+  "long_description": "4L-section V-belt, size 4L580",
+  "unit": "each",
+  "list_price": 12.99,
+  "stock_qty": 33,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "4L580 belt",
+   "4L580 v-belt",
+   "4L580 vbelt"
+  ]
+ },
+ {
+  "sku": "NB-BLT-8358",
+  "name": "V-belt 4L560",
+  "category": "belts",
+  "attributes": {
+   "section": "4L",
+   "length": 560,
+   "code": "4L560"
+  },
+  "aliases": [
+   "4L560 belt",
+   "4L560 v-belt",
+   "4L560 vbelt",
+   "4L section belt"
+  ],
+  "long_description": "4L-section V-belt, size 4L560",
+  "unit": "each",
+  "list_price": 12.99,
+  "stock_qty": 66,
+  "compatible_equipment": [
+   "MRW-RTU120-1",
+   "TVD-EXF12-B"
+  ],
+  "unique_aliases": [
+   "4L560 belt",
+   "4L560 v-belt",
+   "4L560 vbelt"
+  ]
+ },
+ {
+  "sku": "NB-BLT-9399",
+  "name": "V-belt B65",
+  "category": "belts",
+  "attributes": {
+   "section": "B",
+   "length": 65,
+   "code": "B65"
+  },
+  "aliases": [
+   "B65 belt",
+   "B65 v-belt",
+   "B65 vbelt",
+   "B section belt"
+  ],
+  "long_description": "B-section V-belt, size B65",
+  "unit": "each",
+  "list_price": 23.99,
+  "stock_qty": 56,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "B65 belt",
+   "B65 v-belt",
+   "B65 vbelt"
+  ]
+ },
+ {
+  "sku": "NB-FUS-1057",
+  "name": "Class K5 30A 600V fast-acting fuse (box of 10)",
+  "category": "fuses",
+  "attributes": {
+   "class": "K5",
+   "amps": 30,
+   "voltage": "600V",
+   "speed": "fast-acting",
+   "pack_qty": 10
+  },
+  "aliases": [
+   "30A K5 600V fast-acting fuse",
+   "class K5 30 amp 600V fast-acting",
+   "30a K5 fast-acting fuses 600V",
+   "30 amp fuses",
+   "class K5 fuses"
+  ],
+  "long_description": "class K5 fast-acting fuses, 30 amp, 600V",
+  "unit": "box",
+  "list_price": 57.49,
+  "stock_qty": 25,
+  "compatible_equipment": [
+   "VTR-RTU60-B"
+  ],
+  "unique_aliases": [
+   "30A K5 600V fast-acting fuse",
+   "class K5 30 amp 600V fast-acting",
+   "30a K5 fast-acting fuses 600V"
+  ]
+ },
+ {
+  "sku": "NB-FUS-1382",
+  "name": "Class K5 60A 600V fast-acting fuse (box of 10)",
+  "category": "fuses",
+  "attributes": {
+   "class": "K5",
+   "amps": 60,
+   "voltage": "600V",
+   "speed": "fast-acting",
+   "pack_qty": 10
+  },
+  "aliases": [
+   "60A K5 600V fast-acting fuse",
+   "class K5 60 amp 600V fast-acting",
+   "60a K5 fast-acting fuses 600V",
+   "60 amp fuses",
+   "class K5 fuses"
+  ],
+  "long_description": "class K5 fast-acting fuses, 60 amp, 600V",
+  "unit": "box",
+  "list_price": 72.49,
+  "stock_qty": 0,
+  "compatible_equipment": [
+   "KVL-RTU36-B"
+  ],
+  "unique_aliases": [
+   "60A K5 600V fast-acting fuse",
+   "class K5 60 amp 600V fast-acting",
+   "60a K5 fast-acting fuses 600V"
+  ]
+ },
+ {
+  "sku": "NB-FUS-2099",
+  "name": "Class RK5 30A 600V fast-acting fuse (box of 10)",
+  "category": "fuses",
+  "attributes": {
+   "class": "RK5",
+   "amps": 30,
+   "voltage": "600V",
+   "speed": "fast-acting",
+   "pack_qty": 10
+  },
+  "aliases": [
+   "30A RK5 600V fast-acting fuse",
+   "class RK5 30 amp 600V fast-acting",
+   "30a RK5 fast-acting fuses 600V",
+   "30 amp fuses",
+   "class RK5 fuses"
+  ],
+  "long_description": "class RK5 fast-acting fuses, 30 amp, 600V",
+  "unit": "box",
+  "list_price": 65.49,
+  "stock_qty": 3,
+  "compatible_equipment": [
+   "OSR-BLR80-1",
+   "TVD-EXF12-B"
+  ],
+  "unique_aliases": [
+   "30A RK5 600V fast-acting fuse",
+   "class RK5 30 amp 600V fast-acting",
+   "30a RK5 fast-acting fuses 600V"
+  ]
+ },
+ {
+  "sku": "NB-FUS-2502",
+  "name": "Class CC 20A 250V time-delay fuse (box of 10)",
+  "category": "fuses",
+  "attributes": {
+   "class": "CC",
+   "amps": 20,
+   "voltage": "250V",
+   "speed": "time-delay",
+   "pack_qty": 10
+  },
+  "aliases": [
+   "20A CC 250V time-delay fuse",
+   "class CC 20 amp 250V time-delay",
+   "20a CC time-delay fuses 250V",
+   "20 amp fuses",
+   "class CC fuses"
+  ],
+  "long_description": "class CC time-delay fuses, 20 amp, 250V",
+  "unit": "box",
+  "list_price": 62.49,
+  "stock_qty": 55,
+  "compatible_equipment": [
+   "BSV-BLR120-1",
+   "MRW-RTU120-1"
+  ],
+  "unique_aliases": [
+   "20A CC 250V time-delay fuse",
+   "class CC 20 amp 250V time-delay",
+   "20a CC time-delay fuses 250V"
+  ]
+ },
+ {
+  "sku": "NB-FUS-2754",
+  "name": "Class CC 25A 250V time-delay fuse (box of 10)",
+  "category": "fuses",
+  "attributes": {
+   "class": "CC",
+   "amps": 25,
+   "voltage": "250V",
+   "speed": "time-delay",
+   "pack_qty": 10
+  },
+  "aliases": [
+   "25A CC 250V time-delay fuse",
+   "class CC 25 amp 250V time-delay",
+   "25a CC time-delay fuses 250V",
+   "25 amp fuses",
+   "class CC fuses"
+  ],
+  "long_description": "class CC time-delay fuses, 25 amp, 250V",
+  "unit": "box",
+  "list_price": 64.99,
+  "stock_qty": 0,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "25A CC 250V time-delay fuse",
+   "class CC 25 amp 250V time-delay",
+   "25a CC time-delay fuses 250V"
+  ]
+ },
+ {
+  "sku": "NB-FUS-3104",
+  "name": "Class RK5 25A 250V fast-acting fuse (box of 10)",
+  "category": "fuses",
+  "attributes": {
+   "class": "RK5",
+   "amps": 25,
+   "voltage": "250V",
+   "speed": "fast-acting",
+   "pack_qty": 10
+  },
+  "aliases": [
+   "25A RK5 250V fast-acting fuse",
+   "class RK5 25 amp 250V fast-acting",
+   "25a RK5 fast-acting fuses 250V",
+   "25 amp fuses",
+   "class RK5 fuses"
+  ],
+  "long_description": "class RK5 fast-acting fuses, 25 amp, 250V",
+  "unit": "box",
+  "list_price": 50.99,
+  "stock_qty": 47,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "25A RK5 250V fast-acting fuse",
+   "class RK5 25 amp 250V fast-acting",
+   "25a RK5 fast-acting fuses 250V"
+  ]
+ },
+ {
+  "sku": "NB-FUS-3928",
+  "name": "Class RK5 60A 600V fast-acting fuse (box of 10)",
+  "category": "fuses",
+  "attributes": {
+   "class": "RK5",
+   "amps": 60,
+   "voltage": "600V",
+   "speed": "fast-acting",
+   "pack_qty": 10
+  },
+  "aliases": [
+   "60A RK5 600V fast-acting fuse",
+   "class RK5 60 amp 600V fast-acting",
+   "60a RK5 fast-acting fuses 600V",
+   "60 amp fuses",
+   "class RK5 fuses"
+  ],
+  "long_description": "class RK5 fast-acting fuses, 60 amp, 600V",
+  "unit": "box",
+  "list_price": 80.49,
+  "stock_qty": 31,
+  "compatible_equipment": [
+   "QMK-RTU48-C",
+   "TVD-RTU120-C"
+  ],
+  "unique_aliases": [
+   "60A RK5 600V fast-acting fuse",
+   "class RK5 60 amp 600V fast-acting",
+   "60a RK5 fast-acting fuses 600V"
+  ]
+ },
+ {
+  "sku": "NB-FUS-3942",
+  "name": "Class K5 20A 600V fast-acting fuse (box of 10)",
+  "category": "fuses",
+  "attributes": {
+   "class": "K5",
+   "amps": 20,
+   "voltage": "600V",
+   "speed": "fast-acting",
+   "pack_qty": 10
+  },
+  "aliases": [
+   "20A K5 600V fast-acting fuse",
+   "class K5 20 amp 600V fast-acting",
+   "20a K5 fast-acting fuses 600V",
+   "20 amp fuses",
+   "class K5 fuses"
+  ],
+  "long_description": "class K5 fast-acting fuses, 20 amp, 600V",
+  "unit": "box",
+  "list_price": 52.49,
+  "stock_qty": 0,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "20A K5 600V fast-acting fuse",
+   "class K5 20 amp 600V fast-acting",
+   "20a K5 fast-acting fuses 600V"
+  ]
+ },
+ {
+  "sku": "NB-FUS-4854",
+  "name": "Class K5 40A 250V time-delay fuse (box of 10)",
+  "category": "fuses",
+  "attributes": {
+   "class": "K5",
+   "amps": 40,
+   "voltage": "250V",
+   "speed": "time-delay",
+   "pack_qty": 10
+  },
+  "aliases": [
+   "40A K5 250V time-delay fuse",
+   "class K5 40 amp 250V time-delay",
+   "40a K5 time-delay fuses 250V",
+   "40 amp fuses",
+   "class K5 fuses"
+  ],
+  "long_description": "class K5 time-delay fuses, 40 amp, 250V",
+  "unit": "box",
+  "list_price": 50.49,
+  "stock_qty": 0,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "40A K5 250V time-delay fuse",
+   "class K5 40 amp 250V time-delay",
+   "40a K5 time-delay fuses 250V"
+  ]
+ },
+ {
+  "sku": "NB-FUS-6874",
+  "name": "Class RK5 60A 600V time-delay fuse (box of 10)",
+  "category": "fuses",
+  "attributes": {
+   "class": "RK5",
+   "amps": 60,
+   "voltage": "600V",
+   "speed": "time-delay",
+   "pack_qty": 10
+  },
+  "aliases": [
+   "60A RK5 600V time-delay fuse",
+   "class RK5 60 amp 600V time-delay",
+   "60a RK5 time-delay fuses 600V",
+   "60 amp fuses",
+   "class RK5 fuses"
+  ],
+  "long_description": "class RK5 time-delay fuses, 60 amp, 600V",
+  "unit": "box",
+  "list_price": 80.49,
+  "stock_qty": 67,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "60A RK5 600V time-delay fuse",
+   "class RK5 60 amp 600V time-delay",
+   "60a RK5 time-delay fuses 600V"
+  ]
+ },
+ {
+  "sku": "NB-FUS-6985",
+  "name": "Class CC 20A 250V fast-acting fuse (box of 10)",
+  "category": "fuses",
+  "attributes": {
+   "class": "CC",
+   "amps": 20,
+   "voltage": "250V",
+   "speed": "fast-acting",
+   "pack_qty": 10
+  },
+  "aliases": [
+   "20A CC 250V fast-acting fuse",
+   "class CC 20 amp 250V fast-acting",
+   "20a CC fast-acting fuses 250V",
+   "20 amp fuses",
+   "class CC fuses"
+  ],
+  "long_description": "class CC fast-acting fuses, 20 amp, 250V",
+  "unit": "box",
+  "list_price": 62.49,
+  "stock_qty": 35,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "20A CC 250V fast-acting fuse",
+   "class CC 20 amp 250V fast-acting",
+   "20a CC fast-acting fuses 250V"
+  ]
+ },
+ {
+  "sku": "NB-FUS-7559",
+  "name": "Class CC 40A 600V time-delay fuse (box of 10)",
+  "category": "fuses",
+  "attributes": {
+   "class": "CC",
+   "amps": 40,
+   "voltage": "600V",
+   "speed": "time-delay",
+   "pack_qty": 10
+  },
+  "aliases": [
+   "40A CC 600V time-delay fuse",
+   "class CC 40 amp 600V time-delay",
+   "40a CC time-delay fuses 600V",
+   "40 amp fuses",
+   "class CC fuses"
+  ],
+  "long_description": "class CC time-delay fuses, 40 amp, 600V",
+  "unit": "box",
+  "list_price": 84.49,
+  "stock_qty": 4,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "40A CC 600V time-delay fuse",
+   "class CC 40 amp 600V time-delay",
+   "40a CC time-delay fuses 600V"
+  ]
+ },
+ {
+  "sku": "NB-FUS-8054",
+  "name": "Class J 40A 600V time-delay fuse (box of 10)",
+  "category": "fuses",
+  "attributes": {
+   "class": "J",
+   "amps": 40,
+   "voltage": "600V",
+   "speed": "time-delay",
+   "pack_qty": 10
+  },
+  "aliases": [
+   "40A J 600V time-delay fuse",
+   "class J 40 amp 600V time-delay",
+   "40a J time-delay fuses 600V",
+   "40 amp fuses",
+   "class J fuses"
+  ],
+  "long_description": "class J time-delay fuses, 40 amp, 600V",
+  "unit": "box",
+  "list_price": 103.49,
+  "stock_qty": 33,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "40A J 600V time-delay fuse",
+   "class J 40 amp 600V time-delay",
+   "40a J time-delay fuses 600V"
+  ]
+ },
+ {
+  "sku": "NB-FUS-8241",
+  "name": "Class J 30A 600V time-delay fuse (box of 10)",
+  "category": "fuses",
+  "attributes": {
+   "class": "J",
+   "amps": 30,
+   "voltage": "600V",
+   "speed": "time-delay",
+   "pack_qty": 10
+  },
+  "aliases": [
+   "30A J 600V time-delay fuse",
+   "class J 30 amp 600V time-delay",
+   "30a J time-delay fuses 600V",
+   "30 amp fuses",
+   "class J fuses"
+  ],
+  "long_description": "class J time-delay fuses, 30 amp, 600V",
+  "unit": "box",
+  "list_price": 98.49,
+  "stock_qty": 69,
+  "compatible_equipment": [
+   "VTR-BLR120-3"
+  ],
+  "unique_aliases": [
+   "30A J 600V time-delay fuse",
+   "class J 30 amp 600V time-delay",
+   "30a J time-delay fuses 600V"
+  ]
+ },
+ {
+  "sku": "NB-FUS-8320",
+  "name": "Class J 15A 250V fast-acting fuse (box of 10)",
+  "category": "fuses",
+  "attributes": {
+   "class": "J",
+   "amps": 15,
+   "voltage": "250V",
+   "speed": "fast-acting",
+   "pack_qty": 10
+  },
+  "aliases": [
+   "15A J 250V fast-acting fuse",
+   "class J 15 amp 250V fast-acting",
+   "15a J fast-acting fuses 250V",
+   "15 amp fuses",
+   "class J fuses"
+  ],
+  "long_description": "class J fast-acting fuses, 15 amp, 250V",
+  "unit": "box",
+  "list_price": 78.99,
+  "stock_qty": 27,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "15A J 250V fast-acting fuse",
+   "class J 15 amp 250V fast-acting",
+   "15a J fast-acting fuses 250V"
+  ]
+ },
+ {
+  "sku": "NB-FUS-8508",
+  "name": "Class J 40A 250V fast-acting fuse (box of 10)",
+  "category": "fuses",
+  "attributes": {
+   "class": "J",
+   "amps": 40,
+   "voltage": "250V",
+   "speed": "fast-acting",
+   "pack_qty": 10
+  },
+  "aliases": [
+   "40A J 250V fast-acting fuse",
+   "class J 40 amp 250V fast-acting",
+   "40a J fast-acting fuses 250V",
+   "40 amp fuses",
+   "class J fuses"
+  ],
+  "long_description": "class J fast-acting fuses, 40 amp, 250V",
+  "unit": "box",
+  "list_price": 91.49,
+  "stock_qty": 62,
+  "compatible_equipment": [
+   "HSK-MS9-A",
+   "QMK-EXF24-B"
+  ],
+  "unique_aliases": [
+   "40A J 250V fast-acting fuse",
+   "class J 40 amp 250V fast-acting",
+   "40a J fast-acting fuses 250V"
+  ]
+ },
+ {
+  "sku": "NB-FUS-8623",
+  "name": "Class CC 15A 600V fast-acting fuse (box of 10)",
+  "category": "fuses",
+  "attributes": {
+   "class": "CC",
+   "amps": 15,
+   "voltage": "600V",
+   "speed": "fast-acting",
+   "pack_qty": 10
+  },
+  "aliases": [
+   "15A CC 600V fast-acting fuse",
+   "class CC 15 amp 600V fast-acting",
+   "15a CC fast-acting fuses 600V",
+   "15 amp fuses",
+   "class CC fuses"
+  ],
+  "long_description": "class CC fast-acting fuses, 15 amp, 600V",
+  "unit": "box",
+  "list_price": 71.99,
+  "stock_qty": 33,
+  "compatible_equipment": [
+   "OSR-EXF20-2"
+  ],
+  "unique_aliases": [
+   "15A CC 600V fast-acting fuse",
+   "class CC 15 amp 600V fast-acting",
+   "15a CC fast-acting fuses 600V"
+  ]
+ },
+ {
+  "sku": "NB-FUS-8753",
+  "name": "Class J 25A 250V time-delay fuse (box of 10)",
+  "category": "fuses",
+  "attributes": {
+   "class": "J",
+   "amps": 25,
+   "voltage": "250V",
+   "speed": "time-delay",
+   "pack_qty": 10
+  },
+  "aliases": [
+   "25A J 250V time-delay fuse",
+   "class J 25 amp 250V time-delay",
+   "25a J time-delay fuses 250V",
+   "25 amp fuses",
+   "class J fuses"
+  ],
+  "long_description": "class J time-delay fuses, 25 amp, 250V",
+  "unit": "box",
+  "list_price": 83.99,
+  "stock_qty": 62,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "25A J 250V time-delay fuse",
+   "class J 25 amp 250V time-delay",
+   "25a J time-delay fuses 250V"
+  ]
+ },
+ {
+  "sku": "NB-FUS-9019",
+  "name": "Class CC 40A 600V fast-acting fuse (box of 10)",
+  "category": "fuses",
+  "attributes": {
+   "class": "CC",
+   "amps": 40,
+   "voltage": "600V",
+   "speed": "fast-acting",
+   "pack_qty": 10
+  },
+  "aliases": [
+   "40A CC 600V fast-acting fuse",
+   "class CC 40 amp 600V fast-acting",
+   "40a CC fast-acting fuses 600V",
+   "40 amp fuses",
+   "class CC fuses"
+  ],
+  "long_description": "class CC fast-acting fuses, 40 amp, 600V",
+  "unit": "box",
+  "list_price": 84.49,
+  "stock_qty": 52,
+  "compatible_equipment": [
+   "MRW-MS18-B"
+  ],
+  "unique_aliases": [
+   "40A CC 600V fast-acting fuse",
+   "class CC 40 amp 600V fast-acting",
+   "40a CC fast-acting fuses 600V"
+  ]
+ },
+ {
+  "sku": "NB-FUS-9263",
+  "name": "Class J 40A 600V fast-acting fuse (box of 10)",
+  "category": "fuses",
+  "attributes": {
+   "class": "J",
+   "amps": 40,
+   "voltage": "600V",
+   "speed": "fast-acting",
+   "pack_qty": 10
+  },
+  "aliases": [
+   "40A J 600V fast-acting fuse",
+   "class J 40 amp 600V fast-acting",
+   "40a J fast-acting fuses 600V",
+   "40 amp fuses",
+   "class J fuses"
+  ],
+  "long_description": "class J fast-acting fuses, 40 amp, 600V",
+  "unit": "box",
+  "list_price": 103.49,
+  "stock_qty": 5,
+  "compatible_equipment": [
+   "HSK-RTU90-C"
+  ],
+  "unique_aliases": [
+   "40A J 600V fast-acting fuse",
+   "class J 40 amp 600V fast-acting",
+   "40a J fast-acting fuses 600V"
+  ]
+ },
+ {
+  "sku": "NB-SLT-1603",
+  "name": "PTFE thread tape, 1/2\" x 520\"",
+  "category": "sealants",
+  "attributes": {
+   "type": "PTFE thread tape",
+   "size": "1/2\" x 520\""
+  },
+  "aliases": [
+   "1/2\" x 520\" PTFE tape",
+   "PTFE tape 1/2\" x 520\"",
+   "PTFE thread tape 1/2\" x 520\"",
+   "PTFE tape"
+  ],
+  "long_description": "PTFE thread tape in a 1/2\" x 520\" size",
+  "unit": "roll",
+  "list_price": 1.99,
+  "stock_qty": 175,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "1/2\" x 520\" PTFE tape",
+   "PTFE tape 1/2\" x 520\"",
+   "PTFE thread tape 1/2\" x 520\""
+  ]
+ },
+ {
+  "sku": "NB-SLT-1795",
+  "name": "PTFE thread tape, 3/4\" x 520\"",
+  "category": "sealants",
+  "attributes": {
+   "type": "PTFE thread tape",
+   "size": "3/4\" x 520\""
+  },
+  "aliases": [
+   "3/4\" x 520\" PTFE tape",
+   "PTFE tape 3/4\" x 520\"",
+   "PTFE thread tape 3/4\" x 520\"",
+   "PTFE tape"
+  ],
+  "long_description": "PTFE thread tape in a 3/4\" x 520\" size",
+  "unit": "roll",
+  "list_price": 2.99,
+  "stock_qty": 198,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "3/4\" x 520\" PTFE tape",
+   "PTFE tape 3/4\" x 520\"",
+   "PTFE thread tape 3/4\" x 520\""
+  ]
+ },
+ {
+  "sku": "NB-SLT-2885",
+  "name": "PTFE thread tape, 1\" x 520\"",
+  "category": "sealants",
+  "attributes": {
+   "type": "PTFE thread tape",
+   "size": "1\" x 520\""
+  },
+  "aliases": [
+   "1\" x 520\" PTFE tape",
+   "PTFE tape 1\" x 520\"",
+   "PTFE thread tape 1\" x 520\"",
+   "PTFE tape"
+  ],
+  "long_description": "PTFE thread tape in a 1\" x 520\" size",
+  "unit": "roll",
+  "list_price": 3.49,
+  "stock_qty": 231,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "1\" x 520\" PTFE tape",
+   "PTFE tape 1\" x 520\"",
+   "PTFE thread tape 1\" x 520\""
+  ]
+ },
+ {
+  "sku": "NB-SLT-3641",
+  "name": "gas-rated PTFE tape, 1/2\" x 260\"",
+  "category": "sealants",
+  "attributes": {
+   "type": "gas-rated PTFE tape",
+   "size": "1/2\" x 260\""
+  },
+  "aliases": [
+   "1/2\" x 260\" yellow gas tape",
+   "yellow gas tape 1/2\" x 260\"",
+   "gas-rated PTFE tape 1/2\" x 260\"",
+   "yellow gas tape"
+  ],
+  "long_description": "gas-rated PTFE tape in a 1/2\" x 260\" size",
+  "unit": "roll",
+  "list_price": 3.49,
+  "stock_qty": 109,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "1/2\" x 260\" yellow gas tape",
+   "yellow gas tape 1/2\" x 260\"",
+   "gas-rated PTFE tape 1/2\" x 260\"",
+   "yellow gas tape"
+  ]
+ },
+ {
+  "sku": "NB-SLT-3764",
+  "name": "pipe thread sealant, 1 pt can",
+  "category": "sealants",
+  "attributes": {
+   "type": "pipe thread sealant",
+   "size": "1 pt can"
+  },
+  "aliases": [
+   "1 pt can thread sealant",
+   "thread sealant 1 pt can",
+   "pipe thread sealant 1 pt can",
+   "thread sealant"
+  ],
+  "long_description": "pipe thread sealant in a 1 pt can size",
+  "unit": "each",
+  "list_price": 11.99,
+  "stock_qty": 220,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "1 pt can thread sealant",
+   "thread sealant 1 pt can",
+   "pipe thread sealant 1 pt can"
+  ]
+ },
+ {
+  "sku": "NB-SLT-3983",
+  "name": "pipe thread sealant, 4 oz tube",
+  "category": "sealants",
+  "attributes": {
+   "type": "pipe thread sealant",
+   "size": "4 oz tube"
+  },
+  "aliases": [
+   "4 oz tube thread sealant",
+   "thread sealant 4 oz tube",
+   "pipe thread sealant 4 oz tube",
+   "thread sealant"
+  ],
+  "long_description": "pipe thread sealant in a 4 oz tube size",
+  "unit": "tube",
+  "list_price": 6.49,
+  "stock_qty": 183,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "4 oz tube thread sealant",
+   "thread sealant 4 oz tube",
+   "pipe thread sealant 4 oz tube"
+  ]
+ },
+ {
+  "sku": "NB-SLT-4259",
+  "name": "pipe dope, 8 oz can",
+  "category": "sealants",
+  "attributes": {
+   "type": "pipe dope",
+   "size": "8 oz can"
+  },
+  "aliases": [
+   "8 oz can pipe dope",
+   "pipe dope 8 oz can",
+   "pipe dope"
+  ],
+  "long_description": "pipe dope in a 8 oz can size",
+  "unit": "each",
+  "list_price": 7.99,
+  "stock_qty": 178,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "8 oz can pipe dope",
+   "pipe dope 8 oz can",
+   "pipe dope"
+  ]
+ },
+ {
+  "sku": "NB-SLT-4413",
+  "name": "clear silicone sealant, 10.1 oz cartridge",
+  "category": "sealants",
+  "attributes": {
+   "type": "clear silicone sealant",
+   "size": "10.1 oz cartridge"
+  },
+  "aliases": [
+   "10.1 oz cartridge clear silicone",
+   "clear silicone 10.1 oz cartridge",
+   "clear silicone sealant 10.1 oz cartridge",
+   "clear silicone"
+  ],
+  "long_description": "clear silicone sealant in a 10.1 oz cartridge size",
+  "unit": "tube",
+  "list_price": 7.49,
+  "stock_qty": 177,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "10.1 oz cartridge clear silicone",
+   "clear silicone 10.1 oz cartridge",
+   "clear silicone sealant 10.1 oz cartridge",
+   "clear silicone"
+  ]
+ },
+ {
+  "sku": "NB-SLT-4889",
+  "name": "white silicone sealant, 10.1 oz cartridge",
+  "category": "sealants",
+  "attributes": {
+   "type": "white silicone sealant",
+   "size": "10.1 oz cartridge"
+  },
+  "aliases": [
+   "10.1 oz cartridge white silicone",
+   "white silicone 10.1 oz cartridge",
+   "white silicone sealant 10.1 oz cartridge",
+   "white silicone"
+  ],
+  "long_description": "white silicone sealant in a 10.1 oz cartridge size",
+  "unit": "tube",
+  "list_price": 7.49,
+  "stock_qty": 175,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "10.1 oz cartridge white silicone",
+   "white silicone 10.1 oz cartridge",
+   "white silicone sealant 10.1 oz cartridge",
+   "white silicone"
+  ]
+ },
+ {
+  "sku": "NB-SLT-5306",
+  "name": "high-temp silicone, 10.1 oz cartridge",
+  "category": "sealants",
+  "attributes": {
+   "type": "high-temp silicone",
+   "size": "10.1 oz cartridge"
+  },
+  "aliases": [
+   "10.1 oz cartridge hi temp silicone",
+   "hi temp silicone 10.1 oz cartridge",
+   "high-temp silicone 10.1 oz cartridge",
+   "hi temp silicone"
+  ],
+  "long_description": "high-temp silicone in a 10.1 oz cartridge size",
+  "unit": "tube",
+  "list_price": 12.99,
+  "stock_qty": 103,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "10.1 oz cartridge hi temp silicone",
+   "hi temp silicone 10.1 oz cartridge",
+   "high-temp silicone 10.1 oz cartridge",
+   "hi temp silicone"
+  ]
+ },
+ {
+  "sku": "NB-SLT-5330",
+  "name": "duct mastic, 1 gal pail",
+  "category": "sealants",
+  "attributes": {
+   "type": "duct mastic",
+   "size": "1 gal pail"
+  },
+  "aliases": [
+   "1 gal pail mastic",
+   "mastic 1 gal pail",
+   "duct mastic 1 gal pail",
+   "mastic"
+  ],
+  "long_description": "duct mastic in a 1 gal pail size",
+  "unit": "each",
+  "list_price": 24.49,
+  "stock_qty": 128,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "1 gal pail mastic",
+   "mastic 1 gal pail",
+   "duct mastic 1 gal pail"
+  ]
+ },
+ {
+  "sku": "NB-SLT-5557",
+  "name": "duct mastic, 2 gal pail",
+  "category": "sealants",
+  "attributes": {
+   "type": "duct mastic",
+   "size": "2 gal pail"
+  },
+  "aliases": [
+   "2 gal pail mastic",
+   "mastic 2 gal pail",
+   "duct mastic 2 gal pail",
+   "mastic"
+  ],
+  "long_description": "duct mastic in a 2 gal pail size",
+  "unit": "each",
+  "list_price": 41.49,
+  "stock_qty": 95,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "2 gal pail mastic",
+   "mastic 2 gal pail",
+   "duct mastic 2 gal pail"
+  ]
+ },
+ {
+  "sku": "NB-SLT-6227",
+  "name": "foil duct tape, 2\" x 50 yd",
+  "category": "sealants",
+  "attributes": {
+   "type": "foil duct tape",
+   "size": "2\" x 50 yd"
+  },
+  "aliases": [
+   "2\" x 50 yd foil tape",
+   "foil tape 2\" x 50 yd",
+   "foil duct tape 2\" x 50 yd",
+   "foil tape"
+  ],
+  "long_description": "foil duct tape in a 2\" x 50 yd size",
+  "unit": "roll",
+  "list_price": 13.99,
+  "stock_qty": 215,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "2\" x 50 yd foil tape",
+   "foil tape 2\" x 50 yd",
+   "foil duct tape 2\" x 50 yd"
+  ]
+ },
+ {
+  "sku": "NB-SLT-6371",
+  "name": "foil duct tape, 3\" x 50 yd",
+  "category": "sealants",
+  "attributes": {
+   "type": "foil duct tape",
+   "size": "3\" x 50 yd"
+  },
+  "aliases": [
+   "3\" x 50 yd foil tape",
+   "foil tape 3\" x 50 yd",
+   "foil duct tape 3\" x 50 yd",
+   "foil tape"
+  ],
+  "long_description": "foil duct tape in a 3\" x 50 yd size",
+  "unit": "roll",
+  "list_price": 18.99,
+  "stock_qty": 246,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "3\" x 50 yd foil tape",
+   "foil tape 3\" x 50 yd",
+   "foil duct tape 3\" x 50 yd"
+  ]
+ },
+ {
+  "sku": "NB-SLT-7099",
+  "name": "fire-stop sealant, 10.1 oz cartridge",
+  "category": "sealants",
+  "attributes": {
+   "type": "fire-stop sealant",
+   "size": "10.1 oz cartridge"
+  },
+  "aliases": [
+   "10.1 oz cartridge firestop",
+   "firestop 10.1 oz cartridge",
+   "fire-stop sealant 10.1 oz cartridge",
+   "firestop"
+  ],
+  "long_description": "fire-stop sealant in a 10.1 oz cartridge size",
+  "unit": "tube",
+  "list_price": 16.99,
+  "stock_qty": 232,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "10.1 oz cartridge firestop",
+   "firestop 10.1 oz cartridge",
+   "fire-stop sealant 10.1 oz cartridge",
+   "firestop"
+  ]
+ },
+ {
+  "sku": "NB-SLT-7174",
+  "name": "plumber's putty, 14 oz tub",
+  "category": "sealants",
+  "attributes": {
+   "type": "plumber's putty",
+   "size": "14 oz tub"
+  },
+  "aliases": [
+   "14 oz tub plumbers putty",
+   "plumbers putty 14 oz tub",
+   "plumber's putty 14 oz tub",
+   "plumbers putty"
+  ],
+  "long_description": "plumber's putty in a 14 oz tub size",
+  "unit": "each",
+  "list_price": 5.49,
+  "stock_qty": 163,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "14 oz tub plumbers putty",
+   "plumbers putty 14 oz tub",
+   "plumber's putty 14 oz tub",
+   "plumbers putty"
+  ]
+ },
+ {
+  "sku": "NB-SLT-7610",
+  "name": "anaerobic thread sealant, 50 ml tube",
+  "category": "sealants",
+  "attributes": {
+   "type": "anaerobic thread sealant",
+   "size": "50 ml tube"
+  },
+  "aliases": [
+   "50 ml tube anaerobic sealant",
+   "anaerobic sealant 50 ml tube",
+   "anaerobic thread sealant 50 ml tube",
+   "anaerobic sealant"
+  ],
+  "long_description": "anaerobic thread sealant in a 50 ml tube size",
+  "unit": "tube",
+  "list_price": 14.49,
+  "stock_qty": 91,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "50 ml tube anaerobic sealant",
+   "anaerobic sealant 50 ml tube",
+   "anaerobic thread sealant 50 ml tube",
+   "anaerobic sealant"
+  ]
+ },
+ {
+  "sku": "NB-SLT-8866",
+  "name": "refrigerant thread sealant, 1.7 oz tube",
+  "category": "sealants",
+  "attributes": {
+   "type": "refrigerant thread sealant",
+   "size": "1.7 oz tube"
+  },
+  "aliases": [
+   "1.7 oz tube refrigerant sealant",
+   "refrigerant sealant 1.7 oz tube",
+   "refrigerant thread sealant 1.7 oz tube",
+   "refrigerant sealant"
+  ],
+  "long_description": "refrigerant thread sealant in a 1.7 oz tube size",
+  "unit": "tube",
+  "list_price": 19.99,
+  "stock_qty": 3,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "1.7 oz tube refrigerant sealant",
+   "refrigerant sealant 1.7 oz tube",
+   "refrigerant thread sealant 1.7 oz tube",
+   "refrigerant sealant"
+  ]
+ },
+ {
+  "sku": "NB-SLT-9290",
+  "name": "butyl sealant tape, 1\" x 30 ft",
+  "category": "sealants",
+  "attributes": {
+   "type": "butyl sealant tape",
+   "size": "1\" x 30 ft"
+  },
+  "aliases": [
+   "1\" x 30 ft butyl tape",
+   "butyl tape 1\" x 30 ft",
+   "butyl sealant tape 1\" x 30 ft",
+   "butyl tape"
+  ],
+  "long_description": "butyl sealant tape in a 1\" x 30 ft size",
+  "unit": "roll",
+  "list_price": 9.99,
+  "stock_qty": 193,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "1\" x 30 ft butyl tape",
+   "butyl tape 1\" x 30 ft",
+   "butyl sealant tape 1\" x 30 ft",
+   "butyl tape"
+  ]
+ },
+ {
+  "sku": "NB-SLT-9695",
+  "name": "acrylic caulk, 10.1 oz cartridge",
+  "category": "sealants",
+  "attributes": {
+   "type": "acrylic caulk",
+   "size": "10.1 oz cartridge"
+  },
+  "aliases": [
+   "10.1 oz cartridge caulk",
+   "caulk 10.1 oz cartridge",
+   "acrylic caulk 10.1 oz cartridge",
+   "caulk"
+  ],
+  "long_description": "acrylic caulk in a 10.1 oz cartridge size",
+  "unit": "tube",
+  "list_price": 4.49,
+  "stock_qty": 176,
+  "compatible_equipment": [],
+  "unique_aliases": [
+   "10.1 oz cartridge caulk",
+   "caulk 10.1 oz cartridge",
+   "acrylic caulk 10.1 oz cartridge",
+   "caulk"
+  ]
+ }
+]
