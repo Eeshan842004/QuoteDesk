@@ -99,7 +99,7 @@ def test_sse_stream_order(client, student):
     t = client.get(f"/api/traces/{q['trace_id']}").json()
     names = [s["name"] for s in t["spans"]]
     assert names[:3] == ["RECEIVED", "GUARD", "EXTRACT"] and names[-1] == "PENDING_APPROVAL"
-    assert client.get("/api/traces").json()[0]["id"] == q["trace_id"]
+    assert client.get("/api/traces", headers=ADMIN).json()[0]["id"] == q["trace_id"]  # pasted emails are listed for admins only
     assert client.get(f"/api/quotes/{q['id']}").json()["email"]["body"] == f"1 {sku}"
 
 

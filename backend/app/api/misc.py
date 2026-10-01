@@ -9,7 +9,8 @@ from sqlalchemy import select, text
 from sqlalchemy.orm import Session
 
 from ..config import REPORTS_DIR, get_settings
-from ..db import Quote, Trace, get_db
+from ..db import Email, Quote, Trace, get_db
+from .deps import admin_flag
 from ..models import get_registry
 from ..models.teacher import get_teacher
 from ..samples import list_samples
@@ -44,8 +45,12 @@ def samples():
 
 @router.get("/traces")
 def traces(limit: int = Query(50, le=200), offset: int = 0, intent: Optional[str] = None,
-           path: Optional[str] = None, db: Session = Depends(get_db)):
+           path: Optional[str] = None, db: Session = Depends(get_db), is_admin: bool = Depends(admin_flag)):
+    """Public list shows only the demo samples: emails pasted by visitors stay private (reachable only through
+    their own unguessable trace link). Admins see everything."""
     q = select(Trace).order_by(Trace.created_at.desc())
+    if not is_admin:
+        q = q.join(Email, Email.id == Trace.email_id).where(Email.source == "sample")
     if intent:
         q = q.where(Trace.intent == intent)
     if path:

@@ -11,9 +11,10 @@ from ..config import get_settings
 
 
 def client_ip(request: Request) -> str:
-    """Real client IP behind Modal / Vercel proxies."""
+    """Client IP behind the platform proxy. The proxy appends the real peer address LAST; earlier entries are
+    client-supplied and could be forged to dodge the per-IP rate limit, so take the last one."""
     fwd = request.headers.get("x-forwarded-for")
-    return fwd.split(",")[0].strip() if fwd else get_remote_address(request)
+    return fwd.split(",")[-1].strip() if fwd else get_remote_address(request)
 
 
 limiter = Limiter(key_func=client_ip, default_limits=[])

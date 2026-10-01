@@ -25,7 +25,7 @@ export default function TracesPage() {
   return (
     <div className="mx-auto max-w-6xl px-4 py-8">
       <h1 className="text-2xl font-semibold">Traces</h1>
-      <p className="mb-4 text-sm text-muted-foreground">Every processed email keeps a full trace: each step, model call, tool call, token count and cost.</p>
+      <p className="mb-4 text-sm text-muted-foreground">Every processed email keeps a full trace: each step, model call, tool call, token count and cost. This list shows the demo samples; emails you paste stay private and are reachable only from your own quote.</p>
       <ServerStatus state={backend.state} elapsed={backend.elapsed} retry={backend.retry} />
       {error && <p className="text-sm text-destructive">{error}</p>}
       {rows && rows.length === 0 && <p className="text-sm text-muted-foreground">No traces yet. Run an email in the Playground.</p>}
