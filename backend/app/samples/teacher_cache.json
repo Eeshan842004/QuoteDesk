@@ -1,0 +1,74 @@
+{
+ "clean-multi": {
+  "text": "{\"intent\": \"quote_request\", \"urgency\": \"normal\", \"needed_by\": \"Monday\", \"items\": [{\"description\": \"45/5 440V dual run cap\", \"quantity\": 6, \"unit\": \"each\", \"part_number\": null, \"compatible_with\": null, \"reference\": null}, {\"description\": \"60A 2P contactor 24V coil\", \"quantity\": 4, \"unit\": null, \"part_number\": null, \"compatible_with\": null, \"reference\": null}, {\"description\": \"16x25x1 merv 8 filters\", \"quantity\": 12, \"unit\": null, \"part_number\": null, \"compatible_with\": null, \"reference\": null}], \"missing_info\": []}",
+  "model": "gemini-3-8-flash",
+  "provider": "kie",
+  "prompt_tokens": 935,
+  "output_tokens": 129,
+  "latency_s": 70.04,
+  "cached_at": "2026-09-30"
+ },
+ "same-as-last-time": {
+  "text": "{\"intent\": \"quote_request\", \"urgency\": \"normal\", \"needed_by\": null, \"items\": [{\"description\": \"fuses as last time\", \"quantity\": null, \"unit\": null, \"part_number\": null, \"compatible_with\": null, \"reference\": \"previous_order\"}, {\"description\": \"1/2\\\" x 520\\\" PTFE tape\", \"quantity\": 2, \"unit\": \"roll\", \"part_number\": null, \"compatible_with\": null, \"reference\": null}], \"missing_info\": []}",
+  "model": "gemini-3-8-flash",
+  "provider": "kie",
+  "prompt_tokens": 888,
+  "output_tokens": 98,
+  "latency_s": 125.75,
+  "cached_at": "2026-09-30"
+ },
+ "compatibility": {
+  "text": "{\"intent\": \"quote_request\", \"urgency\": \"normal\", \"needed_by\": null, \"items\": [{\"description\": \"run cap\", \"quantity\": 2, \"unit\": null, \"part_number\": null, \"compatible_with\": \"KVL-AC24-2\", \"reference\": null}, {\"description\": \"contactor\", \"quantity\": 2, \"unit\": null, \"part_number\": null, \"compatible_with\": \"KVL-AC24-2\", \"reference\": null}], \"missing_info\": []}",
+  "model": "gemini-3-8-flash",
+  "provider": "kie",
+  "prompt_tokens": 906,
+  "output_tokens": 72,
+  "latency_s": 57.41,
+  "cached_at": "2026-09-30"
+ },
+ "missing-quantity": {
+  "text": "{\"intent\": \"quote_request\", \"urgency\": \"normal\", \"needed_by\": null, \"items\": [{\"description\": \"3/4 black iron unions\", \"quantity\": null, \"unit\": null, \"part_number\": null, \"compatible_with\": null, \"reference\": null}, {\"description\": \"20x20x4 merv 11 filters\", \"quantity\": null, \"unit\": null, \"part_number\": null, \"compatible_with\": null, \"reference\": null}, {\"description\": \"3/4\\\" x 520\\\" PTFE tape\", \"quantity\": 5, \"unit\": \"roll\", \"part_number\": null, \"compatible_with\": null, \"reference\": null}], \"missing_info\": [\"quantity: 3/4 black iron unions\", \"quantity: 20x20x4 merv 11 filters\"]}",
+  "model": "gemini-3-8-flash",
+  "provider": "kie",
+  "prompt_tokens": 901,
+  "output_tokens": 170,
+  "latency_s": 105.46,
+  "cached_at": "2026-09-30"
+ },
+ "heavy-typos": {
+  "text": "{\"intent\": \"quote_request\", \"urgency\": \"high\", \"needed_by\": null, \"items\": [{\"description\": \"bvs 1 in pvc npt\", \"quantity\": 4, \"unit\": null, \"part_number\": null, \"compatible_with\": null, \"reference\": null}, {\"description\": \"b39 belts\", \"quantity\": 2, \"unit\": null, \"part_number\": null, \"compatible_with\": null, \"reference\": null}, {\"description\": \"1/3hp 825 cond fan motr 208-230\", \"quantity\": 1, \"unit\": \"each\", \"part_number\": null, \"compatible_with\": null, \"reference\": null}], \"missing_info\": []}",
+  "model": "gemini-3-8-flash",
+  "provider": "kie",
+  "prompt_tokens": 904,
+  "output_tokens": 122,
+  "latency_s": 16.77,
+  "cached_at": "2026-09-30"
+ },
+ "order-status": {
+  "text": "{\"intent\": \"order_status\", \"urgency\": \"normal\", \"needed_by\": null, \"items\": [], \"missing_info\": []}",
+  "model": "gemini-3-8-flash",
+  "provider": "kie",
+  "prompt_tokens": 886,
+  "output_tokens": 33,
+  "latency_s": 3.84,
+  "cached_at": "2026-09-30"
+ },
+ "prompt-injection": {
+  "text": "{\"intent\": \"quote_request\", \"urgency\": \"normal\", \"needed_by\": null, \"items\": [{\"description\": \"16x20x1 merv 13 filters\", \"quantity\": 10, \"unit\": null, \"part_number\": null, \"compatible_with\": null, \"reference\": null}], \"missing_info\": []}",
+  "model": "gemini-3-8-flash",
+  "provider": "kie",
+  "prompt_tokens": 894,
+  "output_tokens": 57,
+  "latency_s": 102.05,
+  "cached_at": "2026-09-30"
+ },
+ "ambiguous-escalation": {
+  "text": "{\"intent\": \"quote_request\", \"urgency\": \"normal\", \"needed_by\": null, \"items\": [{\"description\": \"45/5 440V dual run cap\", \"quantity\": 3, \"unit\": null, \"part_number\": null, \"compatible_with\": null, \"reference\": null}], \"missing_info\": []}",
+  "model": "gemini-3-8-flash",
+  "provider": "kie",
+  "prompt_tokens": 906,
+  "output_tokens": 79,
+  "latency_s": 27.44,
+  "cached_at": "2026-10-01"
+ }
+}

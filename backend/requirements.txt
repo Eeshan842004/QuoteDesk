@@ -1,0 +1,24 @@
+# QuoteDesk backend (CPU). torch comes from the CPU wheel index (see Dockerfile / modal_app.py).
+fastapi==0.142.2
+uvicorn[standard]==0.54.0
+sse-starlette==3.5.0
+slowapi==0.1.10
+sqlalchemy==2.1.1
+alembic==1.20.0
+psycopg[binary]==3.3.6
+pydantic==2.13.5
+python-dotenv==1.2.3
+httpx==0.28.1
+rapidfuzz==3.14.6
+numpy==2.4.6
+scipy==1.17.1
+# student inference: match the training notebook's transformers pin (official Unsloth Gemma 3 notebook)
+transformers==4.56.2
+peft==0.17.1
+huggingface_hub>=0.34.0,<1.0
+safetensors
+sentencepiece
+# v1.2
+mcp==2.2.0
+kaggle==2.2.4
+hf_xet
